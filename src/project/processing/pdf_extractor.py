@@ -10,11 +10,10 @@ def pdf_to_docling(source: Path) -> str:
     return convertor.convert(str(source)).document
     
 
-def pdf_to_txt(source: Path) -> str:
-    convertor = DocumentConverter()
-    doc = convertor.convert(str(source)).document
+def pdf_export(source: Path, export_fn): # 
+    doc = pdf_to_docling(source)
 
-    return doc.expo()
+    return export_fn(doc)
 
 for file_path in Path.iterdir(source_folder):
     if file_path.name == "data_files.md": 
