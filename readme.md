@@ -1,6 +1,20 @@
 # SAI3 Project
 
-## 1. Branch Management
+## 1. Installation
+
+1. Create virtual envirnoment: python -m venv .venv
+2. Activate environment .venv/Scripts/activate
+3. Donwload necesarry libraries: pip install -r requirements.txt 
+
+### Adding Libraries
+
+If you add new libraries to the project during development, you must update the dependencies list so other users can install them.
+
+The pip freeze command outputs all currently installed packages and their exact version numbers in your active environment.
+
+> pip freeze > requirements.txt 
+
+## 2. Branch Management
 
 ### The Golden Rule
 Never work directly on `main`. `main` must always represent a stable, deployable version of the codebase. Create a new branch for every task.
