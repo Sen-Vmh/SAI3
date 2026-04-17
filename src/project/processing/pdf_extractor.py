@@ -5,11 +5,16 @@ from pathlib import Path
 source_folder = Path("./data/raw/") # These file paths only work if your terminal is active in the root of the project.
 output_folder = Path("./data/processed/")
 
+def pdf_to_docling(source: Path) -> str:
+    convertor = DocumentConverter()
+    return convertor.convert(str(source)).document
+    
+
 def pdf_to_txt(source: Path) -> str:
     convertor = DocumentConverter()
     doc = convertor.convert(str(source)).document
 
-    return doc.export_to_text()
+    return doc.expo()
 
 for file_path in Path.iterdir(source_folder):
     if file_path.name == "data_files.md": 
