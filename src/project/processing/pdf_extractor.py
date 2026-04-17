@@ -7,21 +7,23 @@ source_folder = Path("./data/raw/") # These file paths only work if your termina
 output_folder = Path("./data/processed/")
 
 convertor = DocumentConverter()
-    
-def pdf_to_docling(source: Path):
-    return convertor.convert(str(source)).document
 
 def pdf_export(source: Path, export_fn):
-    doc = pdf_to_docling(source)
+    result = convertor.convert(str(source))
 
-    return export_fn(doc)
+    docling_doc = export_fn(result.document)
+
+    if result.input and result.input._backend:
+        result.input._backend.unload()
+
+    return docling_doc
 
 def confirm_overwrite(path: Path) -> bool:
     if not path.exists():
         return True
     
     while True:
-        choice = input(f"{file_path.name} already exists, do you want to overwrite this file? y/n")
+        choice = input(f"{path.name} already exists, do you want to overwrite this file? y/n")
 
         if choice == "y":
             return True  
