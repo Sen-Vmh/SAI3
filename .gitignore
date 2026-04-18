@@ -1,5 +1,4 @@
-# Exclude data folder except the data guide
-data/
+data/raw/*
 !data/raw/data_files.md
 
 # Byte-compiled / optimized / DLL files
