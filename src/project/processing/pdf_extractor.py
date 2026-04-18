@@ -3,7 +3,7 @@ import os
 from pathlib import Path
 import json
 
-source_folder = Path("./data/raw/") # These file paths only work if your terminal is active in the root of the project.
+source_folder = Path("./data/raw/") # These file paths only work if your terminal is active in the root of the project
 output_folder = Path("./data/processed/")
 
 convertor = DocumentConverter()
