@@ -6,17 +6,16 @@ from docling.datamodel.accelerator_options import AcceleratorDevice, Accelerator
 from pathlib import Path
 import json
 
-pipeline_options = PdfFormatOption(
-            backend=PyPdfiumDocumentBackend,
-            pipeline_options=PdfPipelineOptions(
-                do_table_structure=True,
-                do_cell_matching=False, 
-                accelerator_options = AcceleratorOptions(device = AcceleratorDevice.CUDA)
-            )
-        )
+pipeline_options = PdfPipelineOptions(
+    do_table_structure=True,
+    do_cell_matching=False, 
+    accelerator_options = AcceleratorOptions(device = AcceleratorDevice.CUDA)
+)
 
 convertor = DocumentConverter(  
-    format_options={InputFormat.PDF: PdfFormatOption(pipeline_options=pipeline_options)}  
+    format_options={
+        InputFormat.PDF: PdfFormatOption(pipeline_options=pipeline_options, backend=PyPdfiumDocumentBackend)
+    }  
 )
 
 source_folder = Path("./data/raw/") # These file paths only work if your terminal is active in the root of the project
