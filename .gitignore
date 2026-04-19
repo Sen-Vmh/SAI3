@@ -1,4 +1,3 @@
-# Exclude data folder except the data guide
 data/raw/*
 !data/raw/data_files.md
 
