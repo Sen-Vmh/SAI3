@@ -47,7 +47,10 @@ for file_path in Path.iterdir(source_folder):
     if not confirm_overwrite(output_file):
         continue        
 
-    json_data = export_to_file(file_path, export_dict[export_file_type])
+    result = export_to_file(file_path, export_dict[export_file_type])
     
     with open(output_file, "w", encoding="utf-8") as file:
-        json.dump(json_data, file, indent=2)
+        if export_file_type == "json":
+            json.dump(result, file, indent=2)
+        else:
+            file.write(result)
