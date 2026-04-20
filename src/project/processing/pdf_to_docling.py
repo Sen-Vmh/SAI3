@@ -6,6 +6,8 @@ from docling.datamodel.accelerator_options import AcceleratorDevice, Accelerator
 from pathlib import Path
 import json
 
+from project.utils import confirm_overwrite
+
 pipeline_options = PdfPipelineOptions(
     do_table_structure=True,
     do_cell_matching=False, 
@@ -31,20 +33,6 @@ def pdf_export(source: Path, export_fn):
 
     return docling_doc
 
-def confirm_overwrite(path: Path) -> bool:
-    if not path.exists():
-        return True
-    
-    while True:
-        choice = input(f"{path.name} already exists, do you want to overwrite this file? y/n ")
-
-        if choice == "y":
-            return True  
-        elif choice == "n":
-            print("Skipping file.")
-            return False
-        else:
-            print("Please enter 'y' or 'n'.")
 
 for file_path in Path.iterdir(source_folder):
     if file_path.name == "data_files.md": 
