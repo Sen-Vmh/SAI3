@@ -6,21 +6,38 @@ from docling.datamodel.accelerator_options import AcceleratorDevice, Accelerator
 from pathlib import Path
 import json
 
-from project.utils import confirm_overwrite
+from src.utils import confirm_overwrite
 
-convertor = DocumentConverter()
+pipeline_options = PdfPipelineOptions(
+    do_table_structure=True,
+    do_cell_matching=False, 
+    accelerator_options = AcceleratorOptions(device = AcceleratorDevice.CUDA)
+)
 
-source_folder = Path("./data/processed/json") # These file paths only work if your terminal is active in the root of the project
+convertor = DocumentConverter(  
+    format_options={
+        InputFormat.PDF: PdfFormatOption(pipeline_options=pipeline_options, backend=PyPdfiumDocumentBackend)
+    }  
+)
+
+source_folder = Path("./data/raw/") # These file paths only work if your terminal is active in the root of the project
 output_folder = Path("./data/processed/")
 
-def pdf_export(source: Path, export_fn):# -> Any:
+def pdf_export(source: Path, export_fn):
     result = convertor.convert(str(source))
 
     docling_doc = export_fn(result.document)
 
+    if result.input and result.input._backend:
+        result.input._backend.unload()
+
     return docling_doc
 
-for file_path in Path.iterdir(source_folder):    
+
+for file_path in Path.iterdir(source_folder):
+    if file_path.name == "data_files.md": 
+        continue
+    
     output_file = output_folder / "json" / (file_path.stem + ".json")
 
     print(f"loading file {file_path.stem} at {output_file}")
