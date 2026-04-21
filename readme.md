@@ -2,14 +2,58 @@
 
 ## 1. Installation
 
-1. Sync the virtual environment: uv sync
-2. Activate environment: .venv\Scripts\activate
+1. Sync the virtual environment: `uv sync`
+2. Activate environment: `.venv\Scripts\activate`
+3. Install ChromaDB (not yet in pyproject.toml): `.venv\Scripts\pip install chromadb`
 
 ### Adding Libraries
 
 If you add new libraries to the project during development, you must update the dependencies list so other users can install them.
 
-Use `uv add <package>` to add new dependencies, which will update the pyproject.toml file. 
+Use `uv add <package>` to add new dependencies, which will update the pyproject.toml file.
+
+---
+
+## 2. Services (Docker)
+
+Start Chroma and Ollama:
+```bash
+docker compose up -d
+```
+
+Pull the required models into the Docker Ollama instance:
+```bash
+docker exec ollama ollama pull nomic-embed-text
+docker exec ollama ollama pull llama3.2
+```
+
+Stop services:
+```bash
+docker compose down
+```
+
+---
+
+## 3. Pipeline
+
+All scripts must be run from the project root (`SAI3/`).
+
+### PDF Processing (skip if JSONs already in `data/processed/json/`)
+```bash
+python src/processing/pdf_to_docling.py
+```
+
+### Chunking & Embedding
+```bash
+ollama pull nomic-embed-text
+python src/processing/chunk_and_embed.py
+```
+
+### Run the app
+```bash
+streamlit run src/app.py
+```
+
 
 ## 2. Branch Management
 
