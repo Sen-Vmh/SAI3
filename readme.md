@@ -4,7 +4,6 @@
 
 1. Sync the virtual environment: `uv sync`
 2. Activate environment: `.venv\Scripts\activate`
-3. Install ChromaDB (not yet in pyproject.toml): `.venv\Scripts\pip install chromadb`
 
 ### Adding Libraries
 
