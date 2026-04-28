@@ -1,0 +1,2463 @@
+[
+  {
+    "text": "Nobel Lecture, December 7, 1990\nby\nH ARRY M. MARKOWIT Z\nBaruch College, The City University of New York, New York, USA\nWhen I studied microeconomics forty years ago, I was first taught how optimizing firms and consumers would behave, and then taught the nature of the economic equilibrium which would result from such behavior. Let me refer to this as part one and part two of my microeconomics course. My work on portfolio theory considers how an optimizing investor would behave, whereas the work by Sharpe and Lintner on the Capital Asset Pricing Model (CAPM for short) is concerned with economic equilibrium assuming all investors optimize in the particular manner I proposed. Thus, my work on the one hand, and that of Sharpe and Lintner on the other, provide part one and part two of a microeconomics of capital markets.\nProfessor Sharpe will discuss CAPM, part two of the course, I will confine my remarks to part one, portfolio theory. There are three major ways in which portfolio theory differs from the theory of the firm and the theory of the consumer which I was taught. First, it is concerned with investors rather than manufacturing firms or consumers. Second, it is concerned with economic agents who act under uncertainty. Third, it is a theory which can be used to direct practice, at least by large (usually institutional) investors with sufficient computer and database resources. The fact that it deals with investors rather than producers or consumers needs no further comment. Let me expand on the second and third differences.\nIn my microeconomics course, the theory of the producer assumed that the competitive firm knows the price at which it will sell the goods it produces. In the real world there is a delay between the decision to produce, the time of production and the time of sale. The price of the product at the time of sale may differ from that which was expected when the production decision was made. This uncertainty of eventual sales price is important in actual production planning but, quite reasonably, was ignored in classical economic models. It was judged not essential to the problem at hand.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/1",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 67.88664245605469,
+                "t": 602.3536987304688,
+                "r": 219.00930786132812,
+                "b": 593.773193359375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                31
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/2",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 67.24591827392578,
+                "t": 580.513671875,
+                "r": 75.77880859375,
+                "b": 570.5850830078125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                2
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/3",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 67.83096313476562,
+                "t": 563.0517578125,
+                "r": 194.19601440429688,
+                "b": 556.9067993164062,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/4",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 67.70568084716797,
+                "t": 545.0035400390625,
+                "r": 362.6982727050781,
+                "b": 535.0651245117188,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                62
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/5",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 67.99891662597656,
+                "t": 498.9237976074219,
+                "r": 400.0155334472656,
+                "b": 373.9114990234375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                707
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/6",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 67.75881958007812,
+                "t": 371.0028076171875,
+                "r": 399.91412353515625,
+                "b": 245.7504425048828,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                723
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/7",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 67.81939697265625,
+                "t": 242.84075927734375,
+                "r": 399.7584228515625,
+                "b": 133.3120880126953,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                588
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "FOUNDATIONS OF PORTFOLIO THEORY"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 7331783531632304617,
+        "filename": "markowitz-lecture.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Uncertainty cannot be dismissed so easily in the analysis of optimizing investor behavior. An investor who knew future returns with certainty would invest in only one security, namely the one with the highest future return. If several securities had the same, highest, future return then the investor would be indifferent between any of these, or any combination of these. In no case would the investor actually prefer a diversified portfolio. But diversification is a common and reasonable investment practice. Why?\n280\nTo reduce uncertainty! Clearly, the existence of uncertainty is essential to the analysis of rational investment behavior.\nIn discussing uncertainty below, I will speak as if investors faced known probability distributions. Of course, none of us know probability distributions of security returns. But, I was convinced by Leonard J. Savage, one of my great teachers at the University of Chicago, that a rational agent acting under uncertainty would act according to \"probability beliefs\" where no objective probabilities are known; and these probability beliefs or \"subjective probabilities\" combine exactly as do objective probabilities. This assumed, it is not clear and not relevant whether the probabilities, expected values, etc., I speak of below are for subjective or objective distributions.\nThe basic principles of portfolio theory came to me one day while I was reading John Burr Williams, The Theory of Investment Value. Williams proposed that the value of a stock should equal the present value of its future dividend stream. But clearly dividends are uncertain, so I took Williams' recommendation to be to value a stock as the expected value of its discounted future dividend stream. But if the investor is concerned only with the expected values of securities, the investor must also be only interested in the expected value of the portfolio. To maximize the expected value of a portfolio, one need only invest in one security - the security with maximum expected return (or one such, if several tie for maximum). Thus action based on expected return only (like action based on certainty of the future) must be rejected as descriptive of actual or rational investment behavior.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/8",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 65.59852600097656,
+                "t": 127.16352081298828,
+                "r": 398.641357421875,
+                "b": 40.423919677734375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                516
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/10",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 70.1805191040039,
+                "t": 648.5460205078125,
+                "r": 80.74319458007812,
+                "b": 643.1129150390625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/11",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 70.4774398803711,
+                "t": 628.7634887695312,
+                "r": 401.89471435546875,
+                "b": 606.1051025390625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                122
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/12",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 70.65840911865234,
+                "t": 603.0736694335938,
+                "r": 403.6793518066406,
+                "b": 491.1550598144531,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                676
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/13",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 70.37901306152344,
+                "t": 488.1236267089844,
+                "r": 402.2820129394531,
+                "b": 337.5549621582031,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                891
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "FOUNDATIONS OF PORTFOLIO THEORY"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 7331783531632304617,
+        "filename": "markowitz-lecture.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "It seemed obvious that investors are concerned with risk and return, and that these should be measured for the portfolio as a whole. Variance (or, equivalently, standard deviation), came to mind as a measure of risk of the portfolio. The fact that the variance of the portfolio, that is the variance of a weighted sum, involved all covariance terms added to the plausibility of the approach. Since there were two criteria - expected return and risk - the natural approach for an economics student was to imagine the investor selecting a point from the set of Pareto optimal expected return, variance of return combinations, now known as the efficient frontier. These were the basic elements of portfolio theory which appeared one day while reading Williams.\nIn subsequent months and years I filled in some details; and then others filled in many more. For example in 1956 I published the \"critical line algorithm\" for tracing out the efficient frontier given estimates of expected returns, variances and covariances, for any number of securities subject to various kinds of constraints. In my 1959 book I explored the relationship between my mean-variance analysis and the fundamental theories of action under risk and uncertainty of Von Neumann and Morgenstern and L.J. Savage.\nStarting in the 1960s Sharpe, Blume, Ring, Rosenberg and others greatly clarified the problem of estimating covariances. This past September I attended the Berkeley Program in Finance at which several analysts reported success in using publicly available accounting figures, perhaps combined\nwith security analysts' earnings estimates, to estimate expected returns. I do not mean that their estimates eliminate uncertainty - only that, on the average, securities with higher estimates outperform those with lower estimates.\nSo, equipped with databases, computer algorithms and methods of estimation, the modern portfolio theorist is able to trace out mean-variance frontiers for large universes of securities. But, is this the right thing to do for the investor? In particular, are mean and variance proper and sufficient criteria for portfolio choice?",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/14",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 70.1390151977539,
+                "t": 334.7635192871094,
+                "r": 403.19793701171875,
+                "b": 199.79208374023438,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                757
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/15",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 73.01903533935547,
+                "t": 194.12351989746094,
+                "r": 404.568115234375,
+                "b": 94.66512298583984,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                520
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/16",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 73.22567749023438,
+                "t": 91.8835220336914,
+                "r": 405.1355895996094,
+                "b": 43.54512023925781,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                291
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/19",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 65.35871887207031,
+                "t": 632.12353515625,
+                "r": 397.7160339355469,
+                "b": 586.1920776367188,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                231
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/20",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 65.38823699951172,
+                "t": 580.7634887695312,
+                "r": 398.18743896484375,
+                "b": 519.593017578125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                328
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "FOUNDATIONS OF PORTFOLIO THEORY"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 7331783531632304617,
+        "filename": "markowitz-lecture.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "To help answer this question, let us consider the theory of rational choice under uncertainty. In doing so, let us recall the third way in which portfolio theory is to differ from classical microeconomic theory of the firm or consumer. We seek a set of rules which investors can follow in fact - at least investors with sufficient computational resources. Thus, we prefer an approximate method which is computationally feasible to a precise one which cannot be computed. I believe that this is the point at which Kenneth Arrow's work on the economics of uncertainty diverges from mine. He sought a precise and general solution. I sought as good an approximation as could be implemented. I believe that both lines of inquiry are valuable.\nThe discussion of principles of rational behavior under uncertainty in Part IV of my 1959 book starts with a variant of L. J. Savage's axioms. From such axioms it follows that one should choose a strategy which maximizes expected utility for a many-period game. This, in turn, implies that the investor should act each period so as to maximize the expected value of a single period utility function. This single period utility function may depend on portfolio return and perhaps other state variables. For now, assume that it depends only on portfolio return.\nIn this case, the crucial question is this: if an investor with a particular single period utility function acted only on the basis of expected return and variance, could the investor achieve almost maximum expected utility? Or, to put it another way, if you know the expected value and variance of a probability distribution of return on a portfolio can you guess fairly closely its expected utility?\nA great deal of research has been done on this question, but more is needed. Let me briefly characterize some results, and some open questions. Table 1 is extracted from Levy and Markowitz. The rows of the table represent various utility functions. For example, the first row reports results for U(R) = log(1 + R) where R is the rate of return on the portfolio; the second row reports results for U(R)R = (1 + R) 0.1 , etc., as indicated in the first column of the table. The second through fifth columns of the table represent various sets of historical distributions of returns on portfolios. For example, the second column represents annual returns on 149 investment companies, 1958 - 1967; the third column represents annual returns on 97 stocks, etc.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/21",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 65.46695709228516,
+                "t": 516.6835327148438,
+                "r": 400.14788818359375,
+                "b": 391.5451354980469,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                737
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/22",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 65.51615905761719,
+                "t": 388.7635192871094,
+                "r": 397.75885009765625,
+                "b": 288.82513427734375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                559
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/23",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 65.13839721679688,
+                "t": 286.04351806640625,
+                "r": 397.5954284667969,
+                "b": 212.0251007080078,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                401
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/24",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 67.54822540283203,
+                "t": 209.0034942626953,
+                "r": 399.995361328125,
+                "b": 83.99300384521484,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                736
+              ]
+            },
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 67.78438568115234,
+                "t": 80.8336410522461,
+                "r": 142.1450958251953,
+                "b": 72.25315856933594,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                737,
+                755
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "FOUNDATIONS OF PORTFOLIO THEORY"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 7331783531632304617,
+        "filename": "markowitz-lecture.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "The calculations associated with the second column in effect assume that an investor must choose one out of 149 portfolios, and his probability\nbeliefs concerning returns on these portfolios are the same as historical returns. It is not that we recommend this as a way of forming beliefs; rather, we use this as an example of distributions of returns which occur in fact.\nFor each utility function, and for each of the 149 probability distributions of the second column, we computed its \"expected\" (that is, its mean) utility\n<!-- formula-not-decoded -->\nwhere T is the number of periods in the sample, and R t the rate of return in period t. We also computed various approximations to EU where the approximation depends only on the mean value E and the variance V of the distribution. Of the various approximations tried in Levy-Markowitz the one which did best, almost without exception, was essentially that suggested in Markowitz (1959), namely\n<!-- formula-not-decoded -->\nFor example, if U(R) = log(1 + R),\n<!-- formula-not-decoded -->\nEquation (2) may be thought of as a rule by which, if you know the E and V of a distribution, you can guess at its expected utility. The figures in Table 1 are for the Levy-Markowitz approximation which is essentially (2). The entry in the second column, first row reports that, over the 149 probability distributions, the correlation between EU and f(E, V) was 0.997 for U = log( 1 + r). The remaining entries in the second column similarly show the correlation, over the 149 probability distributions, of EU and f(E, V) for the utility functions tested. In most cases the correlation was extremely high, usually exceeding .99. We will discuss an exceptional case shortly.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/25",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 67.52470397949219,
+                "t": 68.12348175048828,
+                "r": 399.70367431640625,
+                "b": 45.46508026123047,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                143
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/28",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 67.99871826171875,
+                "t": 631.8834838867188,
+                "r": 401.0487365722656,
+                "b": 596.633056640625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                227
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/29",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 68.50439453125,
+                "t": 593.4835205078125,
+                "r": 400.6981201171875,
+                "b": 570.7130126953125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                153
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/30",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 185.0,
+                "t": 554.3333333333334,
+                "r": 400.0323486328125,
+                "b": 538.6666666666666,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                18
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/31",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 68.23872375488281,
+                "t": 527.2435302734375,
+                "r": 400.7720947265625,
+                "b": 452.9851379394531,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                393
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/32",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 155.66666666666669,
+                "t": 444.33333333333337,
+                "r": 400.15643310546875,
+                "b": 432.8135986328125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                29
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/33",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 58.666666666666664,
+                "t": 425.3333333333333,
+                "r": 211.0,
+                "b": 413.6666666666667,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                34
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/34",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 141.0,
+                "t": 406.6666666666667,
+                "r": 400.0323486328125,
+                "b": 394.0730285644531,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                38
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/35",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 68.30760192871094,
+                "t": 386.1235046386719,
+                "r": 400.9686279296875,
+                "b": 273.70513916015625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                673
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "FOUNDATIONS OF PORTFOLIO THEORY"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 7331783531632304617,
+        "filename": "markowitz-lecture.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "The third column shows the correlation between EU and f(E, V) for a sample of annual return on one-stock \"portfolios\". The correlations are clearly less than for the diversified investment company portfolios of the second column. The fourth column again considers undiversified, single stock portfolios, but this time for monthly holding period returns. The correlations are much higher than those of column three, usually as high or higher than those in column two. Thus, for the investor who revises his or her portfolio monthly, even for portfolios whose returns were as variable as those of individual stocks, f(E, V) would be highly correlated with EU for the utility functions considered.\nThe fifth column shows annual holding period returns, now for randomly selected portfolios with 5 or 6 securities each. The correlations are generally quite high again-comparable to those in the second column. Thus, at least, for these probability distributions and most of these utility functions, f(E, V) approximates EU quite well for diversified portfolios, even \"slightly\" diversified portfolios of size 5 and 6.\nNot all expected utility maximizers are equally served by mean -variance approximations. For example, the investor with U=-~C\"('+~) will find\nmean -variance much less satisfactory than others presented in Table 1. Levy and Markowitz have two observations concerning an expected utility maximizer with U = -e -10(1 +R)\nThe first observation is that an investor who had -e-I(1 + R as his or her utility function would have some very strange preferences among probabilities of return.Reasonably enough,he or she would not insist on certainty of return.For example,the investor would prefer (a)a 50-50 chance of a 5 ( with certainty.On the other hand there is no R which would induce the investor to take (a) a 50-50 chance of zero return (no gain, no loss) vs. a gain of R rather than have (b) a 10 percent return with certainty. Thus, a 50-50 chance of breaking even vs. a 100,000 percent return, would be considered less desirable than a 10 percent return with certainty.We believed that few if any investors had preferences anything like these.\n",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/36",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 68.30760192871094,
+                "t": 270.92352294921875,
+                "r": 400.8439636230469,
+                "b": 145.5450897216797,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                694
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/37",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 69.94823455810547,
+                "t": 143.2434844970703,
+                "r": 402.5132751464844,
+                "b": 69.35301208496094,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                417
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/38",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 70.16471862792969,
+                "t": 66.43364715576172,
+                "r": 401.6697998046875,
+                "b": 43.67300796508789,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                141
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/40",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 60.475606282552086,
+                "t": 637.3442535400391,
+                "r": 395.8719482421875,
+                "b": 601.7600809733073,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                175
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/41",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 60.475606282552086,
+                "t": 601.0554402669271,
+                "r": 398.3048502604167,
+                "b": 458.36641438802087,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                726
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/42",
+          "parent": {
+            "cref": "#/tables/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 61.518290201822914,
+                "t": 434.7610677083333,
+                "r": 316.97560628255206,
+                "b": 423.8391927083333,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                78
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "FOUNDATIONS OF PORTFOLIO THEORY"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 7331783531632304617,
+        "filename": "markowitz-lecture.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Table 1. Correlation Between EU and f(E, V) for Four Historical Distributiones\nLog (1 + R), on 149 Mutual Funds = 0.997. Log (1 + R), Annual Retums Annual Retums on 97 Stocks* = 0.880. Log (1 + R), on 97 Stocks* = 0.995. Log (1 + R), MonthlyReturmsRandomPortfolio of 5 or 6 Stocks = 0.998. (1+R), on 149 Mutual Funds = . (1+R), Annual Retums Annual Retums on 97 Stocks* = . (1+R), on 97 Stocks* = . (1+R), MonthlyReturmsRandomPortfolio of 5 or 6 Stocks = . a=0.1, on 149 Mutual Funds = 0.998. a=0.1, Annual Retums Annual Retums on 97 Stocks* = 0.895. a=0.1, on 97 Stocks* = 0.9%. a=0.1, MonthlyReturmsRandomPortfolio of 5 or 6 Stocks = 0.998. a=0.3, on 149 Mutual Funds = 0.999. a=0.3, Annual Retums Annual Retums on 97 Stocks* = 0.932. a=0.3, on 97 Stocks* = 0.998. a=0.3, MonthlyReturmsRandomPortfolio of 5 or 6 Stocks = 0.999. \u5e740.5, on 149 Mutual Funds = 6660. \u5e740.5, Annual Retums Annual Retums on 97 Stocks* = 0.968. \u5e740.5, on 97 Stocks* = 6660. \u5e740.5, MonthlyReturmsRandomPortfolio of 5 or 6 Stocks = 6660. a=0.7, on 149 Mutual Funds = 0.999. a=0.7, Annual Retums Annual Retums on 97 Stocks* = 0.991. a=0.7, on 97 Stocks* = 0.999. a=0.7, MonthlyReturmsRandomPortfolio of 5 or 6 Stocks = 0.999. a=0.9, on 149 Mutual Funds = 0.999. a=0.9, Annual Retums Annual Retums on",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/tables/0",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [
+            {
+              "cref": "#/texts/42"
+            },
+            {
+              "cref": "#/texts/43"
+            },
+            {
+              "cref": "#/texts/44"
+            },
+            {
+              "cref": "#/texts/45"
+            },
+            {
+              "cref": "#/texts/46"
+            }
+          ],
+          "content_layer": "body",
+          "meta": null,
+          "label": "table",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 60.940162658691406,
+                "t": 421.8709716796875,
+                "r": 397.57989501953125,
+                "b": 217.7369384765625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "FOUNDATIONS OF PORTFOLIO THEORY"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 7331783531632304617,
+        "filename": "markowitz-lecture.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "\n 97 Stocks* = 0.999. a=0.9, on 97 Stocks* = 0.999. a=0.9, MonthlyReturmsRandomPortfolio of 5 or 6 Stocks = 0.999. eb(l+B, on 149 Mutual Funds = . eb(l+B, Annual Retums Annual Retums on 97 Stocks* = . eb(l+B, on 97 Stocks* = . eb(l+B, MonthlyReturmsRandomPortfolio of 5 or 6 Stocks = . b= 0.1, on 149 Mutual Funds = 0.999. b= 0.1, Annual Retums Annual Retums on 97 Stocks* = 0.999. b= 0.1, on 97 Stocks* = 0.999. b= 0.1, MonthlyReturmsRandomPortfolio of 5 or 6 Stocks = 0.999. b = 0.5, on 149 Mutual Funds = 0.999. b = 0.5, Annual Retums Annual Retums on 97 Stocks* = 0.961. b = 0.5, on 97 Stocks* = 0.999. b = 0.5, MonthlyReturmsRandomPortfolio of 5 or 6 Stocks = 0.999. b= 1.0, on 149 Mutual Funds = 0.997. b= 1.0, Annual Retums Annual Retums on 97 Stocks* = 0.850. b= 1.0, on 97 Stocks* = 0.997. b= 1.0, MonthlyReturmsRandomPortfolio of 5 or 6 Stocks = 0.998. b =3.0, on 149 Mutual Funds = 0.949. b =3.0, Annual Retums Annual Retums on 97 Stocks* = 0.850. b =3.0, on 97 Stocks* = 0.976. b =3.0, MonthlyReturmsRandomPortfolio of 5 or 6 Stocks = 0.958. b =5.0, on 149 Mutual Funds = 0.855. b =5.0, Annual Retums Annual Retums on 97 Stocks* = 0.863. b =5.0, on 97 Stocks* = 1960. b =5.0, MonthlyReturmsRandomPortfolio of 5 or 6 Stocks =",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/tables/0",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [
+            {
+              "cref": "#/texts/42"
+            },
+            {
+              "cref": "#/texts/43"
+            },
+            {
+              "cref": "#/texts/44"
+            },
+            {
+              "cref": "#/texts/45"
+            },
+            {
+              "cref": "#/texts/46"
+            }
+          ],
+          "content_layer": "body",
+          "meta": null,
+          "label": "table",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 60.940162658691406,
+                "t": 421.8709716796875,
+                "r": 397.57989501953125,
+                "b": 217.7369384765625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "FOUNDATIONS OF PORTFOLIO THEORY"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 7331783531632304617,
+        "filename": "markowitz-lecture.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": " 0.919. b =10.0, on 149 Mutual Funds = 0.449. b =10.0, Annual Retums Annual Retums on 97 Stocks* = 0.659. b =10.0, on 97 Stocks* = 0.899. b =10.0, MonthlyReturmsRandomPortfolio of 5 or 6 Stocks = 0.768\n",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/tables/0",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [
+            {
+              "cref": "#/texts/42"
+            },
+            {
+              "cref": "#/texts/43"
+            },
+            {
+              "cref": "#/texts/44"
+            },
+            {
+              "cref": "#/texts/45"
+            },
+            {
+              "cref": "#/texts/46"
+            }
+          ],
+          "content_layer": "body",
+          "meta": null,
+          "label": "table",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 60.940162658691406,
+                "t": 421.8709716796875,
+                "r": 397.57989501953125,
+                "b": 217.7369384765625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/49",
+          "parent": {
+            "cref": "#/tables/1"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 68.70648193359375,
+                "t": 632.37646484375,
+                "r": 283.3000183105469,
+                "b": 625.1771850585938,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                63
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "FOUNDATIONS OF PORTFOLIO THEORY"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 7331783531632304617,
+        "filename": "markowitz-lecture.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Table 2. Quadratic Approximation to Two Utility Functions E = I\n- .30, log(1 + R) = -.35667. - .30, QL (R) = -.33444. - .30, L = -.02223. - .30, -1000e-10(1+R) = -.91188. - .30, QE(R) = -.21712. - .30, E = -.69476. -.20, log(1 + R) = -.22314. -.20, QL (R) = -.21461. -.20, L = -.00854. -.20, -1000e-10(1+R) = -.33546. -.20, QE(R) = -.14196. -.20, E = -.14950. -.10, log(1 + R) = -.10536. -.10, QL (R) = -.10304. -.10, L = -.00232. -.10, -1000e-10(1+R) = -.12341. -.10, QE(R) = -.08351. -.10, E = -.03990. 00, log(1 + R) = .00000. 00, QL (R) = .00027. 00, L = -.00027. 00, -1000e-10(1+R) = -.04540. 00, QE(R) = -.04175. 00, E = -.00365. .10, log(1 + R) = .09531. .10, QL (R) = .09531. .10, L = .00000. .10, -1000e-10(1+R) = -.01670. .10, QE(R) = -.01670. .10, E = .00000. .20, log(1 + R) = .18232. .20, QL (R) = .18209. .20, L = .00023. .20, -1000e-10(1+R) = -.00614. .20, QE(R) =",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/tables/1",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [
+            {
+              "cref": "#/texts/49"
+            }
+          ],
+          "content_layer": "body",
+          "meta": null,
+          "label": "table",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 66.72509002685547,
+                "t": 621.3777542114258,
+                "r": 401.9604187011719,
+                "b": 490.7959747314453,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "FOUNDATIONS OF PORTFOLIO THEORY"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 7331783531632304617,
+        "filename": "markowitz-lecture.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": " -.00835. .20, E = .00221. .30, log(1 + R) = .26236. .30, QL (R) = .26060. .30, L = .00176. .30, -1000e-10(1+R) = -.00226. .30, QE(R) = -.01670. .30, E = .01444. .40, log(1 + R) = .33647. .40, QL (R) = .33085. .40, L = .00563. .40, -1000e-10(1+R) = -.00083. .40, QE(R) = -.04175. .40, E = .04092. .50, log(1 + R) = .40546. .50, QL (R) = .39283. .50, L = .01263. .50, -1000e-10(1+R) = -.00031. .50, QE(R) = -.08351. .50, E = .08320. .60, log(1 + R) = .47000. .60, QL (R) = .44655. .60, L = .02345. .60, -1000e-10(1+R) = -.00011. .60, QE(R) = -.14196. .60, E = .14185\nA second observation was that even if some unusual investor did have the utility function in question, such an investor could determine in advance that f(E, V) was not a good approximation for this EU. Table 2 shows the difference between U(R) and the Taylor approximation upon which (2) is based, namely,\n<!-- formula-not-decoded -->",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/tables/1",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [
+            {
+              "cref": "#/texts/49"
+            }
+          ],
+          "content_layer": "body",
+          "meta": null,
+          "label": "table",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 66.72509002685547,
+                "t": 621.3777542114258,
+                "r": 401.9604187011719,
+                "b": 490.7959747314453,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/50",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 67.01575469970703,
+                "t": 461.7235107421875,
+                "r": 399.72467041015625,
+                "b": 400.4251403808594,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                305
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/51",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 128.33333333333334,
+                "t": 394.0,
+                "r": 397.8270263671875,
+                "b": 381.4391784667969,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                37
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "FOUNDATIONS OF PORTFOLIO THEORY"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 7331783531632304617,
+        "filename": "markowitz-lecture.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "for U = log( 1 + R) and U = - 1000e -10(1+R) , for E = . 10. For the various R listed in the first column, the second through fourth columns show U(R), Q(R) and A(R) = U(R)-Q(R) for log(1 + R); the following three columns show the same for - 1000e -1O(l+R) . Since the choices implied by a utility function are unaffected by multiplying it by a positive constant, it is not the magnitude of the A(R)s which are important. Rather, it is the variation in A(R) as compared to that in U(R). For example, Levy and Markowitz present a lower bound on the correlation between U(R) and f(E, V) as a function of the standard deviations of U and A. As we see in the table, as log(1 + R) goes from -.357 at R= -.30 to .470 at R= .60, 1 A 1 never exceeds .024. In contrast, as - 1000e -10(l+R) goes from - .912 to - .000l, 1 A ( often exceeds .03 and has a maximum of -.695. 1 Thus, if an investor had U= -e-'\"('+R) as a utility function, a comparison of U(R), Q(R) and A(R) would provide ample warning that mean-variance is not suitable.\nLevy and Markowitz present other empirical results. They also explain the difference between assuming that an investor has a quadratic utility function versus using a quadratic approximation to a given utility function to develop an f(E, V) approximation, such as that in (2). In particular, they show that f(E, V) in (2) is not subject to the Arrow, Pratt objection to a quadratic utility function, that it has increasing risk aversion. Indeed, Levy and Markowitz show that a large class of f(E, V) approximations, including\n1 Among the 149 mutual funds, those with E near . 10 all had annual returns between a 30% loss and a 60% gain. Specifically, 64 distributions had .081 E I.12 and all had returns within the range indicated.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/52",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 66.90696716308594,
+                "t": 372.9805908203125,
+                "r": 399.8270568847656,
+                "b": 185.632080078125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                1025
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/53",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 67.7844009399414,
+                "t": 167.00350952148438,
+                "r": 400.27935791015625,
+                "b": 80.50511169433594,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                525
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/54",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "footnote",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 67.79827117919922,
+                "t": 73.32240295410156,
+                "r": 399.1002502441406,
+                "b": 42.886558532714844,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                205
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "FOUNDATIONS OF PORTFOLIO THEORY"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 7331783531632304617,
+        "filename": "markowitz-lecture.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "(2), have the same risk aversion in the small as does the original EU maximizer.\nI will not recount here these further Levy and Markowitz results, nor will I go into important results of many others. Chapter 3 of Markowitz (1987) includes a survey of the area up to that time. I will, however, briefly note results in two important unpublished papers.\nLevy and Markowitz measure the efficacy of f(E, V) by the correlation between it and EU. Y. Simaan defines the optimization premium to be the percent the investor would be just willing to pay out of the portfolio for the privilege of choosing the true EU maximizing portfolio rather than being confined to the mean-variance \"second best\". The reason for performing a mean-variance analysis in fact, rather than a theoretically correct expected utility analysis, is convenience, cost or feasibility. It is typically much more expensive to find a utility maximizing portfolio than to trace out an entire mean-variance frontier. The data requirements for an expected utility analysis can substantially exceed those of a mean-variance analysis, since estimates of first and second moments generally are not sufficient for the former. Finally, there is the problem of determining the investor's utility function. Simaan's criteria measures the worth, as a percent of the portfolio, paid out of the portfolio, of incurring the added expenses of finding an EU maximizing portfolio. He solves for this optimization premium analytically under certain assumptions.\nL. Ederington evaluates EU approximations using thousands of synthetic time series generated by randomly selecting from actual time series. He evaluates approximations like (2), except that they use the first three or four moments, as well as (2) that uses the first two. It is all very well to point out theoretically that more moments are better than fewer. The practical question is: how much?\nEderington finds, as did Levy and Markowitz, that for some utility functions the mean-variance approximation is so good that there is virtually no room for improvement. Where the mean-variance approximation falters, Ederington finds that typically three moments provides little improvement to the approximation whereas four moments improves the approximation considerably.\nDespite noteworthy results reported above, and many more that I have not described here, there is much to be done. Three examples will illustrate the need.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/57",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 67.1551513671875,
+                "t": 632.603515625,
+                "r": 398.1739807128906,
+                "b": 612.5723876953125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                80
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/58",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 67.19615936279297,
+                "t": 607.1635131835938,
+                "r": 399.1143493652344,
+                "b": 558.9530639648438,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                270
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/59",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 66.5882339477539,
+                "t": 556.0435791015625,
+                "r": 399.3193664550781,
+                "b": 354.34521484375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                1154
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/60",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 66.44664001464844,
+                "t": 351.5635986328125,
+                "r": 398.67181396484375,
+                "b": 280.4321594238281,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                396
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/61",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 67.11743927001953,
+                "t": 274.76361083984375,
+                "r": 399.86932373046875,
+                "b": 200.26510620117188,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                372
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/62",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 67.31807708740234,
+                "t": 197.7235107421875,
+                "r": 398.828369140625,
+                "b": 164.51206970214844,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                155
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "FOUNDATIONS OF PORTFOLIO THEORY"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 7331783531632304617,
+        "filename": "markowitz-lecture.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "First, all the experimentation and analysis to date give us a rather spotty account of where mean-variance serves well and where it falters. Perhaps it is possible to develop a more systematic characterization of the utility functions and distributions for which the mean-variance approximation is good, bad and marginal.\nSecond, suppose that the investor has a utility function for which meanvariance provides a close approximation, but the investor does not know precisely what is his or her utility function. In this case, the investor need not determine his or her utility function to obtain a near optimum portfo-\nlio. The investor need only pick carefully from the (one-dimensional) curve of efficient EV combinations in the two dimensional EV space. To pursue a similar approach when four moments are required, the investor must pick carefully from a three-dimensional surface in a four-dimensional space. This raises serious operational problems in itself, even if we overcome computational problems due to the nonconvexity of sets of portfolios with given third moment or better.\nBut perhaps there is an alternative. Perhaps some other measure of portfolio risk will serve in a two parameter analysis for some of the utility functions which are a problem to variance. For example, in Chapter 9 of Markowitz (1959) I propose the \"semi-variance\" S as a measure of risk where where c = E(R) or c is a constant independent of choice of portfolio. Semivariance seems more plausible than variance as a measure of risk, since it is concerned only with adverse deviations. But, as far as I know, to date no one has determined whether there is a substantial class of utility functions for which mean-semi-variance succeeds while mean-variance fails to provide an adequate approximation to EU.\nThird, in general the derived, single period utility functions can contain state-variables in addition to return (or end of period wealth). Expected utility, in this case, can be estimated from return and state-variable means, variances and covariances, provided that utility is approximately quadratic in the relevant region. (Recall the Levy-Markowitz analysis of quadratic utility versus quadratic approximation in the relevant region.) To my knowledge, no one has investigated such quadratic approximation for cases in which state-variables other than portfolio value are needed in practice.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/63",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 67.52471923828125,
+                "t": 159.32350158691406,
+                "r": 399.8646545410156,
+                "b": 98.26510620117188,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                321
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/64",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 67.29839324951172,
+                "t": 95.2435073852539,
+                "r": 399.7679748535156,
+                "b": 46.90510559082031,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                296
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/67",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 68.55744171142578,
+                "t": 629.4835205078125,
+                "r": 401.294677734375,
+                "b": 542.9851684570312,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                469
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/68",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 68.4743423461914,
+                "t": 540.20361328125,
+                "r": 401.26959228515625,
+                "b": 481.7920837402344,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                292
+              ]
+            },
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 68.47872161865234,
+                "t": 450.6835021972656,
+                "r": 400.69903564453125,
+                "b": 377.03302001953125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                293,
+                703
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/69",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 67.99872589111328,
+                "t": 374.1235046386719,
+                "r": 401.01031494140625,
+                "b": 275.03302001953125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                595
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "FOUNDATIONS OF PORTFOLIO THEORY"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 7331783531632304617,
+        "filename": "markowitz-lecture.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "In sum, it seems to me that the theory of rational behavior under uncertainty can continue to provide insights as to which practicable procedures provide near optimum results. In particular, it can further help evaluate the adequacy of mean and variance, or alternate practical measures, as criteria.\nFinally, I would like to add a comment concerning portfolio theory as a part of the microeconomics of action under uncertainty. It has not always been considered so. For example, when I defended my dissertation as a student in the Economics Department of the University of Chicago, Professor Milton Friedman argued that portfolio theory was not Economics, and that they could not award me a Ph.D. degree in Economics for a dissertation which was not in Economics. I assume that he was only half serious, since they did award me the degree without long debate. As to the merits of his arguments, at this point I am quite willing to concede: at the time I defended my dissertation, portfolio theory was not part of Economics. But now it is.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/70",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 70.75680541992188,
+                "t": 271.16351318359375,
+                "r": 402.7236022949219,
+                "b": 211.45318603515625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                300
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/71",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 70.63872528076172,
+                "t": 207.32350158691406,
+                "r": 403.13409423828125,
+                "b": 72.35208129882812,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                738
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "FOUNDATIONS OF PORTFOLIO THEORY"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 7331783531632304617,
+        "filename": "markowitz-lecture.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "- Arrow, K. (1965), Aspects of the Theory of Risk Bearing, Helsinki.\n- Blume, M. (1971), \"On the assessment of risk\", Journal of Finance, March.\n- Ederington, L. H. (1986), \"Mean-variance as an approximation of expected utility maximization\", Working Paper 86 - 5, School of Business Administration, Washington University, St. Louis, Missouri.\n- King, B. F. (1966), \"Market and industry factors in stock price behavior\", Journal of Business, January Supplement.\n- Levy, H. and Markowitz, H.M. (1979), \"Approximating expected utility by a function of mean and variance\", American Economic Review, June.\n- Lintner, J. (1965), \"The valuation of risk assets and the selection of risky investments in stock portfolios and capital budgets\", Review of Economics and Statistics, February.\n- Markowitz, H. M. (1952), \"Portfolio selection\", The Journal of Finance, March.\n- Markowitz, H. M. (1956), \"The optimization of a quadratic function subject to linear constraints\", Naval Research Logistics Quarterly, 3.\n- Markowitz, H. M. (1959), Portfolio Selection: Efficient Diversification. of Investments, Wiley, Yale University Press, 1970, Basil Blackwell, 1991.\n- Markowitz, H. M. (1987), Mean-Variance Analysis in Portfolio Choice and Capital Markets, Basil Blackwell, paperback edition, Basil Blackwell, 1990.\n- Pratt, J. W. (1964), \"Risk aversion in the small and in the large\", Econometrica.\n- Rosenberg, B. (1974), \"Extra-market components of covariance in security returns\", Journal of Financial and Quantitative Analysis, March.\n- Savage, L. J. (1954), The Foundations of Statistics, Wiley; 2nd ed., Dover, 1972.\n- Sharpe, W. F. (1963), \"A simplified model for portfolio analysis\", Management Science, January.\n- Sharpe, W. F. (1964), \"Capital asset prices: a theory of market equilibrium under conditions of risk\", The Journal of Finance, September.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/75",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 69.90215301513672,
+                "t": 615.28271484375,
+                "r": 315.5734558105469,
+                "b": 607.2108154296875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                66
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/76",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 69.98209381103516,
+                "t": 604.7227172851562,
+                "r": 361.4023132324219,
+                "b": 596.6508178710938,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                73
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/77",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 70.25758361816406,
+                "t": 594.1627197265625,
+                "r": 401.732421875,
+                "b": 564.4908447265625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                196
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/78",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 70.46206665039062,
+                "t": 562.0027465820312,
+                "r": 405.0081481933594,
+                "b": 543.370849609375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                115
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/79",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 70.49755859375,
+                "t": 541.1227416992188,
+                "r": 402.0045471191406,
+                "b": 522.6859741210938,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                137
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/80",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 70.49754333496094,
+                "t": 519.5227661132812,
+                "r": 401.9995422363281,
+                "b": 487.9308166503906,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                176
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/81",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 70.4620361328125,
+                "t": 487.6027526855469,
+                "r": 378.16229248046875,
+                "b": 479.53082275390625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                78
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/82",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 70.4620590209961,
+                "t": 477.0427551269531,
+                "r": 401.6399841308594,
+                "b": 458.775634765625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                137
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/83",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 70.46205139160156,
+                "t": 455.6827697753906,
+                "r": 397.6338195800781,
+                "b": 437.05084228515625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                147
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/84",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 70.70203399658203,
+                "t": 434.5627746582031,
+                "r": 402.2062683105469,
+                "b": 415.9486083984375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                147
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/85",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 70.46204376220703,
+                "t": 413.2027893066406,
+                "r": 375.4552307128906,
+                "b": 405.130859375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/86",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 70.7109146118164,
+                "t": 402.6427917480469,
+                "r": 401.6102294921875,
+                "b": 384.0108642578125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                137
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/87",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 70.8705062866211,
+                "t": 381.2828063964844,
+                "r": 377.1939697265625,
+                "b": 373.21087646484375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/88",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 70.87052154541016,
+                "t": 370.9627990722656,
+                "r": 399.71356201171875,
+                "b": 351.8508605957031,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                95
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/89",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 70.8705062866211,
+                "t": 349.36279296875,
+                "r": 402.3811340332031,
+                "b": 330.7308654785156,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                137
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "REFERENCES"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 7331783531632304617,
+        "filename": "markowitz-lecture.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "- Simaan, Y. (1987), \"Portfolio selection and capital asset pricing for a class of nonspherical distributions of assets returns\", dissertation, Baruch College, The City University of New York.\n- A. Wiesenberger and Company, Investment Companies, New York, annual editions.\n- Von Neumann, J., and Morgenstern, O . (1944), Theory of Games and Economic Behavior, 3rd edition, Princeton University Press, 1953.\n- Williams, J. B. (1938), The Theory of Investment Value, Harvard University Press, Cambridge, Massachusetts.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/90",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 70.87052154541016,
+                "t": 328.0028076171875,
+                "r": 402.520263671875,
+                "b": 298.8108825683594,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                190
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/91",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 70.14212036132812,
+                "t": 296.08282470703125,
+                "r": 392.7948303222656,
+                "b": 288.0108947753906,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                77
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/92",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 70.3910140991211,
+                "t": 285.7628173828125,
+                "r": 401.5880432128906,
+                "b": 266.8908996582031,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                131
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/93",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 70.4354248046875,
+                "t": 264.162841796875,
+                "r": 400.92889404296875,
+                "b": 245.5309295654297,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                107
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "REFERENCES"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 7331783531632304617,
+        "filename": "markowitz-lecture.pdf",
+        "uri": null
+      }
+    }
+  }
+]
