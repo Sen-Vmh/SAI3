@@ -2,6 +2,7 @@ from docling_core.types import DoclingDocument
 from docling_core.transforms.chunker import HybridChunker
 from docling_core.transforms.chunker.tokenizer.huggingface import HuggingFaceTokenizer
 from pathlib import Path
+import json
 import requests
 import chromadb
 import os
@@ -59,6 +60,11 @@ for json_file in json_folder.glob("*.json"):
 
     doc = DoclingDocument.model_validate_json(json_file.read_text(encoding="utf-8"))
     chunks = list(chunker.chunk(dl_doc=doc))
+
+    # Save chunks to file for inspection/debugging
+    with open(json_file.parent.parent / "chunks" / f"{json_file.stem}_chunks.json", "w", encoding="utf-8") as f:
+        json_chunks = [chunk.model_dump() for chunk in chunks]
+        f.write(json.dumps(json_chunks, indent=2))
 
     ids, embeddings, documents, metadatas = [], [], [], []
 

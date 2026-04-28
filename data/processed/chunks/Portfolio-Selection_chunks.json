@@ -1,0 +1,4119 @@
+[
+  {
+    "text": "Harry Markowitz\nThe Journal of Finance, Vol. 7, No. 1. (Mar., 1952), pp. 77-91.\nStable URL:\nhttp://links.jstor.org/sici?sici=0022-1082%28195203%297%3A1%3C77%3APS%3E2.0.CO%3B2-1\nThe Journal of Finance is currently published by American Finance Association.\nYour use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at http://www.jstor.org/about/terms.html. JSTOR's Terms and Conditions of Use provides, in part, that unless you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you may use content in the JSTOR archive only for your personal, non-commercial use.\nPlease contact the publisher regarding any further use of this work. Publisher contact information may be obtained at http://www.jstor.org/journals/afina.html .\nEach copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed page of such transmission.\nThe JSTOR Archive is a trusted digital repository providing for long-term preservation and access to leading academic journals and scholarly literature from around the world. The Archive is supported by libraries, scholarly societies, publishers, and foundations. It is an initiative of JSTOR, a not-for-profit organization with a mission to help the scholarly community take advantage of advances in technology. For more information regarding JSTOR, please contact support@jstor.org.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/1",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 79.40299987792969,
+                "t": 637.9320068359375,
+                "r": 162.64700317382812,
+                "b": 627.0239868164062,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                15
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/2",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 80.03899383544922,
+                "t": 609.531982421875,
+                "r": 381.9830017089844,
+                "b": 598.6239624023438,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                63
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/3",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 43.829002380371094,
+                "t": 580.7440185546875,
+                "r": 92.64900207519531,
+                "b": 573.6539916992188,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                11
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/4",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 43.259002685546875,
+                "t": 566.5540161132812,
+                "r": 445.948974609375,
+                "b": 557.4539794921875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                84
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/5",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 43.89900207519531,
+                "t": 539.7100219726562,
+                "r": 366.6189880371094,
+                "b": 530.6199951171875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                78
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/6",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 43.17900085449219,
+                "t": 467.7099914550781,
+                "r": 547.22900390625,
+                "b": 425.6199951171875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                421
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/7",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 43.259002685546875,
+                "t": 412.7099914550781,
+                "r": 510.90899658203125,
+                "b": 392.6199951171875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                160
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/8",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 43.17900085449219,
+                "t": 379.7099914550781,
+                "r": 540.6389770507812,
+                "b": 359.6199951171875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                149
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/9",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 42.439002990722656,
+                "t": 313.7099914550781,
+                "r": 549.8290405273438,
+                "b": 271.6199951171875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                484
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Portfolio Selection"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14291046459640389264,
+        "filename": "Portfolio_Selection.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "The Rand Corporation\nTHEPROCESS OF SELECTING a portfolio may be divided into two stages. The first stage starts with observation and experience and ends with beliefs about the future performances of available securities. The second stage starts with the relevant beliefs about future performances and ends with the choice of portfolio. This paper is concerned with the second stage. We first consider the rule that the investor does (or should) maximize discounted expected, or anticipated, returns. This rule is rejected both as a hypothesis to explain, and as a maximum to guide investment behavior. We next consider the rule that the investor does (or should) consider expected return a desirable thing and variance of return an undesirable thing. This rule has many sound points, both as a maxim for, and hypothesis about, investment behavior. We illustrate geometrically relations between beliefs and choice of portfolio according to the \"expected returns-variance of returns\" rule.\nOne type of rule concerning choice of portfolio is that the investor does (or should) maximize the discounted (or capitalized) value of future returns.l Since the future is not known with certainty, it must be \"expected\" or \"anticipatded7' returns which we discount. Variations of this type of rule can be suggested. Following Hicks, we could let \"anticipated\" returns include an allowance for risk.2 Or, we could let the rate at which we capitalize the returns from particular securities vary with risk.\nThe hypothesis (or maxim) that the investor does (or should) maximize discounted return must be rejected. If we ignore market imperfections the foregoing rule never implies that there is a diversified portfolio which is preferable to all non-diversified portfolios. Diversification is both observed and sensible; a rule of behavior which does not imply the superiority of diversification must be rejected both as a hypothesis and as a maxim.\n* This paper is based on work done by the author while at the Cowles Commission for Research in Economics and with the financial assistance of the Social Science Research Council. It will be reprinted as Cowles Commission Paper, New Series, No. 60.\n1. See, for example, J.B. Williams, The Theory of Investment Value (Cambridge, Mass.: Harvard University Press, 1938), pp. 55-75.\n2. J. R. Hicks, Val~eand Capital (New York: Oxford University Press, 1939), p. 126. Hicks applies the rule to a firm rather than a portfolio.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/14",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 158.9947967529297,
+                "t": 524.231689453125,
+                "r": 235.5509033203125,
+                "b": 516.29541015625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/15",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 38.96891784667969,
+                "t": 504.1073303222656,
+                "r": 356.6815185546875,
+                "b": 338.002197265625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                966
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/16",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 41.03278350830078,
+                "t": 335.8712463378906,
+                "r": 357.975830078125,
+                "b": 241.75901794433594,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                504
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/17",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 41.246402740478516,
+                "t": 239.88075256347656,
+                "r": 358.4093933105469,
+                "b": 157.5275421142578,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                441
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/18",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 41.40774154663086,
+                "t": 152.818603515625,
+                "r": 355.5146484375,
+                "b": 126.82710266113281,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                248
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/19",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "footnote",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 41.66341781616211,
+                "t": 122.95159912109375,
+                "r": 354.43194580078125,
+                "b": 106.8916015625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                129
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/20",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "footnote",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 41.65299606323242,
+                "t": 102.79170227050781,
+                "r": 356.0588684082031,
+                "b": 86.74870300292969,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                141
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "HARRYMARKOWITZ"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14291046459640389264,
+        "filename": "Portfolio_Selection.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "The foregoing rule fails to imply diversification no matter how the anticipated returns are formed; whether the same or different discount rates are used for different securities; no matter how these discount rates are decided upon or how they vary over time.3 The hypothesis implies that the investor places all his funds in the security with the greatest discounted value. If two or more securities have the same value, then any of these or any combination of these is as good as any other.\nWe can see this analytically: suppose there are N securities; let ritbe the anticipated return (however decided upon) at time t per dollar invested in security i; let djt be the rate at which the return on the ilk security at time t is discounted back to the present; let Xi be the relative amount invested in security i. We exclude short sales, thus Xi 2 0 for all i. Then the discounted anticipated return of the portfolio is\n<!-- formula-not-decoded -->\nR = ZXiRi where Ri is independent of Xi. Since Xi 2 0 for all i and ZXi = 1, R is a weighted average of Ri with the Xi as non-negative weights. To maximize R, we let Xi = 1 for i with maximum Ri. If several Ra,, a = 1, . . . , , K are maximum then any allocation with\n<!-- formula-not-decoded -->\nmaximizes R. In no case is a diversified portfolio preferred to all nondiversified poitfolios.\nIt will be convenient at this point to consider a static model. Instead of speaking of the time series of returns from the ithsecurity (ril, ri2) . . . , , rit, . . .) we will speak of \"the flow of returns\" (ri) from the ithsecurity. The flow of returns from the portfolio as a whole is\n3. The results depend on the assumption that the anticipated returns and discount rates are independent of the particular investor's portfolio.\n4. If short sales were allowed, an infinite amount of money would be placed in the security with highest r.\nR = ZX,r,. As in the dynamic case if the investor wished to maximize \"anticipated\" return from the portfolio he would place all his funds in that security with maximum anticipated returns.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/24",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 40.81550598144531,
+                "t": 540.040283203125,
+                "r": 358.1249084472656,
+                "b": 448.40692138671875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                492
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/25",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 40.4048957824707,
+                "t": 444.4294128417969,
+                "r": 362.9098205566406,
+                "b": 374.4295654296875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                427
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/26",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 53.70690155029297,
+                "t": 363.0,
+                "r": 342.3631896972656,
+                "b": 266.0973205566406,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                113
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/27",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 39.72539520263672,
+                "t": 253.21641540527344,
+                "r": 358.40960693359375,
+                "b": 205.20791625976562,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                267
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/28",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 173.0,
+                "t": 194.66666666666669,
+                "r": 227.66666666666666,
+                "b": 169.0,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                14
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/29",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 38.96650314331055,
+                "t": 155.08035278320312,
+                "r": 352.114501953125,
+                "b": 132.75247192382812,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                94
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/30",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 38.98930358886719,
+                "t": 131.08074951171875,
+                "r": 355.6528015136719,
+                "b": 84.96812438964844,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                286
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/31",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 37.97428894042969,
+                "t": 73.42534637451172,
+                "r": 352.0450134277344,
+                "b": 57.4432258605957,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                143
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/32",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 38.10242462158203,
+                "t": 53.69919967651367,
+                "r": 352.15576171875,
+                "b": 37.265724182128906,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                107
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/35",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 40.26620101928711,
+                "t": 539.5601806640625,
+                "r": 356.986328125,
+                "b": 505.2061767578125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                188
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "HARRYMARKOWITZ"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14291046459640389264,
+        "filename": "Portfolio_Selection.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "There is a rule which implies both that the investor should diversify and that he should maximize expected return. The rule states that the investor does (or should) diversify his funds among all those securities which give maximum expected return. The law of large numbers will insure that the actual yield of the portfolio will be almost the same as the expected yield.5 This rule is a special case of the expected returnsvariance of returns rule (to be presented below). It assumes that there is a portfolio which gives both maximum expected return and minimum variance, and it commends this portfolio to the investor.\nThis presumption, that the law of large numbers applies to a portfolio of securities, cannot be accepted. The returns from securities are too intercorrelated. Diversification cannot eliminate all variance.\nThe portfolio with maximum expected return is not necessarily the one with minimum variance. There is a rate at which the investor can gain expected return by taking on variance, or reduce variance by giving up expected return.\nWe saw that the expected returns or anticipated returns rule is inadequate. Let us now consider the expected returns-variance of returns (E-V) rule. It will be necessary to first present a few elementary concepts and results of mathematical statistics. We will then show some implications of the E-V rule. After this we will discuss its plausibility.\nIn our presentation we try to avoid complicated mathematical statements and proofs. As a consequence a price is paid in terms of rigor and generality. The chief limitations from this source are (1) we do not derive our results analytically for the n-security case; instead, we present them geometrically for the 3 and 4 security cases; (2) we assume static probability beliefs. In a general presentation we must recognize that the probability distribution of yields of the various securities is a function of time. The writer intends to present, in the future, the general, mathematical treatment which removes these limitations.\nWe will need the following elementary concepts and results of mathematical statistics:\nLet Y be a random variable, i.e., a variable whose value is decided by chance. Suppose, for simplicity of exposition, that Y can take on a finite number of values yl, yz, . . . , , y,~. Let the probability that Y =\n5. U'illiams, op. cit., pp. 68, 69.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/36",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 40.40906524658203,
+                "t": 502.60296630859375,
+                "r": 357.7940673828125,
+                "b": 396.5038146972656,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                621
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/37",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 40.65731430053711,
+                "t": 393.632568359375,
+                "r": 356.9881896972656,
+                "b": 361.7594299316406,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                205
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/38",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 40.634803771972656,
+                "t": 356.6642761230469,
+                "r": 356.66534423828125,
+                "b": 310.306396484375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                227
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/39",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 40.55607604980469,
+                "t": 307.70306396484375,
+                "r": 356.7890625,
+                "b": 237.58216857910156,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                350
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/40",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 40.05760955810547,
+                "t": 234.73414611816406,
+                "r": 356.4549255371094,
+                "b": 129.1891632080078,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                629
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/41",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 40.18039321899414,
+                "t": 115.71675109863281,
+                "r": 353.58514404296875,
+                "b": 95.84750366210938,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                86
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/42",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 40.758331298828125,
+                "t": 90.76094818115234,
+                "r": 355.92822265625,
+                "b": 56.408023834228516,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                214
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/43",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "footnote",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 51.631900787353516,
+                "t": 46.08757781982422,
+                "r": 162.66909790039062,
+                "b": 38.108951568603516,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                35
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "HARRYMARKOWITZ"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14291046459640389264,
+        "filename": "Portfolio_Selection.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "yl, be pl; that Y = y2 be pz etc. The expected value (or mean) of Y is defined to be\n<!-- formula-not-decoded -->\nThe variance of Y is defined to be\n<!-- formula-not-decoded -->\nV is the average squared deviation of Y from its expected value. V is a commonly used measure of dispersion. Other measures of dispersion, closely related to V are the standard deviation, u = .\\/V and the coefficient of variation, a/E.\nSuppose we have a number of random variables: R1, . . . , R,. If R is a weighted sum (linear combination) of the Ri\n<!-- formula-not-decoded -->\nthen R is also a random variable. (For example R1, may be the number which turns up on one die; R2, that of another die, and R the sum of these numbers. In this case n = 2, a1 = a2 = 1).\nIt will be important for us to know how the expected value and variance of the weighted sum (R) are related to the probability distribution of the R1, . . . , , R,. We state these relations below; we refer the reader to any standard text for proof.6\nThe expected value of a weighted sum is the weighted sum of the \r\n++ + e epected vaue oa wegted sus te wegt\r\nexpected values. I.e., E(R) = alE(R1) +aZE(R2) + . . . . sum of the \r\n + a,E(R,) The variance of a weighted sum is not as simple. To express it we must define \"covariance.\" The covariance of R1 and Rz is\n<!-- formula-not-decoded -->\ni.e., the expected value of [(the deviation of R1 from its mean) times (the deviation of R2 from its mean)]. In general we define the covariance between Ri and R as\n<!-- formula-not-decoded -->\nuij may be expressed in terms of the familiar correlation coefficient (pij). The covariance between Ri and Rj is equal to [(their correlation) times (the standard deviation of Ri) times (the standard deviation of",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/46",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 40.626399993896484,
+                "t": 539.5601806640625,
+                "r": 356.6361083984375,
+                "b": 528.9639282226562,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                70
+              ]
+            },
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 41.164878845214844,
+                "t": 527.801025390625,
+                "r": 101.2051010131836,
+                "b": 519.9356079101562,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                71,
+                84
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/47",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 126.33333333333333,
+                "t": 513.3333333333334,
+                "r": 266.3333333333333,
+                "b": 499.0,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/48",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 41.3739013671875,
+                "t": 488.9208679199219,
+                "r": 196.72119140625,
+                "b": 481.05377197265625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                34
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/49",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 79.0,
+                "t": 472.0,
+                "r": 318.0,
+                "b": 458.0,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                19
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/50",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 41.88697052001953,
+                "t": 450.5203552246094,
+                "r": 357.4329528808594,
+                "b": 405.19403076171875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                235
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/51",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 42.15811538696289,
+                "t": 403.00006103515625,
+                "r": 357.85589599609375,
+                "b": 380.6499328613281,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                115
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/52",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 136.33333333333334,
+                "t": 372.33333333333337,
+                "r": 266.0,
+                "b": 361.33333333333337,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/53",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 41.83457946777344,
+                "t": 350.44036865234375,
+                "r": 357.006591796875,
+                "b": 316.37701416015625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                186
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/54",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 42.306392669677734,
+                "t": 314.44036865234375,
+                "r": 357.7654724121094,
+                "b": 280.6050109863281,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                205
+              ]
+            },
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 42.57550048828125,
+                "t": 278.4368896484375,
+                "r": 236.02369689941406,
+                "b": 268.3242492675781,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                206,
+                249
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/55",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 42.81159973144531,
+                "t": 266.4399719238281,
+                "r": 358.22808837890625,
+                "b": 222.57177734375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                312
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/56",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 116.66666666666667,
+                "t": 212.66666666666669,
+                "r": 280.3333333333333,
+                "b": 201.0,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                35
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/57",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 42.79869842529297,
+                "t": 190.36074829101562,
+                "r": 358.27874755859375,
+                "b": 158.13162231445312,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                164
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/58",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 118.41950225830078,
+                "t": 148.59820556640625,
+                "r": 279.1592102050781,
+                "b": 137.210205078125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                40
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/59",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 42.838802337646484,
+                "t": 125.57127380371094,
+                "r": 358.5641174316406,
+                "b": 91.70677185058594,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                212
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "HARRYMARKOWITZ"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14291046459640389264,
+        "filename": "Portfolio_Selection.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Rj)l:\n<!-- formula-not-decoded -->\n6. E.g.,J. V. Uspensky, Introduction to \r\n9 mathematical Probability (New York: McGrawgpy\r\nHill, 1937), chapter 9, pp. 161-81.\nThe variance of a weighted sum is\n<!-- formula-not-decoded -->\nIf we use the fact that the variance of Ri is uii then\n<!-- formula-not-decoded -->\nLet Ri be the return on the iN\"security. Let pi be the expected vaIue of Ri; uij, be the covariance between Ri and Rj (thus uii is the variance of Ri). Let Xi be the percentage of the investor's assets which are allocated to the ithsecurity. The yield (R) on the portfolio as a whole is\n<!-- formula-not-decoded -->\nThe Ri (and consequently R) are considered to be random variables.' The Xi are not random variables, but are fixed by the investor. Since the Xi are percentages we have ZXi = 1. In our analysis we will ex-\r\n> e ae peceages we ave \r\n. ouaayss we we\r\nclude negative values of the Xi (i.e., short sales); therefore Xi > 0 for all i.\nThe return (R) on the portfolio as a whole is a weighted sum of random variables (where the investor can choose the weights). From our discussion of such weighted sums we see that the expected return E from the portfolio as a whole is\n<!-- formula-not-decoded -->\n<!-- formula-not-decoded -->",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/60",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 42.66669845581055,
+                "t": 88.13207244873047,
+                "r": 66.65219116210938,
+                "b": 78.0083236694336,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/61",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 173.07083129882812,
+                "t": 75.88367462158203,
+                "r": 225.8300018310547,
+                "b": 69.85491943359375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                13
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/62",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "footnote",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 42.668697357177734,
+                "t": 53.405921936035156,
+                "r": 355.4545593261719,
+                "b": 37.069000244140625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                126
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/65",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 41.60249710083008,
+                "t": 541.7882690429688,
+                "r": 198.26869201660156,
+                "b": 531.9028930664062,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                33
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/66",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 107.66666666666667,
+                "t": 520.0143636067709,
+                "r": 291.6666666666667,
+                "b": 494.6810302734375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/67",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 42.352725982666016,
+                "t": 482.0280456542969,
+                "r": 277.28912353515625,
+                "b": 474.33941650390625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                54
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/68",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 190.0,
+                "t": 459.6810302734375,
+                "r": 253.0,
+                "b": 441.6810302734375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                11
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/69",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 42.59096145629883,
+                "t": 421.5521545410156,
+                "r": 359.52783203125,
+                "b": 375.9024658203125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                286
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/70",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 167.0,
+                "t": 367.34769694010413,
+                "r": 230.0,
+                "b": 350.34769694010413,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/71",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 42.789798736572266,
+                "t": 337.30712890625,
+                "r": 360.1728210449219,
+                "b": 281.82415771484375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                329
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/72",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 43.56884765625,
+                "t": 277.3077392578125,
+                "r": 360.0262756347656,
+                "b": 231.20462036132812,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                234
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/73",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 170.0,
+                "t": 221.01436360677081,
+                "r": 231.0,
+                "b": 194.01436360677081,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                12
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/74",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 151.66666666666666,
+                "t": 173.34769694010419,
+                "r": 245.0,
+                "b": 145.34769694010419,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                20
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "HARRYMARKOWITZ"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14291046459640389264,
+        "filename": "Portfolio_Selection.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "7. I.e., we assume that the investor does (and should) act as if he had probability beliefs concerning these variables. In general we ~vould expect that the investor could tell us, for any two events (A and B), whether he personally considered A more likely than B, B more likely than A, or both equally likely. If the investor were consistent in his opinions on such matters, he would possess a system of probability beliefs. We cannot expect the investor to be consistent in every detail. We can, however, expect his probability beliefs to be roughly consistent on important matters that have been carefully considered. We should also expect that he will base his actions upon these probability beliefs-even though they be in part subjective.\nThis paper does not consider the difficult question of how investors do (or should) form their probability beliefs.\nand the variance is\nFor fixed probability beliefs (pi, oij) the investor has a choice of various combinations of E and V depending on his choice of portfolio XI, . . . . , , XN.Suppose that the set of all obtainable (E, V) combinations were as in Figure 1.The E-V rule states that the investor would (or should) want to select one of those portfolios which give rise to the (E, V) combinations indicated as efficient in the figure; i.e., those with minimum V for given E or more and maximum E for given V or less.\nThere are techniques by which we can compute the set of efficient portfolios and efficient (E, V) combinations associated with given pi\nF1G. 1\nE\nand oij. We will not present these techniques here. We will, however, illustrate geometrically the nature of the efficient surfaces for cases in which N (the number of available securities) is small.\nThe calculation of efficient surfaces might possibly be of practical use. Perhaps there are ways, by combining statistical techniques and the judgment of experts, to form reasonable probability beliefs (pi, aij).We could use these beliefs to compute the attainable efficient combinations of (E, V). The investor, being informed of what (E, V) combinations were attainable, could state which he desired. We could then find the portfolio which gave this desired combination.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/75",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 42.973724365234375,
+                "t": 128.28379821777344,
+                "r": 357.8281555175781,
+                "b": 56.036624908447266,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                744
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/76",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 43.289894104003906,
+                "t": 55.49224853515625,
+                "r": 357.31390380859375,
+                "b": 39.956626892089844,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                115
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/77",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 43.57670211791992,
+                "t": 187.06295776367188,
+                "r": 132.02340698242188,
+                "b": 179.37432861328125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                19
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/80",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 38.49009704589844,
+                "t": 539.091064453125,
+                "r": 356.1894836425781,
+                "b": 457.2079162597656,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                493
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/81",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 39.33000564575195,
+                "t": 455.316650390625,
+                "r": 356.2663879394531,
+                "b": 433.2028503417969,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                135
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/82",
+          "parent": {
+            "cref": "#/pictures/1"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 183.33333333333334,
+                "t": 177.66666666666669,
+                "r": 209.33333333333334,
+                "b": 165.0,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/87",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 284.6666666666667,
+                "t": 184.33333333333331,
+                "r": 291.3333333333333,
+                "b": 175.66666666666669,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                1
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/88",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 40.3883056640625,
+                "t": 154.8519744873047,
+                "r": 356.6712951660156,
+                "b": 120.74977111816406,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                199
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/89",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 40.067787170410156,
+                "t": 118.83625030517578,
+                "r": 356.7348327636719,
+                "b": 36.720176696777344,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                472
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "HARRYMARKOWITZ"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14291046459640389264,
+        "filename": "Portfolio_Selection.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Two conditions-at least-must be satisfied before it would be practical to use efficient surfaces in the manner described above. First, the investor must desire to act according to the E-V maxim. Second, we must be able to arrive at reasonable pi and uij. We will return to these matters later.\nLet us consider the case of three securities. In the three security case our model reduces to\n<!-- formula-not-decoded -->\n<!-- formula-not-decoded -->\n<!-- formula-not-decoded -->\n<!-- formula-not-decoded -->\nFrom (3) we get\n<!-- formula-not-decoded -->\nIfwe substitute (3') in equation (1)and (2) we get E and V as functions of X1 and Xz. For example we find\n<!-- formula-not-decoded -->\nThe exact formulas are not too important here (that of V is given below).8 We can simply write\n<!-- formula-not-decoded -->\n- b) V = V (Xi, Xz)\n<!-- formula-not-decoded -->\nBy using relations (a), (b), (c), we can work with two dimensional geometry.\nThe attainable set of portfolios consists of all portfolios which satisfy constraints (c) and (3') (or equivalently (3) and (4)). The attainable combinations of XI, X2 are represented by the triangle abc in Figure 2. Any point to the left of the Xz axis is not attainable because it violates the condition that X1 3 0. Any point below the X1 axis is not attainable because it violates the condition that Xz 3 0. Any\n<!-- formula-not-decoded -->\npoint above the line (1 -X1 - Xz = 0) is not attainable because it \r\n> violates the condition that X3 = 1 --XI -Xz > 0.\nWe define an isomean curve to be the set of all points (portfolios) with a given expected return. Similarly an isovariance line is defined to be the set of all points (portfolios) with a given variance of return.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/92",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 41.83859634399414,
+                "t": 539.80078125,
+                "r": 359.5563049316406,
+                "b": 484.177978515625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                293
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/93",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 41.89358901977539,
+                "t": 480.2842712402344,
+                "r": 359.83758544921875,
+                "b": 460.181396484375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                93
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/94",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 118.33333333333333,
+                "t": 449.33430989583337,
+                "r": 208.0,
+                "b": 428.33430989583337,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                12
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/95",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 117.66666666666667,
+                "t": 413.33430989583337,
+                "r": 244.33333333333334,
+                "b": 393.66764322916663,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                16
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/96",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 117.33333333333333,
+                "t": 377.33430989583337,
+                "r": 198.33333333333334,
+                "b": 351.66764322916663,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                13
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/97",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 121.12150573730469,
+                "t": 344.90972900390625,
+                "r": 281.2167053222656,
+                "b": 335.0700988769531,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/98",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 54.415496826171875,
+                "t": 324.4049377441406,
+                "r": 133.456298828125,
+                "b": 314.6483154296875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                15
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/99",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 143.67189025878906,
+                "t": 309.7345275878906,
+                "r": 255.8473663330078,
+                "b": 300.86505126953125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                16
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/100",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 42.371498107910156,
+                "t": 291.3349609375,
+                "r": 359.93707275390625,
+                "b": 268.590576171875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                105
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/101",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 105.23595428466797,
+                "t": 266.8400573730469,
+                "r": 292.7595520019531,
+                "b": 251.49655151367188,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                44
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/102",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 42.32820129394531,
+                "t": 240.7605438232422,
+                "r": 355.58837890625,
+                "b": 218.64404296875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                94
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/103",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 117.27510070800781,
+                "t": 213.62109375,
+                "r": 218.091796875,
+                "b": 203.92410278320312,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                15
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/105",
+          "parent": {
+            "cref": "#/groups/1"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 117.35369873046875,
+                "t": 195.0334930419922,
+                "r": 221.35226440429688,
+                "b": 185.49725341796875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/106",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 115.0,
+                "t": 179.33430989583331,
+                "r": 282.0,
+                "b": 167.0009765625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                30
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/107",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 42.18659973144531,
+                "t": 158.44105529785156,
+                "r": 358.9267883300781,
+                "b": 136.09092712402344,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                76
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/108",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 42.30168914794922,
+                "t": 134.4444580078125,
+                "r": 359.2974853515625,
+                "b": 64.5687255859375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                415
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/109",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 40.0,
+                "t": 57.33430989583337,
+                "r": 355.0,
+                "b": 35.66764322916663,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                120
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/112",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 40.29780197143555,
+                "t": 539.6272583007812,
+                "r": 357.89501953125,
+                "b": 519.9393310546875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                119
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/113",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 40.85200500488281,
+                "t": 515.8720703125,
+                "r": 357.6510009765625,
+                "b": 482.2265625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                212
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "HARRYMARKOWITZ"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14291046459640389264,
+        "filename": "Portfolio_Selection.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "An examination of the formulae for E and V tells us the shapes of the isomean and isovariance curves. Specifically they tell us that typicallyg the isomean curves are a system of parallel straight lines; the isovariance curves are a system of concentric ellipses (see Fig. 2). For example, \r\n+ if ~2 p3 equation 1' can be written in the familiar form X2 = mple, \r\n a + bX1; specifically (1)\n<!-- formula-not-decoded -->\nThus the slope of the isomean line associated with E = Eois -(pl -j~3)/(.~2- p3) its intercept is (Eo - p3)/(p2 - p3). If we change E we change the intercept but not the slope of the isomean line. This confirms the contention that the isomean lines form a system of parallel lines.\nSimilarly, by a somewhat less simple application of analytic geometry, we can confirm the contention that the isovariance lines form a family of concentric ellipses. The \"center\" of the system is the point which minimizes V. We will label this point X. Its expected return and variance we will label E and V. Variance increases as you move away from X. More precisely, if one isovariance curve, C1, lies closer to X than another, Cz, then C1 is associated with a smaller variance than Cz.\nWith the aid of the foregoing geometric apparatus let us seek the efficient sets.\nX, the center of the system of isovariance ellipses, may fall either inside or outside the attainable set. Figure 4 illustrates a case in which Xfalls inside the attainable set. In this case: Xis efficient. For no other portfolio has a V as low as X; therefore no portfolio can have either smaller V (with the same or greater E) or greater E with the same or smaller V. No point (portfolio) with expected return E less than E is efficient. For we have E > E and V < V.\nConsider all points with a given expected return E; i.e., all points on the isomean line associated with E. The point of the isomean line at which V takes on its least value is the point at which the isomean line",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/114",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 40.87699890136719,
+                "t": 479.8670349121094,
+                "r": 360.5523376464844,
+                "b": 409.7425537109375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                390
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/115",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 135.0,
+                "t": 407.66764322916663,
+                "r": 254.66666666666666,
+                "b": 384.33430989583337,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                14
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/116",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 39.96390151977539,
+                "t": 372.0155334472656,
+                "r": 356.8638000488281,
+                "b": 315.94378662109375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                281
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/117",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 41.33641815185547,
+                "t": 311.6373291015625,
+                "r": 358.8250427246094,
+                "b": 230.23394775390625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                488
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/118",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 41.67356491088867,
+                "t": 227.6275634765625,
+                "r": 357.86083984375,
+                "b": 207.9438018798828,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/119",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 41.027713775634766,
+                "t": 203.87655639648438,
+                "r": 358.09100341796875,
+                "b": 123.68085479736328,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                468
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/120",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 41.35749053955078,
+                "t": 119.38694763183594,
+                "r": 358.2983093261719,
+                "b": 85.52372741699219,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                212
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "HARRYMARKOWITZ"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14291046459640389264,
+        "filename": "Portfolio_Selection.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "9. The isomean \"curves\" are as described above except when = pz = pa In the latter case all portfolios have the same expected return and the investor chooses the one with minimum variance.\nAs to the assumptions implicit in our description of the isovariance curves see footnote 12.\nA is tangent to an isovariance curve. We call this point X(E). If we let h E vary, X(E) traces out a curve.\nAlgebraic considerations (which we omit here) show us that this curve is a straight line. We will call it the critical line I. The critical line passes through X for this point minimizes V for all points with E(X1, Xz) = E. As we go along l in either direction from X, V increases. The segment of the critical line from X to the point where the critical line crosses\nthe boundary of the attainable set is part of the efficient set. The rest of the efficient set is (in the case illustrated) the segment of the 3 line from d to b. b is the point of maximum attainable E. In Figure 3, X lies outside the admissible area but the critical line cuts the admissible area. The efficient line begins at the attainable point with minimum variance (in this case on the Z line). It moves toward b until it intersects the critical line, moves along the critical line until it intersects a boundary and finally moves along the boundary to b. The reader may\nF1G. 3\n124\nF1G. 4\nX, efficient portfolios\nwish to construct and examine the following other cases: (1) X lies outside the attainable set and the critical line does not cut the attainable set. In this case there is a security which does not enter into any efficient portfolio. (2) Two securities have the same pi. In this case the isomean lines are parallel to a boundary line. It may happen that the efficient portfolio with maximum E is a diversified portfolio. (3) A case wherein only one portfolio is efficient.\nThe efficient set in the 4 security case is, as in the 3 security and also the N security case, a series of connected line segments. At one end of the efficient set is the point of minimum variance; at the other end is a point of maximum expected returnlo (see Fig. 4).",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/121",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "footnote",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 40.86589431762695,
+                "t": 78.46585083007812,
+                "r": 355.092529296875,
+                "b": 55.807979583740234,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                188
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/122",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "footnote",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 42.49937438964844,
+                "t": 53.98615264892578,
+                "r": 354.2316589355469,
+                "b": 39.47832489013672,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                92
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/125",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 10,
+              "bbox": {
+                "l": 39.36022186279297,
+                "t": 544.063720703125,
+                "r": 357.45916748046875,
+                "b": 516.541748046875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                107
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/126",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 10,
+              "bbox": {
+                "l": 39.447601318359375,
+                "t": 514.6712646484375,
+                "r": 357.8013916015625,
+                "b": 456.8033142089844,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                366
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/137",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 10,
+              "bbox": {
+                "l": 39.33860778808594,
+                "t": 132.10694885253906,
+                "r": 356.76593017578125,
+                "b": 37.9816780090332,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                576
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/138",
+          "parent": {
+            "cref": "#/pictures/3"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 11,
+              "bbox": {
+                "l": 181.0,
+                "t": 309.3333333333333,
+                "r": 207.0,
+                "b": 298.0,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/140",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 11,
+              "bbox": {
+                "l": 183.0,
+                "t": 145.66666666666669,
+                "r": 195.66666666666666,
+                "b": 138.0,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                3
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/141",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 11,
+              "bbox": {
+                "l": 180.66666666666666,
+                "t": 84.66666666666663,
+                "r": 207.66666666666666,
+                "b": 74.33333333333337,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/142",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 11,
+              "bbox": {
+                "l": 171.0,
+                "t": 269.0,
+                "r": 180.0,
+                "b": 260.0,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                2
+              ]
+            },
+            {
+              "page_no": 11,
+              "bbox": {
+                "l": 218.15638732910156,
+                "t": 266.0997009277344,
+                "r": 278.679443359375,
+                "b": 259.1942138671875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                3,
+                23
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/145",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 12,
+              "bbox": {
+                "l": 40.865901947021484,
+                "t": 540.914794921875,
+                "r": 357.8994140625,
+                "b": 459.152099609375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                472
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/146",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 12,
+              "bbox": {
+                "l": 41.63673400878906,
+                "t": 457.48126220703125,
+                "r": 358.63470458984375,
+                "b": 411.15362548828125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                269
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "HARRYMARKOWITZ"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14291046459640389264,
+        "filename": "Portfolio_Selection.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Now that we have seen the nature of the set of efficient portfolios, it is not difficult to see the nature of the set of efficient (E,V) combina-\r\n++ tions. In the three security case E = a0 \r\n+++++ se\r\n+ alXl ffic\r\n+ a2X2 is a plane; V = bo ns. In the three security case E \r\n a0 alXl \r\n+blX1 +hX2 +b12XlX2 +b1lx:+~BX;is a paraboloid.ll As shown in Figure 5, the section of the E-plane over the efficient portfolio set is a series of connected line segments. The section of the V-paraboloid over the efficient portfolio set is a series of connected parabola segments. If we plotted V against E for efficient portfolios we would again get a series of connected parabola segments (see Fig. 6). This re-\nsult obtains for any number of securities.\nVarious reasons recommend the use of the expected return-variance of return rule, both as a hypothesis to explain well-established investment behavior and as a maxim to guide one's own action. The rule serves better, we will see, as an explanation of, and guide to, \"investment\" as distinguished from ('speculative\" behavior.\n10. Just as we used the equation\n5X\n5Xi = I to reduce the dimensionality in the three\nsecurity case, we can use it to represent the four security case in 3 dimensional space. Eliminating X, we get E = E(X1, Xz, Xs), V = V(X1, Xz, Xs). The attainable set is represented, in three-space, by the tetrahedron with vertices (O,0, O), (0,0, I), (0,1, O), (1,0, O), representing portfolios with, respectively, X4 = 1, Xs = 1, Xz = 1, XI = 1.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/147",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 12,
+              "bbox": {
+                "l": 42.08107376098633,
+                "t": 409.3948974609375,
+                "r": 359.01300048828125,
+                "b": 303.154296875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                701
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/148",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 12,
+              "bbox": {
+                "l": 43.25799560546875,
+                "t": 301.15289306640625,
+                "r": 230.6540069580078,
+                "b": 291.1539001464844,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                42
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/149",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 12,
+              "bbox": {
+                "l": 43.30202865600586,
+                "t": 280.03289794921875,
+                "r": 359.8380126953125,
+                "b": 222.02989196777344,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                325
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/150",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 12,
+              "bbox": {
+                "l": 56.208824157714844,
+                "t": 206.71249389648438,
+                "r": 168.53836059570312,
+                "b": 198.7762451171875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/151",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 12,
+              "bbox": {
+                "l": 173.45062255859375,
+                "t": 219.25987243652344,
+                "r": 187.22674560546875,
+                "b": 200.21475219726562,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                2
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/152",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 12,
+              "bbox": {
+                "l": 186.77957153320312,
+                "t": 206.71249389648438,
+                "r": 357.58233642578125,
+                "b": 198.7587432861328,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                49
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/154",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 12,
+              "bbox": {
+                "l": 43.49314880371094,
+                "t": 187.75228881835938,
+                "r": 358.038330078125,
+                "b": 155.31884765625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                348
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "HARRYMARKOWITZ"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14291046459640389264,
+        "filename": "Portfolio_Selection.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Let sisa be the subspace consisting of all points with X4 = 0. Similarly we can define \r\nbhbiif ll iih i sol, . . . , , pg p\r\naa to be the subspace consisting of all points with Xi = 0, i # a~,. ,. . . , aa. For each subspace sol, . . . , aa we can define a critical lilze lal, . . . aa. This line is the locus of points P where P minimizes V for all points in sol, \r\niil\r\nd iffiiibll . . . , aa with the same E as P. If a point \r\nhffiibd p\r\nis in s,l, . . . , p\r\naa and is efficient it must be on lal, . . . , p\r\naa. The efficient set may be traced \r\niiill y \r\nout by starting at the point of minimum available variance, moving continuously along various lal, . . . , aa according to definite rules, ending in a point which gives maximum E. \r\nil hiih iiilblibih g g pg\r\nAs in the two dimensional case the point with minimum available variance may be in the \r\niif hilblf ibdiilld li py \r\ninterior of the available set or on one of its boundaries. Typically we proceed along a given critical line until either this line intersects one of a larger subspace or meets a boundary (\r\nd illhiil lif ldiil b)ihf h gpy (and simultaneously the critical line of a lower dimensional subspace). In either of these cases the efficient line turns and continues along the new line. The efficient line terminates\nwhen a point with maximum E is reached.\n11. See footnote 8.\nF1G. 5\nF1G. 6\nEarlier we rejected the expected returns rule on the grounds that it never implied the superiority of diversification. The expected returnvariance of return rule, on the other hand, implies diversification for a wide range of pi, aij.This does not mean that the E-V rule never implies the superiority of an undiversified portfolio. It is conceivable that one security might have an extremely higher yield and lower variance than all other securities; so much so that one particular undiversified portfolio would give maximum E and minimum V. Rut for a large, presumably representative range of pi, aij the E-V rule leads to efficient portfolios almost all of which are diversified.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/155",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 12,
+              "bbox": {
+                "l": 43.90855026245117,
+                "t": 155.1129913330078,
+                "r": 358.9900817871094,
+                "b": 58.836151123046875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                1295
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/156",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 12,
+              "bbox": {
+                "l": 44.43754959106445,
+                "t": 58.76594924926758,
+                "r": 194.9180450439453,
+                "b": 50.69594955444336,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                39
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/157",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "footnote",
+          "prov": [
+            {
+              "page_no": 12,
+              "bbox": {
+                "l": 57.90325164794922,
+                "t": 46.38355255126953,
+                "r": 122.47990417480469,
+                "b": 40.19729995727539,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                19
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/158",
+          "parent": {
+            "cref": "#/pictures/5"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 13,
+              "bbox": {
+                "l": 165.33333333333334,
+                "t": 314.0009765625,
+                "r": 192.33333333333334,
+                "b": 304.0009765625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/164",
+          "parent": {
+            "cref": "#/pictures/6"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 13,
+              "bbox": {
+                "l": 168.33333333333334,
+                "t": 89.33430989583331,
+                "r": 195.0,
+                "b": 79.0009765625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/171",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 14,
+              "bbox": {
+                "l": 39.821800231933594,
+                "t": 539.2449340820312,
+                "r": 357.499267578125,
+                "b": 421.7377014160156,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                681
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "HARRYMARKOWITZ"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14291046459640389264,
+        "filename": "Portfolio_Selection.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Not only does the E-V hypothesis imply diversification, it implies the \"right kind\" of diversification for the \"right reason.'' The adequacy of diversification is not thought by investors to depend solely on the number of different securities held. A portfolio with sixty different railway securities, for example, would not be as well diversified as the same size portfolio with some railroad, some public utility, mining, various sort of manufacturing, etc. The reason is that it is generally more likely for firms within the same industry to do poorly at the same time than for firms in dissimilar industries.\nSimilarly in trying to make variance small it is not enough to invest in many securities. It is necessary to avoid investing in securities with high covariances among themselves. We should diversify across industries because firms in different industries, especially industries with different economic characteristics, have lower covariances than firms within an industry.\nThe concepts \"yield\" and \"risk\" appear frequently in financial writings. Usually if the term \"yield\" were replaced by \"expected yield\" or \"expected return,\" and \"risk\" by \"variance of return,\" little change of apparent meaning would result.\nVariance is a well-known measure of dispersion about the expected. If instead of variance the investor was concerned with standard error, Tv,or with the coefficient of dispersion, a/E, his choice would a = still lie in the set of efficient portfolios.\nSuppose an investor diversifies between two portfolios (i.e., if he puts some of his money in one portfolio, the rest of his money in the other. An example of diversifying among portfolios is the buying of the shares of two different investment companies). If the two original portfolios have equal variance then typically12 the variance of the resulting (compound) portfolio will be less than the variance of either original port-\n12. In no case will variance be increased. The only case in which variance will not be \r\nh y \r\ndecreased is if the return from both portfolios are perfectly correlated. To draw the isovariance curves as ellipses it is both necessary and sufficient to assume that no two distinct portfolios have perfectly correlated returns.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/172",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 14,
+              "bbox": {
+                "l": 39.91640090942383,
+                "t": 419.7137145996094,
+                "r": 357.5508117675781,
+                "b": 315.9290771484375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                612
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/173",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 14,
+              "bbox": {
+                "l": 40.138370513916016,
+                "t": 311.7160949707031,
+                "r": 357.3251037597656,
+                "b": 241.4681854248047,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                372
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/174",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 14,
+              "bbox": {
+                "l": 40.377655029296875,
+                "t": 239.46620178222656,
+                "r": 356.6009216308594,
+                "b": 205.7071990966797,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                199
+              ]
+            },
+            {
+              "page_no": 14,
+              "bbox": {
+                "l": 40.9213981628418,
+                "t": 203.7052001953125,
+                "r": 230.23338317871094,
+                "b": 193.70619201660156,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                200,
+                240
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/175",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 14,
+              "bbox": {
+                "l": 40.89789962768555,
+                "t": 191.70420837402344,
+                "r": 356.5888366699219,
+                "b": 157.43310546875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                201
+              ]
+            },
+            {
+              "page_no": 14,
+              "bbox": {
+                "l": 40.85823440551758,
+                "t": 164.89840698242188,
+                "r": 216.4568634033203,
+                "b": 145.2541046142578,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                202,
+                251
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/176",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 14,
+              "bbox": {
+                "l": 39.8195686340332,
+                "t": 143.2301025390625,
+                "r": 357.3436584472656,
+                "b": 73.47410583496094,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                431
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/177",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "footnote",
+          "prov": [
+            {
+              "page_no": 14,
+              "bbox": {
+                "l": 39.350730895996094,
+                "t": 68.63920593261719,
+                "r": 353.9778137207031,
+                "b": 36.54672622680664,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                324
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "HARRYMARKOWITZ"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14291046459640389264,
+        "filename": "Portfolio_Selection.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "folio. This is illustrated by Figure 7. To interpret Figure 7 we note that \r\n() y gpg\r\na portfolio iP) which is built out of two portfolios P' = (x:,x:)and \r\n(ii')+ + P\" = ) p(\r\n(xi::xi')is of the form P = XP' + (1 - h)~\"= )\r\n(AX:+ (1 -X)XI , A AX:+ (1 - x)x:'). P is on the straight line connecting P' and P\".\nThe E-V principle is more plausible as a rule for investment behavior as distinguished from speculative behavior. The third moment13 M8 of\nFIG. 7\nthe probability distribution of returns from the portfolio may be connected with a propensity to gamble. For example if the investor maximizes utility (U)which depends on E and V(U = U(E, V), d U/aE > 0, aU/dE < 0) he will never accept an actuarially fair14 bet. But if\n13. If R is a random variable that takes on a finite number of values 71,. . . , , m with probabilities *I,\n. . . ,\n, g gnrespectively, and expected value E, then\n=\nU = U(E, V, Mg) and if dU/dM3 # 0 then there are some fair bets which would be accepted.\nPerhaps-for a great variety of investing institutions which consider yield to be a good thing; risk, a bad thing; gambling, to be avoided-E, V efficiency is reasonable as a working hypothesis and a working maxim.\nTwo uses of the E-V principle suggest themselves. We might use it in theoretical analyses or we might use it in the actual selection of portfolios.\nIn theoretical analyses we might inquire, for example, about the various effects of a change in the beliefs generally held about a firm, or a general change in preference as to expected return versus variance of return, or a change in the supply of a security. In our analyses the Xi might represent individual securities or they might represent aggre- gates such as, say, bonds, stocks and real estate.15",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/180",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 38.623626708984375,
+                "t": 528.9132690429688,
+                "r": 360.0722351074219,
+                "b": 467.61639404296875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                310
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/181",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 39.52559280395508,
+                "t": 463.2980041503906,
+                "r": 355.8856201171875,
+                "b": 441.15350341796875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                138
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/182",
+          "parent": {
+            "cref": "#/pictures/7"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 182.66666666666666,
+                "t": 158.0,
+                "r": 208.66666666666666,
+                "b": 147.66666666666669,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/192",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 37.99623107910156,
+                "t": 134.3531951904297,
+                "r": 356.5511474609375,
+                "b": 88.35459899902344,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                269
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/193",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 50.20819854736328,
+                "t": 82.40282440185547,
+                "r": 352.0697326660156,
+                "b": 74.5281982421875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                89
+              ]
+            },
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 37.66044998168945,
+                "t": 62.62415313720703,
+                "r": 88.96670532226562,
+                "b": 54.80127716064453,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                90,
+                107
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/194",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 96.37200164794922,
+                "t": 57.84000015258789,
+                "r": 110.59199523925781,
+                "b": 56.63999938964844,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/195",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 109.23600006103516,
+                "t": 57.84000015258789,
+                "r": 114.91199493408203,
+                "b": 54.947998046875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                3
+              ]
+            },
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 112.83779907226562,
+                "t": 62.846248626708984,
+                "r": 262.7139587402344,
+                "b": 54.534000396728516,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                4,
+                46
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/196",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 279.77069091796875,
+                "t": 59.5660514831543,
+                "r": 285.2576904296875,
+                "b": 57.39830017089844,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                1
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/205",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 16,
+              "bbox": {
+                "l": 44.285797119140625,
+                "t": 541.0419921875,
+                "r": 359.1414794921875,
+                "b": 530.2476196289062,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                63
+              ]
+            },
+            {
+              "page_no": 16,
+              "bbox": {
+                "l": 42.299720764160156,
+                "t": 528.2839965820312,
+                "r": 159.17469787597656,
+                "b": 518.193603515625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                64,
+                88
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/206",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 16,
+              "bbox": {
+                "l": 42.06560134887695,
+                "t": 516.76953125,
+                "r": 359.1203308105469,
+                "b": 470.40802001953125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                212
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/207",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 16,
+              "bbox": {
+                "l": 42.32960891723633,
+                "t": 468.7615661621094,
+                "r": 359.5805969238281,
+                "b": 446.41143798828125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                135
+              ]
+            },
+            {
+              "page_no": 16,
+              "bbox": {
+                "l": 41.504642486572266,
+                "t": 444.28656005859375,
+                "r": 89.8056411743164,
+                "b": 434.1961669921875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                136,
+                147
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/208",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 16,
+              "bbox": {
+                "l": 41.38459777832031,
+                "t": 432.5274658203125,
+                "r": 359.2978515625,
+                "b": 374.6479187011719,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                352
+              ]
+            },
+            {
+              "page_no": 16,
+              "bbox": {
+                "l": 42.33289337158203,
+                "t": 372.7566833496094,
+                "r": 271.060302734375,
+                "b": 362.64404296875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                353,
+                405
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "HARRYMARKOWITZ"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14291046459640389264,
+        "filename": "Portfolio_Selection.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "To use the E-V rule in the selection of securities we must have procedures for finding reasonable pi and aij. These procedures, I believe, should combine statistical techniques and the judgment of practical men. My feeling is that the statistical computations should be used to arrive at a tentative set of pi and aij. Judgment should then be used in increasing or decreasing some of these pi and uij on the basis of factors or nuances not taken into account by the formal computations. Using this revised set of pi knd uij, the set of efficient E, V combinations could be computed, the investor could select the combination he preferred, and the portfolio which gave rise to this E, V combination could be found.\nOne suggestion as to tentative pi, aijis to use the observed pi, aii for some period of the past. I believe that better methods, which take into account more information, can be found. I believe that what is needed is essentially a \"probabilistic\" reformulation of security analysis. I will not pursue this subject here, for this is \"another story.\" It is a story of which I have read only the first page of the first chapter.\nIn this paper we have considered the second stage in the process of selecting a portfolio. This stage starts with the relevant beliefs about the securities involved and ends with the selection of a portfolio. We have not considered the first stage: the formation of the relevant beliefs on the basis of observation.\n15. Care must be used in using and interpreting relations among aggregates. We cannot deal here with the problems and pitfalls of aggregation.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/209",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 16,
+              "bbox": {
+                "l": 41.749088287353516,
+                "t": 360.5214538574219,
+                "r": 359.58709716796875,
+                "b": 232.177978515625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                713
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/210",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 16,
+              "bbox": {
+                "l": 41.830894470214844,
+                "t": 228.2842559814453,
+                "r": 362.252685546875,
+                "b": 157.92832946777344,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                426
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/211",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 16,
+              "bbox": {
+                "l": 41.339027404785156,
+                "t": 155.80345153808594,
+                "r": 358.81549072265625,
+                "b": 99.92257690429688,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                315
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/212",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "footnote",
+          "prov": [
+            {
+              "page_no": 16,
+              "bbox": {
+                "l": 41.79261016845703,
+                "t": 91.1996078491211,
+                "r": 355.260498046875,
+                "b": 75.47672271728516,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                142
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "HARRYMARKOWITZ"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14291046459640389264,
+        "filename": "Portfolio_Selection.pdf",
+        "uri": null
+      }
+    }
+  }
+]
