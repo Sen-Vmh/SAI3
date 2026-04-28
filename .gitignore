@@ -1,5 +1,6 @@
 data/raw/*
 !data/raw/data_files.md
+data/chroma/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
