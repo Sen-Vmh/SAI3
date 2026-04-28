@@ -54,7 +54,7 @@ streamlit run src/app.py
 ```
 
 
-## 2. Branch Management
+## 4. Branch Management
 
 ### The Golden Rule
 Never work directly on `main`. `main` must always represent a stable, deployable version of the codebase. Create a new branch for every task.
@@ -76,7 +76,7 @@ Structure: `category/short-description` (Always lowercase, use kebab-case for th
 
 ---
 
-## 2. Commit Standards
+## 5. Commit Standards
 
 ### The "Two Histories" Concept
 1. **Work History (Local Feature Branch):** Commit early and often. These are your "save points."
@@ -97,7 +97,7 @@ Every commit should do **one thing**. Do not mix unrelated changes (e.g., fixing
 
 ---
 
-## 3. Merging & Pull Requests (PRs)
+## 6. Merging & Pull Requests (PRs)
 
 ### When to Merge
 Merge only when the work is complete, tested, and code-reviewed.
