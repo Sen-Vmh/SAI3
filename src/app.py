@@ -175,7 +175,7 @@ else:
 
     sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
 
-    from processing.query import ask, build_index, get_collection
+    from processing.query import ask, build_index, get_collection, suggest_questions
 
     # st.set_page_config(page_title="Finance RAG", layout="centered")
     st.title("Finance RAG")
@@ -193,6 +193,19 @@ else:
 
     if "messages" not in st.session_state:
         st.session_state.messages = []
+
+    if "suggested_questions" not in st.session_state:
+        with st.spinner("Generating suggested questions..."):
+            profile = st.session_state.get("user_profile", {})
+            survey_summary = "\n".join(f"{k}: {v}" for k, v in profile.items())
+            st.session_state.suggested_questions = suggest_questions(survey_summary)
+
+    if st.session_state.suggested_questions and not st.session_state.messages:
+        st.markdown("**Suggested questions based on your portfolio:**")
+        for q in st.session_state.suggested_questions:
+            if st.button(q, use_container_width=True):
+                st.session_state.messages.append({"role": "user", "content": q})
+                st.rerun()
 
     for msg in st.session_state.messages:
         with st.chat_message(msg["role"]):
