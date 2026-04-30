@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from prompts import SYSTEM_PROMPT, USER_PROMPT_TEMPLATE
+from prompts import SYSTEM_PROMPT, USER_PROMPT_TEMPLATE, SUGGEST_QUESTIONS_SYSTEM_PROMPT, SUGGEST_QUESTIONS_USER_PROMPT
 
 load_dotenv()
 
@@ -144,6 +144,13 @@ def rrf_combine(
 
     ranked = sorted(scores.items(), key=lambda x: x[1], reverse=True)
     return [docs[key] for key, _ in ranked[:top_k]]
+
+
+def suggest_questions(survey_summary: str) -> list[str]:
+    user_prompt = SUGGEST_QUESTIONS_USER_PROMPT.format(survey_summary=survey_summary)
+    raw = generate_answer(SUGGEST_QUESTIONS_SYSTEM_PROMPT, user_prompt)
+    questions = [line.strip() for line in raw.strip().splitlines() if line.strip()]
+    return questions[:4]
 
 
 def ask(question: str, collection, bm25: BM25) -> tuple[list[dict], str]:
