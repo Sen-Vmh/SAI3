@@ -4,12 +4,14 @@ import os
 import re
 import math
 import sys
+import json
 from pathlib import Path
 from pydantic import BaseModel
 from collections import Counter
 from dotenv import load_dotenv
 
-sys.path.insert(0, str(Path(__file__).parent.parent))
+project_root = Path(__file__).parent.parent
+sys.path.insert(0, str(project_root))
 
 from prompts import BREAKDOWN_USER_PROMPT_INTO_SUB_PROMPTS, SYSTEM_PROMPT, USER_PROMPT_TEMPLATE, SUGGEST_QUESTIONS_SYSTEM_PROMPT, SUGGEST_QUESTIONS_USER_PROMPT
 
@@ -31,6 +33,11 @@ STOPWORDS = {
     "of", "with", "is", "it", "this", "that", "are", "was", "be",
     "as", "by", "from", "but", "not", "have", "has", "had",
 }
+
+def load_resources():
+    collection = get_collection()
+    bm25 = build_index(collection)
+    return collection, bm25
 
 def get_chroma_client():
     try:
@@ -88,7 +95,8 @@ def break_down_query(prompt: str) -> str:
         timeout=180,
     )
     resp.raise_for_status()
-    print(resp.json()["response"].strip())
+
+    return json.loads(resp.json()["response"].strip())["questions"]
 
 def _tokenize(text: str) -> list[str]:
     return re.findall(r"[a-zA-Z]+", text.lower())
@@ -175,6 +183,15 @@ def suggest_questions(survey_summary: str) -> list[str]:
 
 
 def ask(question: str, collection, bm25: BM25) -> tuple[list[dict], str]:
+    results = search_database(question, collection, bm25)
+
+    context = "\n\n".join(r["text"] for r in results)
+    user_prompt = USER_PROMPT_TEMPLATE.format(question=question, context=context)
+    answer = generate_answer(SYSTEM_PROMPT, user_prompt)
+
+    return results, answer
+
+def search_database(question: str, collection, bm25: BM25) -> tuple[list[dict], str]:
     question_embedding = embed_text(question)
 
     dense_raw = collection.query(
@@ -182,6 +199,7 @@ def ask(question: str, collection, bm25: BM25) -> tuple[list[dict], str]:
         n_results=10,
         include=["documents", "metadatas", "distances"],
     )
+
     dense_results = [
         {"id": id_, "text": doc, "meta": meta}
         for id_, doc, meta in zip(
@@ -194,32 +212,73 @@ def ask(question: str, collection, bm25: BM25) -> tuple[list[dict], str]:
     bm25_results = bm25.search(question, top_k=10)
     results = rrf_combine(dense_results, bm25_results)
 
-    context = "\n\n".join(r["text"] for r in results)
-    user_prompt = USER_PROMPT_TEMPLATE.format(question=question, context=context)
-    answer = generate_answer(SYSTEM_PROMPT, user_prompt)
-    return results, answer
+    return results
 
+def rag_pipeline(question: str, user_profile: str, collection, bm25: BM25) -> str:
+    questions = break_down_query(BREAKDOWN_USER_PROMPT_INTO_SUB_PROMPTS.format(user_question=question, user_profile=user_profile))
+
+    return questions
+
+# def main() -> None:
+#     collection = get_collection()
+#     print("Building BM25 index...")
+#     bm25 = build_index(collection)
+
+#     user_profile = "Age: 35, Portfolio: 60% stocks, 30% bonds, 10% cash. Primary Goal: House in 2 years."
+#     question = input("What do you want to know?\n> ").strip()
+
+#     if not question:
+#         print("No question entered.")
+#         return
+
+#     print("Searching...")
+    
+#     results, answer = ask(question, collection, bm25)
+
+#     print("\n--- Sources ---")
+#     for i, r in enumerate(results):
+#         print(f"{i + 1}. {r['meta'].get('source', '')} — {r['meta'].get('headings', '')}")
+
+#     print("\n--- Answer ---")
+#     print(answer)
 
 def main() -> None:
-    collection = get_collection()
-    print("Building BM25 index...")
-    bm25 = build_index(collection)
+    print("Loading resources...")
+    collection, bm25 = load_resources()
+    user_profile = "Age: 35, Portfolio: 60% stocks, 30% bonds, 10% cash. Primary Goal: House in 2 years."
 
+    print("Welcome to the Finance RAG System!")
     question = input("What do you want to know?\n> ").strip()
+
     if not question:
         print("No question entered.")
         return
 
-    print("Searching...")
-    results, answer = ask(question, collection, bm25)
+    print("Splitting query...")
+    questions = break_down_query(BREAKDOWN_USER_PROMPT_INTO_SUB_PROMPTS.format(user_question=question, user_profile=user_profile))
 
-    print("\n--- Sources ---")
-    for i, r in enumerate(results):
-        print(f"{i + 1}. {r['meta'].get('source', '')} — {r['meta'].get('headings', '')}")
+    print(questions)
+    for idx, question in enumerate(questions):
+        print(f"\n--- Sub-question {idx + 1} ---")
+        print(question)
 
-    print("\n--- Answer ---")
-    print(answer)
+        print("Searching rag db for files relevant to sub-queries...")
+        for query in question["queries"]:
+            results = search_database(query, collection, bm25)
+
+            print("\n--- Sources ---")
+            for i, r in enumerate(results):
+                print(f"{i + 1}. {r['meta'].get('source', '')} — {r['meta'].get('headings', '')}")
+                print(f"    {r['text'][:200]}...")
 
 
-# if __name__ == "__main__":
-#     main()
+    # print("\n--- Sources ---")
+    # for i, r in enumerate(results):
+    #     print(f"{i + 1}. {r['meta'].get('source', '')} — {r['meta'].get('headings', '')}")
+
+    # print("\n--- Answer ---")
+    # print(answer)
+
+
+if __name__ == "__main__":
+    main()
