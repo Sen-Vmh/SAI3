@@ -5,12 +5,13 @@ import re
 import math
 import sys
 from pathlib import Path
+from pydantic import BaseModel
 from collections import Counter
 from dotenv import load_dotenv
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from prompts import SYSTEM_PROMPT, USER_PROMPT_TEMPLATE, SUGGEST_QUESTIONS_SYSTEM_PROMPT, SUGGEST_QUESTIONS_USER_PROMPT
+from prompts import BREAKDOWN_USER_PROMPT_INTO_SUB_PROMPTS, SYSTEM_PROMPT, USER_PROMPT_TEMPLATE, SUGGEST_QUESTIONS_SYSTEM_PROMPT, SUGGEST_QUESTIONS_USER_PROMPT
 
 load_dotenv()
 
@@ -30,7 +31,6 @@ STOPWORDS = {
     "of", "with", "is", "it", "this", "that", "are", "was", "be",
     "as", "by", "from", "but", "not", "have", "has", "had",
 }
-
 
 def get_chroma_client():
     try:
@@ -68,6 +68,27 @@ def generate_answer(system_prompt: str, user_prompt: str) -> str:
     resp.raise_for_status()
     return resp.json()["response"].strip()
 
+class Question(BaseModel):
+    question: str
+    queries: list[str]
+
+class Response(BaseModel):
+    questions: list[Question]
+
+def break_down_query(prompt: str) -> str:
+    resp = requests.post(
+        GENERATION_URL,
+        json={
+            "model": GENERATION_MODEL,
+            "prompt": prompt,
+            "stream": False,
+            "format": Response.model_json_schema(),
+            "options": {'temperature': 0}
+        },
+        timeout=180,
+    )
+    resp.raise_for_status()
+    print(resp.json()["response"].strip())
 
 def _tokenize(text: str) -> list[str]:
     return re.findall(r"[a-zA-Z]+", text.lower())
@@ -200,5 +221,5 @@ def main() -> None:
     print(answer)
 
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()
