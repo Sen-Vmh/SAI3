@@ -2,6 +2,7 @@ import streamlit as st
 import sys
 from pathlib import Path
 
+from components.sidebar import render_sidebar
 from components.survey import render_survey
 
 st.set_page_config(page_title="Finance RAG", layout="centered")
@@ -17,25 +18,7 @@ if not st.session_state.survey_complete:
     render_survey()
 
 else:
-    # Put a "Reset" in sidebar so users aren't locked in
-    st.sidebar.success("Profile Loaded ✅")
-
-    with st.sidebar.expander("🔍 Your Profile Summary"):
-        profile = st.session_state.get("user_profile", {})
-        if profile:
-            for key, value in profile.items():
-                clean_key = key.replace('_', ' ').title()
-                if isinstance(value, dict):
-                    st.write(f"**{clean_key}:**")
-                    for k, v in value.items():
-                        st.write(f"  - {k}: {v}")
-                else:
-                    st.write(f"**{clean_key}:** {value}")
-
-    if st.sidebar.button("Retake Survey"):
-        st.session_state.survey_complete = False
-        st.rerun()
-
+    render_sidebar()
 
     sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
 
