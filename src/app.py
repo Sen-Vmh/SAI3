@@ -16,8 +16,33 @@ if not st.session_state.survey_complete:
     st.write("Before we start, let's understand your current strategy and goals.")
     
     with st.form("survey_form"):
+        if st.form_submit_button("autofill"):
+            st.session_state.user_profile = {
+                "age": 29,
+                "primary_goal": "Build long-term wealth",
+                "major_purchases": {
+                    "house": {"timeline": "5–7 years", "budget": 650000},
+                    "car": {"timeline": "2 years", "budget": 30000},
+                    "education": None,
+                    "other": None
+                },
+                "concern": "Market volatility",
+                "risk_reaction": "I get nervous but usually stay invested",
+                "investing_method": "Automated monthly contributions",
+                "rebalance_freq": "Quarterly",
+                "last_rebalanced": "2025-12-15",
+                "allocation": (
+                    "Stocks:55%, Bonds:20%, Cash:5%, RE:10%, Crypto:5%, "
+                    "PM:2%, ETFs:2%, HF:0%, Other:1% (Angel investments)"
+                )
+            }
+
+            st.session_state.survey_complete = True
+            st.rerun()
+            
         st.subheader("Basic Information")
         age = st.number_input("How old are you?", min_value=18, max_value=100, value=None, placeholder="Enter age")
+
         
         st.divider()
 
