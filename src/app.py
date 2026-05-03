@@ -1,6 +1,5 @@
 import streamlit as st
 from pages.chat.chat import render_chat
-from pages.chat.components.sidebar import render_sidebar
 from pages.survey import render_survey
 from core.state import init_session_state
 
@@ -15,5 +14,4 @@ if not st.session_state.survey_complete:
     render_survey()
 
 else:
-    render_sidebar()
     render_chat()
