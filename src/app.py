@@ -1,18 +1,16 @@
 import streamlit as st
-
 from components.chat import render_chat
 from components.sidebar import render_sidebar
 from components.survey import render_survey
+from core.state import init_session_state
 
+# 1. Page Config
 st.set_page_config(page_title="Finance RAG", layout="centered")
 
-# --- SURVEY STATE ---
-if "survey_complete" not in st.session_state:
-    st.session_state.survey_complete = False
-if "user_profile" not in st.session_state:
-    st.session_state.user_profile = {}
+# 2. Initialize State
+init_session_state()
 
-# --- CONDITIONAL DISPLAY ---
+# 3. Routing / Conditional Rendering
 if not st.session_state.survey_complete:
     render_survey()
 

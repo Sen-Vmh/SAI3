@@ -18,13 +18,9 @@ def render_chat():
         bm25 = build_index(collection)
         return collection, bm25
 
-
     collection, bm25 = load_resources()
 
-    if "messages" not in st.session_state:
-        st.session_state.messages = []
-
-    if "suggested_questions" not in st.session_state:
+    if len(st.session_state.get("suggested_questions", [])) == 0:
         with st.spinner("Generating suggested questions..."):
             profile = st.session_state.get("user_profile", {})
             survey_summary = "\n".join(f"{k}: {v}" for k, v in profile.items())
