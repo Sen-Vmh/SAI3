@@ -13,5 +13,5 @@ def suggest_questions_component():
         st.markdown("**Suggested questions based on your portfolio:**")
         for q in st.session_state.suggested_questions:
             if st.button(q, use_container_width=True):
-                st.session_state.messages.append({"role": "user", "content": q})
+                st.session_state.pending_question = q
                 st.rerun()

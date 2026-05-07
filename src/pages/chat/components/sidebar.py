@@ -11,7 +11,11 @@ def render_sidebar():
                 if isinstance(value, dict):
                     st.write(f"**{clean_key}:**")
                     for k, v in value.items():
-                        st.write(f"  - {k}: {v}")
+                        if isinstance(v, dict):
+                            details = ", ".join(f"{dk}: {dv}" for dk, dv in v.items())
+                            st.write(f"  - {k}: {details}")
+                        else:
+                            st.write(f"  - {k}: {v}")
                 else:
                     st.write(f"**{clean_key}:** {value}")
 

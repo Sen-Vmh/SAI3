@@ -13,14 +13,15 @@ from dotenv import load_dotenv
 project_root = Path(__file__).parent.parent
 sys.path.insert(0, str(project_root))
 
-from prompts import BREAKDOWN_USER_PROMPT_INTO_SUB_PROMPTS, SYSTEM_PROMPT, USER_PROMPT_TEMPLATE, SUGGEST_QUESTIONS_SYSTEM_PROMPT, SUGGEST_QUESTIONS_USER_PROMPT
+from prompts import BREAKDOWN_USER_PROMPT_INTO_SUB_PROMPTS, SYSTEM_PROMPT, USER_PROMPT_TEMPLATE, SUGGEST_QUESTIONS_SYSTEM_PROMPT, SUGGEST_QUESTIONS_USER_PROMPT, AUGEMENTED_RESPONSE_LLM_PROMPT
 
 load_dotenv()
 
 EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "nomic-embed-text")
 EMBEDDING_URL = os.getenv("EMBEDDING_URL", "http://localhost:11434/api/embeddings")
-GENERATION_MODEL = os.getenv("GENERATION_MODEL", "llama3.2")
-GENERATION_URL = os.getenv("GENERATION_URL", "http://localhost:11434/api/generate")
+GENERATION_MODEL = os.getenv("GENERATION_MODEL", "Qwen/Qwen2.5-7B-Instruct-Turbo")
+GENERATION_URL = os.getenv("GENERATION_URL", "https://api.together.xyz/v1/chat/completions")
+TOGETHER_API_KEY = os.getenv("TOGETHER_API_KEY", "")
 CHROMA_HOST = os.getenv("CHROMA_HOST", "localhost")
 CHROMA_PORT = int(os.getenv("CHROMA_PORT", "8000"))
 COLLECTION_NAME = os.getenv("CHROMA_COLLECTION", "finance_docs")
@@ -62,18 +63,25 @@ def embed_text(text: str) -> list[float]:
     return resp.json()["embedding"]
 
 
+def _auth_headers() -> dict:
+    return {"Authorization": f"Bearer {TOGETHER_API_KEY}", "Content-Type": "application/json"}
+
+
 def generate_answer(system_prompt: str, user_prompt: str) -> str:
+    messages = []
+    if system_prompt:
+        messages.append({"role": "system", "content": system_prompt})
+    messages.append({"role": "user", "content": user_prompt})
+
     resp = requests.post(
         GENERATION_URL,
-        json={
-            "model": GENERATION_MODEL,
-            "prompt": f"{system_prompt}\n\n{user_prompt}",
-            "stream": False,
-        },
-        timeout=180,
+        headers=_auth_headers(),
+        json={"model": GENERATION_MODEL, "messages": messages, "temperature": 0.1, "max_tokens": 1024},
+        timeout=60,
     )
     resp.raise_for_status()
-    return resp.json()["response"].strip()
+    return resp.json()["choices"][0]["message"]["content"].strip()
+
 
 class Question(BaseModel):
     question: str
@@ -82,21 +90,21 @@ class Question(BaseModel):
 class Response(BaseModel):
     questions: list[Question]
 
-def break_down_query(prompt: str) -> str:
+def break_down_query(prompt: str) -> list:
     resp = requests.post(
         GENERATION_URL,
+        headers=_auth_headers(),
         json={
             "model": GENERATION_MODEL,
-            "prompt": prompt,
-            "stream": False,
-            "format": Response.model_json_schema(),
-            "options": {'temperature': 0}
+            "messages": [{"role": "user", "content": prompt}],
+            "temperature": 0,
+            "max_tokens": 1024,
+            "response_format": {"type": "json_object", "schema": Response.model_json_schema()},
         },
-        timeout=180,
+        timeout=60,
     )
     resp.raise_for_status()
-
-    return json.loads(resp.json()["response"].strip())["questions"]
+    return json.loads(resp.json()["choices"][0]["message"]["content"])["questions"]
 
 def _tokenize(text: str) -> list[str]:
     return re.findall(r"[a-zA-Z]+", text.lower())
@@ -213,6 +221,16 @@ def search_database(question: str, collection, bm25: BM25) -> tuple[list[dict], 
     results = rrf_combine(dense_results, bm25_results)
 
     return results
+
+def synthesize_answer(question: str, results: list[dict], user_profile: str) -> str:
+    context = "\n\n".join(r["text"] for r in results[:TOP_K])
+    prompt = AUGEMENTED_RESPONSE_LLM_PROMPT.format(
+        question=question,
+        context=context,
+        profile_string=user_profile,
+    )
+    return generate_answer("", prompt)
+
 
 def rag_pipeline(question: str, user_profile: str, collection, bm25: BM25) -> str:
     questions = break_down_query(BREAKDOWN_USER_PROMPT_INTO_SUB_PROMPTS.format(user_question=question, user_profile=user_profile))
