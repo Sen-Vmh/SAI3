@@ -4,9 +4,12 @@ from processing.query import synthesize_answer
 from utils import get_survey_summary
 
 def chat_input(collection, bm25):
-    question = st.session_state.pop("pending_question", None) or st.chat_input("What do you want to know?")
+    pending = st.session_state.pop("pending_question", None)
+    typed = st.chat_input("What do you want to know?")
+    question = pending or typed
 
     if question:
+        st.session_state.messages = []  # fresh context every question
         st.session_state.messages.append({"role": "user", "content": question})
         with st.chat_message("user"):
             st.markdown(question)
