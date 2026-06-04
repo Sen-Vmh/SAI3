@@ -90,6 +90,24 @@ class Question(BaseModel):
 class Response(BaseModel):
     questions: list[Question]
 
+_DECOMPOSE_SCHEMA = {
+    "type": "object",
+    "required": ["questions"],
+    "properties": {
+        "questions": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": ["question", "queries"],
+                "properties": {
+                    "question": {"type": "string"},
+                    "queries": {"type": "array", "items": {"type": "string"}},
+                },
+            },
+        }
+    },
+}
+
 def break_down_query(prompt: str) -> list:
     resp = requests.post(
         GENERATION_URL,
@@ -99,10 +117,12 @@ def break_down_query(prompt: str) -> list:
             "messages": [{"role": "user", "content": prompt}],
             "temperature": 0,
             "max_tokens": 1024,
-            "response_format": {"type": "json_object", "schema": Response.model_json_schema()},
+            "response_format": {"type": "json_object", "schema": _DECOMPOSE_SCHEMA},
         },
         timeout=60,
     )
+    if not resp.ok:
+        print(f"[break_down_query] {resp.status_code}: {resp.text}")
     resp.raise_for_status()
     return json.loads(resp.json()["choices"][0]["message"]["content"])["questions"]
 
