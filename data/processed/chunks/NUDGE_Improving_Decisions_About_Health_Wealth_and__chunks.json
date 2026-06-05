@@ -1,0 +1,3621 @@
+[
+  {
+    "text": "February 2011 Issue 24",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/5",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 187.68756103515625,
+                "t": 648.4505004882812,
+                "r": 454.7740478515625,
+                "b": 635.9943237304688,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                22
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "POPNeWs"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 10561139017577154135,
+        "filename": "NUDGE_Improving_Decisions_About_Health_Wealth_and_.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Welcome to our first edition of POP News for 2011. The Institute started off the new year with a co-sponsored event in the Ottawa municipal council chambers. The Canadian Public Health Association Expo, documenting Canada's 12 greatest public health achievements for the last century, was put on public display and I officially announced our winning population and public health research milestone teams. The event was well attended, with opening remarks given by Debra Lynkowski (Chief Executive Officer, Canadian Public Health Association), Ottawa's Mayor, Jim Watson, Dr. Vera Etches (Ottawa's Associate Medical Officer of Health), and Krista Outhwaite (Associate Deputy Minister, Public Health Agency of Canada).\nCongratulations to our four Milestone winners (please see p. 3). Each of these teams has made outstanding research contributions to the field of public and population health. They have advanced the science and importantly, brought health benefits to Canadians. For those interested in learning more about these exceptional teams, articles describing their work have been published in the Canadian Journal of Public Health and are accessible on the IPPH website (http://www.cihr-irsc.gc.ca/e/42882.html).\nOur much anticipated Population Health Intervention Research (PHIR) Symposium and Workshop was held in Toronto at the end of November, 2010. These two successful events were jam-packed with excellent presentations and stimulating dialogue among leading scientists, decision-makers and research funders from Canada and several other countries. Highlights from these events will be captured in\nFor general inquiries, or to be added to our ebulletin listserv, please contact us at ipph-ispp@uottawa.ca\nproceedings, which should be available on our website within the coming weeks. Most of our Applied Public Health Chairs were in attendance providing an opportunity for a lively and fruitful discussion with colleagues from the Public Health Agency of Canada during an invitational dinner. Follow-up events on population health interventions are currently being planned with international partners \u2013 more to come in future newsletters.\nAs part of our knowledge translation activities, several of our staff have been working on two new casebooks. Emma Cohen has led the preparation of a casebook on search Initiative on a second casebook highlighting concrete examples of the value of global health research towards improving health and health systems to share with research and policy communities and civil society\n(scheduled for release in late spring 2011) We will include announcements about their release in our monthly e-bulletin.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/7",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 51.484527587890625,
+                "t": 597.8035888671875,
+                "r": 244.64712524414062,
+                "b": 404.7082214355469,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                716
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/8",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 51.41437911987305,
+                "t": 390.8104553222656,
+                "r": 243.03590393066406,
+                "b": 266.6526184082031,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                503
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/9",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 51.30281066894531,
+                "t": 252.947998046875,
+                "r": 241.27398681640625,
+                "b": 151.836181640625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                391
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/10",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 55.667999267578125,
+                "t": 131.96710205078125,
+                "r": 245.83770751953125,
+                "b": 110.37909698486328,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                85
+              ]
+            },
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 103.86299896240234,
+                "t": 107.78559875488281,
+                "r": 198.07949829101562,
+                "b": 98.24109649658203,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                86,
+                106
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/11",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 254.859130859375,
+                "t": 597.866455078125,
+                "r": 416.6741638183594,
+                "b": 519.7405395507812,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                256
+              ]
+            },
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 254.9392852783203,
+                "t": 517.3858032226562,
+                "r": 357.6282653808594,
+                "b": 429.76092529296875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                257,
+                433
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/12",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 254.869140625,
+                "t": 413.85919189453125,
+                "r": 359.58819580078125,
+                "b": 337.7572937011719,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                161
+              ]
+            },
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 430.0201110839844,
+                "t": 597.8938598632812,
+                "r": 560.48046875,
+                "b": 519.7679443359375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                162,
+                378
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/13",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 454.2184143066406,
+                "t": 517.4132080078125,
+                "r": 558.8903198242188,
+                "b": 462.273193359375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                120
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Message from the Scientific Director"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 10561139017577154135,
+        "filename": "NUDGE_Improving_Decisions_About_Health_Wealth_and_.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Dr. Nancy Edwards Scientific Director PHIR Symposium\npopulation health interventions with colleagues from the Canadian Population Health Initiative at the Canadian Institute for Health Information. This will be available in March. Erica Di Ruggiero and Ashley Page have been working with the Global Health Re-\nAfter months of preparation, we will be meeting with members of the international review panel during February and March. In preparation for our Institute's site visit, we held a mock review at our November Institute Advisory Board (IAB) meeting in\nVancouver. I want to thank Drs. Morris Barer and John O'Neil who agreed to be our mock reviewers, and Dr. Penny Hawe who chaired the mock review. (continued on p. 8)\nInside this Issue: = Message from the Scientific Director\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. 1. Inside this Issue: = Invited Book Review\u2014Nudge: Improving decisions about health, wealth and  happiness \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.  2. Inside this Issue: = 2010 CIHR-IPPH-CPHA PPH Research Milestones\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. 3. Inside this Issue: = Applied Public Health Chair Feature: Dr. Janice Sargeant.\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. 4. Inside this Issue: = 2010 IPPH-PHAC Caf\u00e9s Scientifiques\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\u2026....\u2026\u2026\u2026\u2026.. 5. Inside this Issue: = Student Corner: Chris Connolly\u2026\u2026\u2026...\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\u2026...\u2026\u2026\u2026\u2026... 6. Inside this Issue: = Ottawa Celebrates 100 Years of Public Health in Canada\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026... 7\nInvited book review by Dr. Patricia Martens, Director, Manitoba Centre for Health Policy; CIHR/PHAC Applied Public Health Chair; Professor, Department of Community Health Sciences, Faculty of Medicine, University of Manitoba.\nNudge: Improving decisions about health, wealth and happiness\nBy R.H. Thaler and C.R. Sunstein\nYale University Press: 2008. 293 pp.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/14",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 363.76116943359375,
+                "t": 385.59912109375,
+                "r": 438.3877258300781,
+                "b": 349.67938232421875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                52
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/15",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 254.859130859375,
+                "t": 333.3184509277344,
+                "r": 407.29949951171875,
+                "b": 255.19247436523438,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                256
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/16",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 452.8957824707031,
+                "t": 448.3954772949219,
+                "r": 560.4774780273438,
+                "b": 335.7606506347656,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                248
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/17",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 430.0201110839844,
+                "t": 333.3458251953125,
+                "r": 561.1088256835938,
+                "b": 266.7629089355469,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                165
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/tables/0",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "document_index",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 253.6593780517578,
+                "t": 241.921630859375,
+                "r": 562.4815063476562,
+                "b": 85.27337646484375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/24",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 52.35803985595703,
+                "t": 587.0401000976562,
+                "r": 161.51568603515625,
+                "b": 450.5257873535156,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                225
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/25",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 61.30799865722656,
+                "t": 358.5959777832031,
+                "r": 162.18960571289062,
+                "b": 306.5039978027344,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                61
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/26",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 74.7714614868164,
+                "t": 291.6944274902344,
+                "r": 161.91741943359375,
+                "b": 272.8868713378906,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/27",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 60.33882141113281,
+                "t": 256.740234375,
+                "r": 161.93455505371094,
+                "b": 221.4614715576172,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                36
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Message from the Scientific Director"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 10561139017577154135,
+        "filename": "NUDGE_Improving_Decisions_About_Health_Wealth_and_.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Nudge: Improving decisions about health, wealth and happiness\nBy Dr. Patricia Martens\nPopulation health researchers grow up with the concepts of 'upstream, midstream and downstream', and the Rose Theorem:\n- (1) change will best occur at the population level when there are simultaneous strategies at all levels \u2013 downstream (individual clinical or curative), midstream (education and promotion), and upstream (healthy public policy and built environment);\n- (2) small changes over large populations are extremely important from a population perspective, when the entire bell curve is influenced (the Rose Theorem); and,\n- (3) upstream measures are best suited to affecting the whole population, but midstream measures can sometimes leave a portion of the population behind.\nSo we need to look for population health interventions that work for everyone. That's where the book Nudge may offer us insight.\nDifferent people, cultures and countries have very different tolerance levels for government interventions. If we do the usual comparison of Canada versus USA, differences may be in our cultural DNA, or maybe our BNA\u2014British North America Act, that is (actually, it recently changed its name to the Constitution Act of 1867). Remember the USA's Declaration of Inde- pendence and its key ideas \u2013 life, liberty and the pursuit of happiness. Contrast our Canadian BNA Act \u2013 peace, order and good government. Guess which citizenship may be more comfortable with legislation as a means of affecting healthy changes at the population level? Different places, times and people may have varying degrees of comfort with government legislation. In the past decades, we have seen legislation on drinking ages, seat belts, bike helmets, smoking in public places, and recently, smoking in cars with kids present. But there is always the opposition voice that says, \"I want my freedom \u2013 don't legislate my behaviour.\"\nA brief moment of selfdeclaration \u2013 I am, by nature, very comfortable with upstream policy, being born and bred in Canada, politically middle of the road, a longtime population health researcher and health advocate. But I have to realize that not everyone agrees with my stance in life. So how can we use the ideas in Nudge to encourage population health interventions?",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/29",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 180.7396240234375,
+                "t": 696.7092895507812,
+                "r": 475.3734130859375,
+                "b": 686.9151000976562,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                61
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/30",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 180.85955810546875,
+                "t": 674.0733642578125,
+                "r": 281.4052734375,
+                "b": 665.2858276367188,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/31",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 181.25033569335938,
+                "t": 651.4080810546875,
+                "r": 301.3841247558594,
+                "b": 598.2921142578125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                118
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/32",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 181.49082946777344,
+                "t": 593.8532104492188,
+                "r": 305.19873046875,
+                "b": 481.2384948730469,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                248
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/33",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 181.49082946777344,
+                "t": 478.8637390136719,
+                "r": 305.40216064453125,
+                "b": 400.7578430175781,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                161
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/34",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 181.49082946777344,
+                "t": 398.3229675292969,
+                "r": 303.86810302734375,
+                "b": 322.2210388183594,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                151
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/35",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 181.14012145996094,
+                "t": 306.31927490234375,
+                "r": 305.59356689453125,
+                "b": 251.17913818359375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                128
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/36",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 180.9597625732422,
+                "t": 237.30142211914062,
+                "r": 303.07452392578125,
+                "b": 92.16152954101562,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                365
+              ]
+            },
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 316.0594177246094,
+                "t": 678.7423706054688,
+                "r": 440.2432861328125,
+                "b": 428.0720520019531,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                366,
+                1003
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/37",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 316.0694580078125,
+                "t": 414.1943664550781,
+                "r": 437.727294921875,
+                "b": 257.55157470703125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                369
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Invited Book Review"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 10561139017577154135,
+        "filename": "NUDGE_Improving_Decisions_About_Health_Wealth_and_.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "That's exactly why I enjoyed this book so much \u2013 it gives me tools to use for those who may be more libertarian by nature. Richard Thaler is a professor of behavioral science and economics at the University of Chicago. Cass Sunstein is a professor of jurisprudence in the University of Chicago's Law School and Department of Political Science. So although the book is written in very accessible ways, it has a detailed and fascinating bibliography for those who want to delve more into the research behind the statements. Their definition of nudge is (p. 6): \"\u2026 any aspect of the choice architecture that alters people's behavior in a predictable way without forbidding any options or significantly changing their economic incentives.\" This hinges on the concept of choice architecture \u2013 if choice architects build a system correctly, they are \"selfconsciously attempting to move people in directions that will make their lives better.\"\nThaler and Sunstein use the term, 'libertarian paternalism', by which they mean (p. 5), \"\u2026 a relatively weak, soft, and nonintrusive type of paternalism because choices are not blocked, fenced off, or significantly burdened.\" Their ideal of libertarianism is not surprising, given their roots in the University of Chicago and their strong belief in the freedom of choice of people. But the combination of libertarian with paternalism sounds like an oxymoron. In the authors' minds, paternalism refers to the fact that through choice architecture, institutions (private or public) can influence peoples' free choice in helpful ways that could improve their lives. In many ways, this is not a new concept to population health scientists, who have long been involved in the built environment, and the idea of 'making the easy choice the right choice'. We are familiar with\nissues such as making stairs more accessible in buildings, or designing cities for walkability, or making the healthier choice fun (like in the piano stairs example you can see at funtheory.com). These types of examples would qualify as a libertarian paternalism approach in the minds of Thaler and Sunstein.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/38",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 316.05938720703125,
+                "t": 241.65982055664062,
+                "r": 437.53289794921875,
+                "b": 94.50592041015625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                367
+              ]
+            },
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 451.0588684082031,
+                "t": 678.591796875,
+                "r": 575.4752197265625,
+                "b": 452.931396484375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                368,
+                936
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/39",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 451.0599365234375,
+                "t": 437.0296325683594,
+                "r": 575.5263671875,
+                "b": 96.76644134521484,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                869
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/46",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 38.940120697021484,
+                "t": 719.3938598632812,
+                "r": 159.17613220214844,
+                "b": 597.2501220703125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                308
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Invited Book Review"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 10561139017577154135,
+        "filename": "NUDGE_Improving_Decisions_About_Health_Wealth_and_.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "The intriguing idea of setting healthy defaults is used extensively throughout Nudge, to frame people's choices in such a way as to nudge them to choose healthier options. The book romps through a myriad of examples, all the way from savings and investments, to social security, marriage, prescription drug plans, saving the environment, teen pregnancy prevention, smoking cessation, and motorcycle helmet use. All of these behaviours can indeed be influenced by nudges. I particularly like their idea of the Ci- vility Checker on emails, to prevent sending an angry email without appropriate nudging to wait awhile (p. 235).\nNudges can be highly effective, and we need to do more research into understanding their effects. Although I really enjoyed the basic premise of the book, at times I found the stance of libertarianism uncomfortable. Taken to its extreme, libertarian paternalism should always take precedence over legislation. But we certainly don't want to negate the basic public health tool of the power of legislation, probably one of the most effective ways to improve population health quickly. For example, Thaler and Sunstein's example of encouraging motorcycle helmet use through extra health insurance requirements doesn't translate well to a universal health care system that needs to balance choice for the individual with cost for the society. So for that reason, I was heartened to see the authors' selfdeclaration in the last chapter, stating that they are supportive of some redistribution of wealth, and that \"a good society makes trade-offs between protecting the unfortunate and encouraging initiative and self-help.\" (p. 242).\nThis book is highly entertaining. It can also result in creative thinking for both decision-makers and researchers, to look for the opportunities that abound through choice architecture. What should we implement, does it work, and what are the benefits? In Canada and the world, we are all striving towards better population health and reducing socioeconomic gaps. Maybe this will give us one more tool.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/47",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 38.859962463378906,
+                "t": 581.3583374023438,
+                "r": 161.0148162841797,
+                "b": 376.7198791503906,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                512
+              ]
+            },
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 173.85943603515625,
+                "t": 719.3036499023438,
+                "r": 287.2537841796875,
+                "b": 664.1836547851562,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                513,
+                625
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/48",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 173.7592315673828,
+                "t": 650.285888671875,
+                "r": 297.79278564453125,
+                "b": 376.6296691894531,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                686
+              ]
+            },
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 308.85888671875,
+                "t": 719.2134399414062,
+                "r": 433.01373291015625,
+                "b": 583.61279296875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                687,
+                1029
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/49",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 308.85888671875,
+                "t": 563.6629638671875,
+                "r": 430.18206787109375,
+                "b": 395.3771057128906,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                403
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Invited Book Review"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 10561139017577154135,
+        "filename": "NUDGE_Improving_Decisions_About_Health_Wealth_and_.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "CIHR-IPPH in partnership with the Canadian Public Health Association (CPHA) are pleased to recognize the winners of the inaugural Population and Public Health Research Milestones Initiative (http://www.cihr-irsc.gc.ca/ e/42882.html).\nhealth equity; and, they have influenced research, policy and/or practice. These milestones were determined through a competitive peer review process.\nThe research milestones have significantly contributed to the public's health in Canada and globally; they are relevant to at least one of the 12 CPHA achievements (http:// cpha100.ca) or to another population and public health priority; they demonstrate originality in addressing a public health problem; they have led to significant improvements in health and/or\nSays Ms. Debra Lynkowski, CEO, CPHA, \"The milestones that have been selected demonstrate the extraordinary contribution that population and public health research has made to public health practice. In Canada, we are truly fortunate to have such dedicated and talented researchers working in the name of population and public health; we know that Canadians enjoy the benefits of their research every day.\"\nInstituteofPopulationandPublicHealth\n600Peter-MorandCrescent,Suite312\nSays Dr. Nancy Edwards, Scientific Director, IPPH, \"Canadians have demonstrated leadership in the field of population health research. These milestones are important reminders of our longstanding contributions in this important field and the winners have been giants in this field. The relevance of population health principles and approaches is more timely than ever as we look at our most pressing health equity issues in Canada and globally.\"\nThese milestones in research are published as a special section in the Nov/Dec 2010 issue of the Canadian Journal of Public Health.\n\"This book is highly entertaining. It can also result in creative thinking for both decision-makers and researchers, to look for the opportunities that abound through choice architecture.\"\nDr. Janice Sargeant Applied Public Health Chair\n\"Zoonotic diseases, those \"Zoonotic diseases, those transmitted between ani- transmitted between animals and humans, ac- mals and humans, account for approximately count for approximately 60% of infectious organ- 60% of infectious organisms known to be patho- isms known to be pathogenic to humans.\" genic to humans.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/51",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 38.940120697021484,
+                "t": 341.3938903808594,
+                "r": 163.01382446289062,
+                "b": 240.30209350585938,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                233
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/52",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 173.93959045410156,
+                "t": 341.3237609863281,
+                "r": 291.69964599609375,
+                "b": 274.7408752441406,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                150
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/53",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 38.859962463378906,
+                "t": 226.34423828125,
+                "r": 162.9937286376953,
+                "b": 79.28070068359375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                364
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/54",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 173.93959045410156,
+                "t": 260.7829895019531,
+                "r": 298.3288879394531,
+                "b": 90.6534423828125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                405
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/55",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 37.0546875,
+                "t": 74.649169921875,
+                "r": 187.6640625,
+                "b": 65.46769205729163,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                36
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/56",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 37.0546875,
+                "t": 65.866943359375,
+                "r": 170.9296875,
+                "b": 56.68546549479163,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/57",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 308.9390563964844,
+                "t": 341.253662109375,
+                "r": 430.290283203125,
+                "b": 148.07810974121094,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                445
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/58",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 309.1695251464844,
+                "t": 134.20040893554688,
+                "r": 429.1990966796875,
+                "b": 81.1445083618164,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                131
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/59",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 443.9519958496094,
+                "t": 632.6279907226562,
+                "r": 559.5419921875,
+                "b": 486.2039794921875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                188
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/79",
+          "parent": {
+            "cref": "#/pictures/8"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 53.95576858520508,
+                "t": 547.845703125,
+                "r": 170.705810546875,
+                "b": 524.3588256835938,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                47
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/80",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 51.904319763183594,
+                "t": 435.4781494140625,
+                "r": 166.91433715820312,
+                "b": 330.0921325683594,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                316
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "2010 CIHR-IPPH-CPHA Population and Public Health Research Milestones"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 10561139017577154135,
+        "filename": "NUDGE_Improving_Decisions_About_Health_Wealth_and_.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Dr. Jan Sargeant is the Director of the Centre for Public Health and Zoonoses and a Professor in the Department of Population Medicine at the Ontario Veterinary College, University of Guelph.\nZoonotic diseases, those transmitted between animals and humans, account for approximately 60% of infectious organisms known to be pathogenic to humans and over 75% of emerging infectious diseases. Foodborne pathogens, the majority of which have their reservoir in domestic animals, are estimated to cause at least 11 million human illnesses annually in Canada at a cost of over $3.7 billion. Disease outbreaks can have devastating effects on communities, as evidenced by the 2000 outbreak of E. coli O157 in Walkerton, Ontario, where there were over 2000 illnesses and 6 deaths. Even zoonotic diseases with only very limited zoonotic potential, such as Bovine Spongiform Encephalopathy (BSE), can have enormous impacts on the health of Canadians; the finding of the first BSE positive animal had economic repercussions for rural communities that resulted in significant public health consequences due to mental health disorders. Zoonotic diseases with pandemic potential, such as SARS and avian influenza, have highlighted the potentially catastrophic nature of these diseases, and the vulnerability of our public health system to respond to a major epidemic. Increased and rapid international travel, globalization of food supplies, and continued human, and agricultural encroachment into the world's remaining wilderness areas enhance the risk, and speed of transmission, of global zoonotic disease pandemics. Given the dual nature of infection in animals and humans, preventing and controlling zoonotic diseases involves collaboration and integration of efforts between the animal health and human healthcare and public health sectors.\nDr. Jan M. Sargeant holds the only Applied Public Health Chair based in a veterinary college. The focus of Jan's work is on integrating research methods between animal and human health and developing collaborations across these sectors. Although strong research methodologies and theories for the study of zoonotic diseases and interventions and policies to prevent them are available and continue to be developed, research approaches vary between animal and human health sectors. Integrating methods across these communities will enhance our ability to combat these diseases.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/82",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 182.94322204589844,
+                "t": 696.7432250976562,
+                "r": 299.3315734863281,
+                "b": 607.1143188476562,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                191
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/83",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 182.86306762695312,
+                "t": 593.216552734375,
+                "r": 300.86358642578125,
+                "b": 89.5208740234375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                1170
+              ]
+            },
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 311.5699768066406,
+                "t": 696.8938598632812,
+                "r": 435.80792236328125,
+                "b": 505.74237060546875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                1171,
+                1639
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/84",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 311.6401062011719,
+                "t": 489.8406066894531,
+                "r": 435.2618713378906,
+                "b": 252.71714782714844,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                576
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Applied Public Health Chair Feature: Dr. Janice Sargeant"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 10561139017577154135,
+        "filename": "NUDGE_Improving_Decisions_About_Health_Wealth_and_.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "An example of the benefits of integrating research methods, and an early area of research focus, is evidenced-base inputs to risk assessment. The animal health and food safety communities use quantitative risk assessment extensively to quantify risk, evaluate and compare intervention strategies, and provide input to animal and animal produce imports. Essential to the va- lidity of these models is the data inputs used. In human healthcare and public health, systematic reviews and metaanalyses are widely used as a scientifically defensible method to summarize and quantify the body of scientific knowledge on a specific topic or question. However, systematic reviews were essentially unknown in the animal health research community, with the exception of some work in companion animal medicine. Therefore, Dr. Sargeant and colleagues began to explore the potential for using systematic reviews to summarize the literature and produce evidence-based data inputs to risk assessment. As interventions in livestock are almost always applied at the group level, some modifications to systematic review protocols were necessary. Additionally, as seen in the healthcare field when systematic reviews began to be used, there were substantive issues with the quality of reporting of clinical trials in livestock / food safety. Although guidelines for reporting of clinical trials have been developed for individual and group trials in humans, there are some important differences in livestock trials. These include 2 levels of \"participants\" (livestock owners who consent to participation and the animals who are allocated to treatment groups) and the allocation of interventions to groups of animals, rather than to individuals. This led Jan and her colleague Annette O'Connor (Iowa State University) to lead an initiative to develop reporting guidelines specifically for trials in livestock populations,\nincluding investigations of onfarm food safety interventions. In January 2010, the REFLECT statement was copublished in five journals, a first in veterinary medicine (www.reflect-statement.org).\nAs the research conducted through the Applied Public Health Chair award has evolved, our focus has shifted from food safety as a particular model to zoonotic diseases in general. Because of the scope and complexity of zoonoses, an important issue is how to prioritize these diseases for research, and potentially for policy. An example of such work is an exploration of conjoint analysis, a quantitative method developed primarily in the marketing sector, as a method of prioritization. Focus groups involving animal health and public health scientists and individuals from the general public identified over 50 criteria for consideration when prioritizing zoonotic diseases.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/85",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 311.5599365234375,
+                "t": 236.81539916992188,
+                "r": 434.3119812011719,
+                "b": 89.69154357910156,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                373
+              ]
+            },
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 448.3599548339844,
+                "t": 696.8338623046875,
+                "r": 574.8685302734375,
+                "b": 89.69166564941406,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                374,
+                1900
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/92",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 38.86050033569336,
+                "t": 719.2435302734375,
+                "r": 164.766845703125,
+                "b": 641.1176147460938,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                194
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/93",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 38.93951416015625,
+                "t": 627.4080810546875,
+                "r": 165.55824279785156,
+                "b": 378.7618408203125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                638
+              ]
+            },
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 173.94012451171875,
+                "t": 719.3938598632812,
+                "r": 282.48681640625,
+                "b": 700.7867431640625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                639,
+                675
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Applied Public Health Chair Feature: Dr. Janice Sargeant"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 10561139017577154135,
+        "filename": "NUDGE_Improving_Decisions_About_Health_Wealth_and_.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Currently, we are conducting large scale conjoint surveys of both the public and of animal and human health professionals to explore the relative importance of these criteria in disease prioritzation and to develop a scoring system for zoonoses. The results will be used to derive a rank-ordered list of zoonoses for prioritization. Interestingly, although results are preliminary, it appears that health professionals and the public do not rank the criteria considered in disease prioritization in the same order, and would therefore prioritize zoonoses differently. The public survey will be used to identify issues of greatest concern to the general public with implications for communication of disease risk and public education. The health professional survey will provide input to",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/94",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 173.89002990722656,
+                "t": 684.8849487304688,
+                "r": 296.3795166015625,
+                "b": 376.7198791503906,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                786
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Applied Public Health Chair Feature: Dr. Janice Sargeant"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 10561139017577154135,
+        "filename": "NUDGE_Improving_Decisions_About_Health_Wealth_and_.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "IPPH is very pleased to have been involved in two caf\u00e9s scientifiques in 2010 in collaboration with the Public Health Agency of Canada.\nThese caf\u00e9s covered a diversity of interesting and controversial topics including child poverty (http://www.cihrirsc.gc.ca/e/42295.html) and health literacy (http:// www.cihr-irsc.gc.ca/ e/42741.html). They took place in Montreal and Vancouver, respectively, in both official languages.\nHere is a taste of what was discussed at the two caf\u00e9s.\nChild poverty caf\u00e9: Presently, international poverty reduction strategies are aimed at \"integration\"; not transfer payments, not welfare, but the act of entering the labor market by right. Countries that have succeeded in bringing families out of poverty have quality child care that is accessible and available in sufficient quantity to support parent integration into the labor market.\nHealth literacy caf\u00e9: Will our increasing dependence on information technology create a digital divide with those lacking health literacy skills finding it increasingly difficult to get access to accurate and vital health information scientists and government organizations on the prioritization of zoonoses in Canada, with the potential for informing policy.\nThese are a few examples of research undertaken via the Applied Public Health Chair. The work has involved numerous undergraduate and graduate students, as well as postdoctoral fellows. The research has also included scientists and decision-makers from both the human and animal public health communities and these collaborations and networks will enable us to continue to build communities and work across sectors to control and prevent zoonotic diseases in Canada.\nand possibly experiencing lower health outcomes? What community services are needed?\nHealth literacy caf\u00e9, Bellaggio Cafe, Vancouver (L-R) Ms. Belinda Boyd, Ms. Dace Starr, Dr. Irving Rootman, Dr. Ellen Balka\nChris Connolly, B.Sc. Policy Fellow, Institute for Health and Social Policy McGill University",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/96",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 38.86997985839844,
+                "t": 336.8338928222656,
+                "r": 156.6851806640625,
+                "b": 281.7539367675781,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                135
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/97",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 38.859962463378906,
+                "t": 267.8161315917969,
+                "r": 157.22422790527344,
+                "b": 143.71841430664062,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                286
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/98",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 39.05034255981445,
+                "t": 129.8406982421875,
+                "r": 148.6470947265625,
+                "b": 111.23357391357422,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                55
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/99",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 39.24072265625,
+                "t": 95.33182525634766,
+                "r": 160.83740234375,
+                "b": 86.22364807128906,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                30
+              ]
+            },
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 173.85943603515625,
+                "t": 336.7737731933594,
+                "r": 293.95819091796875,
+                "b": 191.71421813964844,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                31,
+                387
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/100",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 174.0498046875,
+                "t": 175.75234985351562,
+                "r": 294.4190673828125,
+                "b": 88.18755340576172,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                233
+              ]
+            },
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 304.3604431152344,
+                "t": 719.3036499023438,
+                "r": 434.6315002441406,
+                "b": 675.6866455078125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                234,
+                359
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/101",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 304.3604431152344,
+                "t": 661.8088989257812,
+                "r": 434.37200927734375,
+                "b": 470.6473388671875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                466
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/102",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 304.4400634765625,
+                "t": 336.7136535644531,
+                "r": 411.32342529296875,
+                "b": 272.1347351074219,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                84
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/103",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 371.870361328125,
+                "t": 176.39389038085938,
+                "r": 566.8305053710938,
+                "b": 144.29981994628906,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/110",
+          "parent": {
+            "cref": "#/pictures/12"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 60.478797912597656,
+                "t": 403.8482971191406,
+                "r": 170.66973876953125,
+                "b": 351.60400390625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                93
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "2010 IPPH-PHAC Caf\u00e9s Scientifiques"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 10561139017577154135,
+        "filename": "NUDGE_Improving_Decisions_About_Health_Wealth_and_.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Chris Connolly, B.Sc. (Microbiology & Immunology and International Development Studies) Policy Fellow, Institute for Health and Social Policy McGill University\nThe village chief, still dressed in his work clothes after returning from his farm to meet me, makes occasional eye-contact as he answers my question in a patient and soft-spoken cadence. He nods approvingly, gazing out the door of his clay-walled home, as my translator repeats back:\n\"We learnt that we can reduce poverty. We learnt that sometimes, certain deaths may occur through poverty; one may acquire certain diseases through poverty. Through the training, I consider myself to be a poor man. And I realized that there is a way out, where we can move from where we are.\"\nIt was the summer of 2009, and I was fortunate to be in rural Eastern Region, Ghana, as part of a policy fellowship with the Institute for Health and Social Policy (IHSP) at McGill University. There, I was conducting a qualitative case study under the IHSP's 2009 research theme \"making equal rights real through participation.\" I was investigating the scale-up of a community-based strategy for meeting basic needs by an international organization called The Hunger Project (THP).\nI knew that existing theory and case study research had shown that successfully implementing community-based projects requires placing empowerment strategies at the forefront of interventions (Mansuri & Rao, 2004; Ife, 2002). However, the institutional characteristics for scaling up these successful locally-based empowerment programs are poorly understood. This understanding is critical, given the sheer complexity inherent in bringing these interventions to a larger scale, especially in lowincome and cross-cultural settings.\nWhat I learned from THP is that, at the local level, promoting meaningful community engagement requires not only increasing people's 'capacity to aspire' (like the chief I spoke to above), but also ensuring that people have the capacity to make effective and purposeful choices\u2014 which really gets at the true meaning of empowerment. To do so, people require (a) the collective and personal assets to make a choice (i.e. skills, knowledge, resources) and (b) an environment in which the institutional 'rules of the game' are aligned to make that choice possible. At the organizational level, doing so requires a culture of continuous learning and flexibility in which praxis\u2014the ongoing interplay between theory and practice\u2014is a core organizing principle.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/112",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 182.56246948242188,
+                "t": 696.7432250976562,
+                "r": 293.25341796875,
+                "b": 618.6173095703125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                159
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/113",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 182.98330688476562,
+                "t": 604.7395629882812,
+                "r": 300.342529296875,
+                "b": 480.6018371582031,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                284
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/114",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 182.9632568359375,
+                "t": 466.7040710449219,
+                "r": 299.5379943847656,
+                "b": 333.1073913574219,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                292
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/115",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 181.8009490966797,
+                "t": 317.1454772949219,
+                "r": 300.1070861816406,
+                "b": 112.50677490234375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                481
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/116",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 183.1436309814453,
+                "t": 98.6290512084961,
+                "r": 292.6131591796875,
+                "b": 89.5208740234375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                27
+              ]
+            },
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 311.5599365234375,
+                "t": 696.8938598632812,
+                "r": 433.2979431152344,
+                "b": 480.732421875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                28,
+                530
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/117",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 311.5599365234375,
+                "t": 466.8547058105469,
+                "r": 435.2708740234375,
+                "b": 158.7094268798828,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                755
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Student Corner: Chris Connolly"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 10561139017577154135,
+        "filename": "NUDGE_Improving_Decisions_About_Health_Wealth_and_.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "The Hunger Project and a number of organizations\u2014 from grassroots to transnational levels\u2014have very much begun to walk the talk when it comes to engaging community stakeholders as partners in development. What is needed, though, is an understanding of how implementing agencies may foster the sort of reflexive community practice needed to support organic community processes; to scale-down global efforts in order to scale-up local empowerment.\nThere are also lessons for students of public health who are often acting as agents of change internationally or in settings involving Aboriginal Peoples. I learned that, given the incredibly complex and contextual nature of empowerment work, we must reflect critically on the ways in which we as \"external\" practitioners may be as supportive as possible of meaningful and empowering community processes.\nReferences:\n1. Mansuri, G., & Rao, V. (2004). Community-Based and -Driven Development: A Critical Review. The World Bank Research Observer, 19(1), 139.\n2. Ife, J. (2002). Community Development: Communitybased alternatives in an age of globalisation, 2nd edition . Frenchs Forest, Australia: Pearson Education Australia.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/118",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 311.6401062011719,
+                "t": 144.82162475585938,
+                "r": 427.8150329589844,
+                "b": 89.6715087890625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                127
+              ]
+            },
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 448.3630065917969,
+                "t": 694.84912109375,
+                "r": 574.1250610351562,
+                "b": 561.25244140625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                128,
+                445
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/119",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 448.3699951171875,
+                "t": 545.3507080078125,
+                "r": 574.0298461914062,
+                "b": 387.0301513671875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                404
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/120",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 448.55035400390625,
+                "t": 373.14239501953125,
+                "r": 498.1092529296875,
+                "b": 366.06829833984375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                11
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/121",
+          "parent": {
+            "cref": "#/groups/1"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 448.1595764160156,
+                "t": 361.62945556640625,
+                "r": 575.0728759765625,
+                "b": 297.05059814453125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                139
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/122",
+          "parent": {
+            "cref": "#/groups/1"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 448.08941650390625,
+                "t": 281.1488342285156,
+                "r": 573.9697265625,
+                "b": 216.5699005126953,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                167
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Student Corner: Chris Connolly"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 10561139017577154135,
+        "filename": "NUDGE_Improving_Decisions_About_Health_Wealth_and_.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Health professionals from across the country came together in early January in Ottawa at the 100 Years of Public Health exhibition. The event celebrated 100 years of public health history in Canada and the centenary of the Canadian Public Health Association (CPHA).\nLeaders in public health from across the country spoke at the opening ceremony about Canada's public health history, accomplishments and current state. Speakers included Ottawa Mayor Jim Watson; Debra Lynkowski, Chief Executive Officer, Canadian Public Health Association; Krista Outhwaite, Associate Deputy Minister, Public Health Agency of Canada; Dr. Vera Etches, Associate Medical Officer of Health, Ottawa Public Health; and Dr. Nancy Edwards, Scientific Director, Canadian Institutes of Health Research-Institute of Population and Public Health.\n\"This unique exhibition provides residents of our city with a reminder of the important work performed over the past 100 years by the dedicated professionals in Public Health,\" said Ottawa Mayor Jim Watson.\nThe average lifespan of Canadians today is more than 30 years longer than in the early 1900s and at least 25 of those years are attributable to initiatives taken in public health. \"Public health is something people don't think about, but it affects our lives in every way. From family planning, to healthier mothers and ba- bies, control of infectious diseases and the use of seat belts, public health saves lives and helps Canadians live longer,\" says Debra Lynkowski, CPHA's Chief Executive Officer. \"This exhibition features the great achievements of public health and how far Canada has evolved over the past 100 years.\"\nThe exhibition is a walking tour of 100 years of public health initiatives, detailing the importance of public health and its fundamental impact on the well-being of Canadians. The 100 Years of Public Health exhibition celebrates achievements in public health history and profiles the people who made them happen.\n\"This unique exhibition is a true testament of the extraordinary work done every day by Ottawa Public Health staff \u2013 work that cuts across the life spans of all Ottawa residents from pre-natal care to seniors' health,\" says Dr. Vera Etches. \"Knowing our public health history will serve our community well as we embrace the opportunities and challenges of the future.\"\nThe exhibition was led by the Canadian Public Health Association in collaboration with Ottawa Public Health, the Canadian Institute for Health Information, the Canadian Institutes of Health Research and the Public Health Agency of Canada.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/130",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 38.859962463378906,
+                "t": 695.933837890625,
+                "r": 159.63401794433594,
+                "b": 583.319091796875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                265
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/131",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 38.940120697021484,
+                "t": 569.4213256835938,
+                "r": 159.67608642578125,
+                "b": 332.2979736328125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                551
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/132",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 38.859962463378906,
+                "t": 316.39617919921875,
+                "r": 158.52084350585938,
+                "b": 228.7611846923828,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                206
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/133",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 38.859962463378906,
+                "t": 212.86941528320312,
+                "r": 161.6591033935547,
+                "b": 90.79564666748047,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                323
+              ]
+            },
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 169.36045837402344,
+                "t": 695.783203125,
+                "r": 293.2357177734375,
+                "b": 571.685546875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                324,
+                624
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/134",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 169.44061279296875,
+                "t": 557.8078002929688,
+                "r": 293.4832458496094,
+                "b": 433.6700134277344,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                313
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/135",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 169.44061279296875,
+                "t": 419.77227783203125,
+                "r": 295.4130554199219,
+                "b": 272.6284484863281,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                368
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/136",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 169.44061279296875,
+                "t": 258.750732421875,
+                "r": 295.5062255859375,
+                "b": 159.5926971435547,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                238
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Ottawa Celebrates 100 Years of Public Health in Canada"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 10561139017577154135,
+        "filename": "NUDGE_Improving_Decisions_About_Health_Wealth_and_.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Opening Ceremony speakers (l to r): Dr. Gregory Taylor and Krista Outhwaite (PHAC), Dr. Vera Etches (Ottawa Public Health), Debra Lynkowski (CPHA), Dr. Nancy Edwards (CIHR-IPPH).\n\"The average lifespan of Canadians today is more than 30 years longer than in the early 1900s.\"\nOttawa Mayor Jim Watson and Associate Medical Officer of Health, Dr. Vera Etches at the public health exhibition in Ottawa.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/137",
+          "parent": {
+            "cref": "#/pictures/14"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 313.5554504394531,
+                "t": 519.1088256835938,
+                "r": 559.818115234375,
+                "b": 475.5118103027344,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                178
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/138",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 408.2734375,
+                "t": 460.2601318359375,
+                "r": 512.7546997070312,
+                "b": 389.2524719238281,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                95
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/148",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 336.17059326171875,
+                "t": 120.83387756347656,
+                "r": 571.4893188476562,
+                "b": 90.75383758544922,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                123
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Ottawa Celebrates 100 Years of Public Health in Canada"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 10561139017577154135,
+        "filename": "NUDGE_Improving_Decisions_About_Health_Wealth_and_.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Dr. Nancy Edwards nedwards@uottawa.ca\nTel: 613-592-5800 ext 8414",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/155",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 41.25299835205078,
+                "t": 686.3489990234375,
+                "r": 111.98941040039062,
+                "b": 678.1680297851562,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                17
+              ]
+            },
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 41.15399932861328,
+                "t": 674.531982421875,
+                "r": 122.6598129272461,
+                "b": 666.3510131835938,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                18,
+                37
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/156",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 41.36699295043945,
+                "t": 662.7630004882812,
+                "r": 142.04910278320312,
+                "b": 656.4000244140625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                26
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Scientific Director"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 10561139017577154135,
+        "filename": "NUDGE_Improving_Decisions_About_Health_Wealth_and_.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Erica Di Ruggiero e.diruggiero@utoronto.ca\nTel: 416-524-0111",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/158",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 41.28599166870117,
+                "t": 627.3660278320312,
+                "r": 106.84200286865234,
+                "b": 619.18505859375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                17
+              ]
+            },
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 41.42999267578125,
+                "t": 615.5490112304688,
+                "r": 133.85009765625,
+                "b": 607.3680419921875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                18,
+                42
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/159",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 41.37299728393555,
+                "t": 603.782958984375,
+                "r": 107.76870727539062,
+                "b": 597.4199829101562,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                17
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Associate Director"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 10561139017577154135,
+        "filename": "NUDGE_Improving_Decisions_About_Health_Wealth_and_.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Sarah Viehbeck\nSarah.Viebeck@uottawa.ca\nTel: 613-592-5800 ext 1925\nKnowledge Translation and Communications Officer Emma Cohen ecohen@uottawa.ca\nTel: 613-562-5800 ext 8439",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/161",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 41.66999816894531,
+                "t": 568.385986328125,
+                "r": 98.4591064453125,
+                "b": 562.0140380859375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                14
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/162",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 41.66999816894531,
+                "t": 556.5689697265625,
+                "r": 140.840087890625,
+                "b": 548.3880004882812,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                24
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/163",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 41.367008209228516,
+                "t": 544.802978515625,
+                "r": 141.77011108398438,
+                "b": 538.4400024414062,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                26
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/164",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 41.286006927490234,
+                "t": 520.844970703125,
+                "r": 147.84959411621094,
+                "b": 491.2170104980469,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                59
+              ]
+            },
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 41.43000793457031,
+                "t": 485.7720031738281,
+                "r": 113.60102081298828,
+                "b": 477.59100341796875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                60,
+                77
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/165",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 41.369998931884766,
+                "t": 474.00299072265625,
+                "r": 141.9801025390625,
+                "b": 467.6399841308594,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                26
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Senior Evaluation Associate"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 10561139017577154135,
+        "filename": "NUDGE_Improving_Decisions_About_Health_Wealth_and_.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Ashley Page ipph-ispp@uottawa.ca\nTel: 613-562-5800 ext 8414 Fax: 613-521-2919",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/167",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 41.1719970703125,
+                "t": 438.6059875488281,
+                "r": 86.15129089355469,
+                "b": 430.42498779296875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                11
+              ]
+            },
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 41.361000061035156,
+                "t": 426.78900146484375,
+                "r": 122.19450378417969,
+                "b": 418.6080017089844,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                12,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/168",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 41.247005462646484,
+                "t": 415.02301025390625,
+                "r": 142.05511474609375,
+                "b": 396.843017578125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                44
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Administrative Coordinator"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 10561139017577154135,
+        "filename": "NUDGE_Improving_Decisions_About_Health_Wealth_and_.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Julie Sen\u00e9cal julie.senecal@cihr-irsc.gc.ca\nTel: 613-952-4538",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/171",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 41.2920036315918,
+                "t": 320.6400146484375,
+                "r": 88.22610473632812,
+                "b": 314.26800537109375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                13
+              ]
+            },
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 40.41900634765625,
+                "t": 308.83203125,
+                "r": 145.1466064453125,
+                "b": 300.64202880859375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                14,
+                43
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/172",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 41.369998931884766,
+                "t": 297.0090026855469,
+                "r": 108.34170532226562,
+                "b": 290.64599609375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                17
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Assistant Director"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 10561139017577154135,
+        "filename": "NUDGE_Improving_Decisions_About_Health_Wealth_and_.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Kim Gaudreau kim.gaudreau@cihr-irsc.gc.ca\nTel: 613-957-6128\nFax: 613-954-1800\nFor general inquiries, or to be added to our E-Bulletin News List, please contact: ipph- ispp@uottawa.ca\n(continued from p. 8) We found this a very helpful exercise. Our mock review panel asked us intriguing questions and the IAB gave us excellent feedback. We look forward to meeting with our official reviewers, describing the achievements of our Institute and the community of public and population health scientists in Canada. The report and recommendations of the International Review panel are expected towards the end of June.\nI will conclude by letting you know that we've had a few more comings and goings of team members. I want to thank Ghisline Bourque for her contributions to the Institute. Ghisline was Acting Assistant Director in 2010. We are delighted to have Julie Sen\u00e9cal back in this position; she is rapidly getting caught up on the many Institute portfolios that have been active",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/174",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 41.25299835205078,
+                "t": 261.61199951171875,
+                "r": 94.33769989013672,
+                "b": 255.239990234375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                12
+              ]
+            },
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 41.1719970703125,
+                "t": 249.84898376464844,
+                "r": 149.6049346923828,
+                "b": 241.66798400878906,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                13,
+                41
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/175",
+          "parent": {
+            "cref": "#/groups/2"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 41.369998931884766,
+                "t": 238.0290985107422,
+                "r": 108.34170532226562,
+                "b": 231.6660919189453,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/176",
+          "parent": {
+            "cref": "#/groups/2"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 41.24399948120117,
+                "t": 226.10409545898438,
+                "r": 110.04360961914062,
+                "b": 219.90309143066406,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/177",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 41.27567672729492,
+                "t": 190.38021850585938,
+                "r": 175.15921020507812,
+                "b": 151.554931640625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                88
+              ]
+            },
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 41.418418884277344,
+                "t": 147.12022399902344,
+                "r": 116.82687377929688,
+                "b": 137.139404296875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                89,
+                104
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/178",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 205.3578643798828,
+                "t": 723.83349609375,
+                "r": 317.8824462890625,
+                "b": 542.2608642578125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                403
+              ]
+            },
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 327.70208740234375,
+                "t": 723.793212890625,
+                "r": 427.651611328125,
+                "b": 716.6990966796875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                404,
+                428
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/179",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 327.6620178222656,
+                "t": 700.8073120117188,
+                "r": 443.88397216796875,
+                "b": 544.224609375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                368
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Associate, Strategic Initiatives"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 10561139017577154135,
+        "filename": "NUDGE_Improving_Decisions_About_Health_Wealth_and_.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Please visit the IPPH website for a list of current funding opportunities being offered by the Institute\nPublic health professionals, researchers, policy-makers, academics and students from across the country and around the world will meet in Montreal, Quebec for the 2011 Annual Conference of the Canadian Public Health Association (CPHA) as the Association enters its second century of service to Canadians. CPHA and our collaborators invite you to its 2011 Annual Conference, to be held June 19-22, 2011.\nThe preliminary program and online registration are now available.\nFor Early Registration Savings, register online by March 4, 2011!",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/181",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 201.14398193359375,
+                "t": 491.02801513671875,
+                "r": 573.8244018554688,
+                "b": 466.3200378417969,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                104
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/182",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 200.9678497314453,
+                "t": 419.82012939453125,
+                "r": 573.725830078125,
+                "b": 359.26544189453125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                402
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/183",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 238.23397827148438,
+                "t": 343.9263916015625,
+                "r": 536.69873046875,
+                "b": 333.9455871582031,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                66
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/184",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 231.18479919433594,
+                "t": 318.4308166503906,
+                "r": 540.824951171875,
+                "b": 308.6257019042969,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                65
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Funding Opportunities"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 10561139017577154135,
+        "filename": "NUDGE_Improving_Decisions_About_Health_Wealth_and_.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "CPHA Conference Department\nPhone: 613-725-3769, ext. 126\nEmail: conference@cpha.ca\nconference.cpha.ca\nDr. Barbara Riley, Propel Centre for Population Health Impact and University of Waterloo, presenting a poster at the PHIR Symposium\nPlease check the IPPH website in the coming weeks for the PHIR Symposium and Workshop proceedings.\nover the past 16 months. I also want to thank Dr. Marni Brownell who has stepped down from our IAB. She made important contributions to our knowledge translation advisory subgroup and we will miss her.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/186",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 317.5425109863281,
+                "t": 280.68157958984375,
+                "r": 457.27178955078125,
+                "b": 270.73370361328125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                26
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/187",
+          "parent": {
+            "cref": "#/groups/3"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 317.7510986328125,
+                "t": 268.0326232910156,
+                "r": 456.9072265625,
+                "b": 258.5898132324219,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                29
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/188",
+          "parent": {
+            "cref": "#/groups/4"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 324.2183532714844,
+                "t": 255.4385528564453,
+                "r": 447.71258544921875,
+                "b": 245.45773315429688,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/189",
+          "parent": {
+            "cref": "#/groups/4"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 344.11273193359375,
+                "t": 242.7601776123047,
+                "r": 427.97137451171875,
+                "b": 232.8013153076172,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                18
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/190",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 353.9639892578125,
+                "t": 199.1280059814453,
+                "r": 567.137939453125,
+                "b": 146.82000732421875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                131
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/191",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 352.0679931640625,
+                "t": 130.1280059814453,
+                "r": 569.2979736328125,
+                "b": 91.6199951171875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                98
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/193",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 454.5201721191406,
+                "t": 723.8338623046875,
+                "r": 572.4705810546875,
+                "b": 634.2450561523438,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                201
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "For further information, please contact:"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 10561139017577154135,
+        "filename": "NUDGE_Improving_Decisions_About_Health_Wealth_and_.pdf",
+        "uri": null
+      }
+    }
+  }
+]

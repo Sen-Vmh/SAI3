@@ -1,5 +1,9 @@
 # SAI3 Project
 
+Folder with all pdfs and documentation: 
+
+https://bernerfachhochschule-my.sharepoint.com/:f:/g/personal/vanms1_bfh_ch/IgDEBeHHzPNfQ5gGpesbVxJGAbQAIz6g9z5DJxgAKUQXCNA?e=GTeyM9 
+
 ## 1. Installation
 
 1. Sync the virtual environment: `uv sync`

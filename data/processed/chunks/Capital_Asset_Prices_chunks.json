@@ -1,0 +1,4601 @@
+[
+  {
+    "text": "William F. Sharpe\nThe Journal of Finance, Vol. 19, No. 3. (Sep., 1964), pp. 425-442.\nStable URL:\nhttp://links.jstor.org/sici?sici=0022-1082%28196409%2919%3A3%3C425%3ACAPATO%3E2.0.CO%3B2-O\nThe Journal of Finance is currently published by American Finance Association.\nYour use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at http://www.jstor.org/about/terms.html. JSTOR's Terms and Conditions of Use provides, in part, that unless you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you may use content in the JSTOR archive only for your personal, non-commercial use.\nPlease contact the publisher regarding any further use of this work. Publisher contact information may be obtained at http://www.jstor.org/journals/afina.html .\nEach copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed page of such transmission.\nJSTOR is an independent not-for-profit organization dedicated to and preserving a digital archive of scholarly journals. For more information regarding JSTOR, please contact support@jstor.org.\nVOL. XIX",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/1",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 87.89665985107422,
+                "t": 637.6473999023438,
+                "r": 175.88250732421875,
+                "b": 626.8782348632812,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/2",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 88.54425048828125,
+                "t": 609.3250122070312,
+                "r": 406.4483947753906,
+                "b": 598.495849609375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                66
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/3",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 52.27923583984375,
+                "t": 580.5174560546875,
+                "r": 101.25736236572266,
+                "b": 573.5618286132812,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                11
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/4",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 51.94944381713867,
+                "t": 566.3763427734375,
+                "r": 496.309326171875,
+                "b": 557.33203125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                90
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/5",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 52.44913101196289,
+                "t": 539.50927734375,
+                "r": 375.13262939453125,
+                "b": 530.5249633789062,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                78
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/6",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 51.90946960449219,
+                "t": 467.5547790527344,
+                "r": 555.4610595703125,
+                "b": 425.5912170410156,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                421
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/7",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 51.94944381713867,
+                "t": 412.5893859863281,
+                "r": 519.2857666015625,
+                "b": 392.6021728515625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                160
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/8",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 51.90946960449219,
+                "t": 379.6103515625,
+                "r": 548.8941650390625,
+                "b": 359.6229553222656,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                149
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/9",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 51.95943832397461,
+                "t": 313.6520690917969,
+                "r": 545.1800537109375,
+                "b": 293.6646728515625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                192
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/14",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 129.4921875,
+                "t": 592.0040283203125,
+                "r": 176.109375,
+                "b": 580.4274088541666,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                8
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Capital Asset Prices: A Theory of Market Equilibrium under Conditions of Risk"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 1974278157010790513,
+        "filename": "Capital_Asset_Prices.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "ONE OF THE PROBLEMs which has plagued those attempting to predict the behavior of capital markets is the absence of a body of positive microeconomic theory dealing with conditions of risk. Although many useful insights can be obtained from the traditional models of investment under conditions of certainty, the pervasive influence of risk in financial transactions has forced those working in this area to adopt models of price behavior which are little more than assertions. A typical classroom explanation of the determination of capital asset prices, for example, usually begins with a careful and relatively rigorous description of the process through which individual preferences and physical relationships interact to determine an equilibrium pure interest rate. This is generally followed by the assertion that somehow a market risk-premium is also determined, with the prices of assets adjusting accordingly to account for differencesintheirrisk.\nA useful representation of the view of the capital market implied in such discussions is illustrated in Figure 1. In equilibrium, capital asset prices have adjusted so that the investor, if he follows rational procedures (primarily diversification), is able to attain any desired point along a capital market line.1 He may obtain a higher expected rate of return on his holdings only by incurring additional risk. In effect, the market presents him with two prices: the price of time, or the pure interest rate (shown by the intersection of the line with the horizontal axis) and the price of risk, the additional expected return per unit of risk borne (the reciprocal of the slope of the line).\n* A great many people provided comments on early versions of this paper which led tomajor improvements in the exposition.In addition to the referees, who were most helpful, the author wishes to express his appreciation to Dr.Harry Markowitz of the RAND Corporation,Professor Jack Hirshleifer of the University of California at Los Angeles,and to Professors Yoram Barzel, George Brabb,Bruce Johnson, Walter Oi and R.Haney Scott of the University of Washington.\n\u2191Associate Professor of Operations Research, University of Washington.\n1. Although some discussions are also consistent with a non-linear (but monotonic) curve.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/18",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 129.4921875,
+                "t": 481.82659912109375,
+                "r": 468.5625,
+                "b": 310.5725504557292,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                955
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/19",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 130.2890625,
+                "t": 310.1733805338542,
+                "r": 469.359375,
+                "b": 188.0201416015625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                695
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/20",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "footnote",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 130.6875,
+                "t": 183.22981770833337,
+                "r": 469.7578125,
+                "b": 124.94755045572913,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                459
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/21",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "footnote",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 137.859375,
+                "t": 124.94755045572913,
+                "r": 398.8359375,
+                "b": 114.56852213541663,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                70
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/22",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "footnote",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 138.65625,
+                "t": 113.7701416015625,
+                "r": 468.1640625,
+                "b": 103.790283203125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                89
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "I.INTRODUCTION"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 1974278157010790513,
+        "filename": "Capital_Asset_Prices.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "At present there is no theory describing the manner in which the price of risk results from the basic influences of investor preferences, the physical attributes of capital assets, etc. Moreover, lacking such a theory, it is difficult to give any real meaning to the relationship between the price of a single asset and its risk. Through diversification, some of the risk inherent in an asset canbe avoided sothatits total risk is obviously not the relevant influence on its price; unfortunately little has been said concerning the particular risk component which is relevant.\nFIGURE 1\nIn the last ten years a number of economists have developed normative models dealing with asset choice under conditions of risk. Markowitz2 following Von Neumann and Morgenstern, developed an analysis based on the expected utility maxim and proposed a general solution for the portfolio selection problem. Tobin? showed that under certain conditions Markowitz's model implies that the process of investment choice can be broken down into two phases: first, the choice of a unique optimum combination of risky assets; and second, a separate choice concerning the allocation of funds between such a combination and a single riskless\n2.Harry M.Markowitz,Portfolio Selection,Eficient Diversification of Investments (New York: John Wiley and Sons, Inc., 1959). The major elements of the theory first appeared in his article \"Portfolio Selection,\" The Journal of Finance, XII (March 1952), 77-91.\n3. James Tobin, \"Liquidity Preference as Behavior Towards Risk,\" The Revieww of Economic Studies,XXV (February\uff0c1958)\uff0c65-86.\nasset. Recently, Hicks* has used a model similar to that proposed by Tobin to derive corresponding conclusions about individual investor behavior, dealing somewhat more explicitly with the nature of the conditions under which the process of investment choice can be dichotomized. An even more detailed discussion of this process, including a rigorous proof in the context of a choice among lotteries has been presented by Gordon and Gangolli.5",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/26",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 147.8203125,
+                "t": 677.8306376139323,
+                "r": 486.09375,
+                "b": 581.625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                576
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/27",
+          "parent": {
+            "cref": "#/pictures/1"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 301.21875,
+                "t": 309.375,
+                "r": 337.078125,
+                "b": 298.5967610677083,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/32",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 150.2109375,
+                "t": 290.6128743489583,
+                "r": 488.484375,
+                "b": 183.22981770833337,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                630
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/33",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "footnote",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 151.40625,
+                "t": 172.45157877604163,
+                "r": 489.28125,
+                "b": 135.72578938802087,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                259
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/34",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "footnote",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 151.8046875,
+                "t": 135.32657877604163,
+                "r": 489.6796875,
+                "b": 116.56449381510413,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                123
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/37",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 129.4921875,
+                "t": 676.2338663736979,
+                "r": 468.1640625,
+                "b": 590.8064371744791,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                443
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "I.INTRODUCTION"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 1974278157010790513,
+        "filename": "Capital_Asset_Prices.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Although all the authors cited usevirtually the samemodelofinvestor behavior,? none has yet attempted to extend it to construct a market equilibrium theory of asset prices under conditions of risk.7 We will show that such an extension provides a theory with implications consistent with the assertions of traditional financial theory described above. Moreover, it sheds considerable light on the relationship between the price of an asset and the various components of its overall risk. For these reasons it warrants consideration as a model of the determination of capital asset prices.\nPart II provides the model of individual investor behavior under conditions of risk. In Part III the equilibrium conditions for the capital market are considered and the capital market line derived. The implicationsfor therelationshipbetweentheprices ofindividualcapital assets and the various components of risk are described in Part IV.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/38",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 128.6953125,
+                "t": 588.8104654947916,
+                "r": 468.1640625,
+                "b": 479.83062744140625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                587
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/39",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 129.09375,
+                "t": 477.4354654947917,
+                "r": 466.5703125,
+                "b": 415.9596761067708,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                338
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "I.INTRODUCTION"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 1974278157010790513,
+        "filename": "Capital_Asset_Prices.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Assume that an individual views the outcome of any investment in probabilistic terms; that is, he thinks of the possible results in terms of some probability distribution. In assessing the desirability of a particular investment, however, he is willing to act on the basis of only two para-\n- 4.John R.Hicks,\"Liquidity,\" The Economic Journal, LXXII (December,1962)\uff0c787802.\n5. M. J. Gordon and Ramesh Gangolli, \"Choice Among_and Scale of Play on Lottery Type Alternatives,\" College of Business Administration, University of Rochester, 1962. For another discussion of this relationship see W. F.Sharpe,\"A Simplified Model for Portfolio Analysis,\" Management Science, Vol. 9, No. 2 (January 1963), 277-293. A related discussion can be found in F.Modigliani and M.H.Miller,\"The Cost of Capital, Corporation Finance,and the Theory of Investment,\" The American Economic Review, XLVIII(June 1958),261-297.\n- articles cited is best regarded as aspecial case ofamore general formulationdue to ofthe Seventy-Sixth Annual Meeting of the American Economic Association,Dec.1963, or Arrow's\"Le Role des Valeurs Boursieres pour la Repartition la Meilleure des Risques,\" InternationalColloquiumonEconometrics\uff0c1952.\n7.After preparing this paper the author learned that Mr. Jack L. Treynor,of Arthur D.Little, Inc.,had independently developed a model similar in many respects to the one described here. Unfortunately Mr. Treynor's excellent work on this subject is, at present, unpublished.\nmeters of this distribution-its expected value and standard deviation.8 This can be represented by a total utility function of the form:\n<!-- formula-not-decoded -->\nwhere Ew indicates expected future wealth and ow the predicted standard deviation of the possible divergence of actual future wealth from Ew.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/42",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 128.296875,
+                "t": 370.4515787760417,
+                "r": 466.5703125,
+                "b": 320.1531982421875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                290
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/43",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 128.6953125,
+                "t": 311.7701416015625,
+                "r": 465.375,
+                "b": 292.6088460286458,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                79
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/44",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 127.5,
+                "t": 291.4112548828125,
+                "r": 466.171875,
+                "b": 226.74190266927087,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                525
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/45",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 127.8984375,
+                "t": 215.96370442708337,
+                "r": 465.375,
+                "b": 170.05643717447913,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                297
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/46",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "footnote",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 127.8984375,
+                "t": 167.6612548828125,
+                "r": 464.9765625,
+                "b": 130.5362548828125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                273
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/49",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 149.015625,
+                "t": 688.6088663736979,
+                "r": 486.890625,
+                "b": 664.258056640625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                136
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/50",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 282.890625,
+                "t": 660.266123453776,
+                "r": 351.8203125,
+                "b": 647.491933186849,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                12
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/51",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 149.8125,
+                "t": 643.1007995605469,
+                "r": 486.890625,
+                "b": 618.75,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                141
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "TheInvestor'sPreferenceFunction"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 1974278157010790513,
+        "filename": "Capital_Asset_Prices.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Investors are assumed to prefer a higher expected future wealth to a lower value, ceteris paribus (dU/dEw > O). Moreover, they exhibit risk-aversion, choosing an investment offering a lower value of ow to one with a greater level,given thelevel of Ew(dU/dow< O).These assumptions imply that indifference curves relating Ew and ow will be upward-sloping.?\nTo simplify the analysis, we assume that an investor has decided to commit a given amount (W;) of his present wealth to investment. Letting WtbehisterminalwealthandRtherateofreturnonhisinvestment:\n<!-- formula-not-decoded -->\n<!-- formula-not-decoded -->\nThis relationship makes it possible to express the investor's utility in terms ofR,sinceterminalwealthisdirectlyrelated to therateofreturn:\n<!-- formula-not-decoded -->\nFigure 2 summarizes the model of investor preferences in a family of indifference curves; successive curves indicate higher levels of utility as one moves down and/or to the right.10",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/52",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 148.6171875,
+                "t": 618.3507893880209,
+                "r": 488.484375,
+                "b": 544.4999796549479,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                354
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/53",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 149.8125,
+                "t": 543.3024088541666,
+                "r": 486.890625,
+                "b": 508.57257080078125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                196
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/54",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 283.2890625,
+                "t": 502.1854654947917,
+                "r": 349.4296875,
+                "b": 476.6370849609375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                12
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/55",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 275.3203125,
+                "t": 463.0644938151042,
+                "r": 361.78125,
+                "b": 452.6854654947917,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/56",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 150.2109375,
+                "t": 448.2943522135417,
+                "r": 486.4921875,
+                "b": 424.3427327473958,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                139
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/57",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 282.09375,
+                "t": 419.5524088541667,
+                "r": 355.40625,
+                "b": 407.5765787760417,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                14
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/58",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 149.015625,
+                "t": 403.5846761067708,
+                "r": 487.6875,
+                "b": 367.6572265625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                182
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "TheInvestor'sPreferenceFunction"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 1974278157010790513,
+        "filename": "Capital_Asset_Prices.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "8. Under certain conditions the mean-variance approach can be shown to lead to unsatisfactory predictions of behavior.Markowitz suggests that amodel based on the semi-variance(the average of the squared deviationsbelow themean\uff09wouldbepreferable; in light of the formidable computational problems,however, he bases his analysis on the varianceandstandarddeviation.\n2. 9.While only these characteristics are required for the analysis,it is generally assumed that the curves have the property of diminishing marginal rates of substitution between Ew and ow,as do those in our diagrams.\n10. Such indifference curves can also be derived by assuming that the investor wishes tomaximizeexpectedutilityandthathis totalutilitycanberepresentedbyaquadratic functionof Rwithdecreasing marginalutility.BothMarkowitzandTobinpresent such a derivation.A similar approach is used by Donald E.Farrar in The Investment Decision Under Uncertainty (Prentice-Hall,1962).Unfortunately Farrar makes an error in his derivation;he appeals totheVon-Neumann-Morgenstern cardinal utilityaxioms totransform afunctionof theform:\ninto one of the form:\n<!-- formula-not-decoded -->\n<!-- formula-not-decoded -->\nThat such a transformation is not consistent with the axioms can readily be seen in this form, since the first equation implies non-linear indifference curves in the ER, OR2 plane lie on both a line and a non-linear curve (with a monotonic derivative). Thus the two functions must imply different orderings among alternative choices in at least some instance.\nwe have\nFIGURE2",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/59",
+          "parent": {
+            "cref": "#/groups/1"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 149.4140625,
+                "t": 355.6814371744792,
+                "r": 487.6875,
+                "b": 309.774169921875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                363
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/60",
+          "parent": {
+            "cref": "#/groups/1"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 149.8125,
+                "t": 308.9757893880208,
+                "r": 487.6875,
+                "b": 280.2338460286458,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                215
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/61",
+          "parent": {
+            "cref": "#/groups/1"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 149.015625,
+                "t": 279.0362548828125,
+                "r": 487.2890625,
+                "b": 215.165283203125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                514
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/62",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 150.2109375,
+                "t": 204.7862548828125,
+                "r": 231.09375,
+                "b": 196.00398763020837,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                21
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/63",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 250.6171875,
+                "t": 216.36287434895837,
+                "r": 386.0859375,
+                "b": 204.7862548828125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                27
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/64",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 274.921875,
+                "t": 197.20157877604163,
+                "r": 362.1796875,
+                "b": 186.42338053385413,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/65",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 149.8125,
+                "t": 185.62495930989587,
+                "r": 487.6875,
+                "b": 128.540283203125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                359
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/66",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 149.8125,
+                "t": 475.4394938151042,
+                "r": 189.2578125,
+                "b": 464.2620849609375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/69",
+          "parent": {
+            "cref": "#/pictures/2"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 283.1500040690104,
+                "t": 367.444580078125,
+                "r": 318.0718790690104,
+                "b": 357.523193359375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                7
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "TheInvestor'sPreferenceFunction"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 1974278157010790513,
+        "filename": "Capital_Asset_Prices.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "The model of investor behavior considers the investor as choosing from a set of investment opportunities that one which maximizes his utility. Every investment plan available to him may be represented by a point in the Er, Or plane. If all such plans involve some.risk, the area composed of such points will have an appearance similar to that shown in Figure 2. him on the indifference curve representing the highest level of utility s n   s o e  q  p a (h efficient investment plans and, second choose one from among this set. A plan is said to be efficient if (and only if) there is no alternative with either (1) the same Er and a lower or, (2) the same or and a higher ER or (3) a higher Er and a lower or. Thus investment Z is inefficient since investments B, C, and D (among others) dominate it. The only plans which would be chosen must lie along the lower right-hand boundary (AFBDCX)\u2014the investment opportunity curve.\nTo understand the nature of this curve, consider two investment plans -\u2014-A and B, each including one or more assets. Their predicted expected values and standard deviations of rate of return are shown in Figure 3.\nIf the proportion \u03b1 of the individual's wealth is placed in plan A and the remainder (1-a) in B, the expected rate of return of the combination will lie between the expected returns of the two plans:\n<!-- formula-not-decoded -->\nThe predicted standard deviation of return of the combination is:\n<!-- formula-not-decoded -->\nNote that this relationship includes rab, the correlation coefficient between the predicted rates of return of the two investment plans. A value of \u53411 would indicate an investor's belief that there is a precise positive relationshipbetweentheoutcomesofthetwoinvestments.Azerovaluewould indicate a belief that the outcomes of the two investments are completely independent and -\u2014-1 that the investor feels that there is a precise inverse relationship between them. In the usual case rab will have a value between O and +1.\nFigure 3 shows the possible values of Erc and orc obtainable with different combinations of A and B under two different assumptions about",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/76",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 131.2398478190104,
+                "t": 336.2631022135417,
+                "r": 468.9344075520833,
+                "b": 153.07210286458337,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                926
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/77",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 132.2875010172526,
+                "t": 152.71773274739587,
+                "r": 466.8390706380208,
+                "b": 116.57560221354163,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                213
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/80",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 146.625,
+                "t": 669.8467712402344,
+                "r": 484.1015625,
+                "b": 632.7217712402344,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                199
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/81",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 250.6171875,
+                "t": 627.133056640625,
+                "r": 380.109375,
+                "b": 615.1572469075521,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/82",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 147.8203125,
+                "t": 609.1693522135416,
+                "r": 450.6328125,
+                "b": 597.5927327473959,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                65
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/83",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 192.4453125,
+                "t": 590.008056640625,
+                "r": 437.8828125,
+                "b": 576.0362752278646,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                50
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/84",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 146.625,
+                "t": 571.2459513346354,
+                "r": 484.5,
+                "b": 473.8427327473958,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                521
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/85",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 147.421875,
+                "t": 473.8427327473958,
+                "r": 484.1015625,
+                "b": 449.4919026692708,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                137
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "The Investment Opportunity Curve"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 1974278157010790513,
+        "filename": "Capital_Asset_Prices.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "the value of rab. If the two investments are perfectly correlated, the combinations will lie along a straight line between the two points, since in this case both Erc and orc will be linearly related to the proportions invested in the two plans.11 If they are less than perfectly positively correlated,thestandard deviation of any combinationmustbelessthan that obtained with perfect correlation (since rab will be less); thus the combinations must lie along a curve below the line AB.12 AZB shows such a curve for the case of complete independence (rab = O); with negative correlation the locus is even more U-shaped.13\nsn   sa  m relatively simple conceptually, although exact solutions are usually quite diffcult.14 One first traces curves indicating Er, Or values available with simple combinations of individual assets, then considers combinations of combinations of assets. The lower right-hand boundary must be either linear or increasing at an increasing rate (d? or/dE2r > O). As suggested earlier, the complexity of the relationship between the characteristics of individual assets and the location of the investment opportunity curve makes it difficult to provide a simple rule for assessing the desirability of individual assets, since the effect of an asset on an investor's over-all investment opportunity curve depends not only on its expected rate of return (Eri\uff09 and risk (ori),but also on its correlations with the other available opportunities (ri, r2, . \u00b7 . . , rin). However, such a rule is implied by the equilibrium conditions for the model, as we will show in part IV.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/94",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 141.84375,
+                "t": 673.8387044270834,
+                "r": 479.71875,
+                "b": 564.4596761067709,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                620
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/95",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 140.6484375,
+                "t": 562.8628946940104,
+                "r": 480.1171875,
+                "b": 391.6088460286458,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                971
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "The Investment Opportunity Curve"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 1974278157010790513,
+        "filename": "Capital_Asset_Prices.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "We have not yet dealt with riskless assets. Let P be such an asset; its risk is zero (orp = O) and its expected rate of return, Erp, is equal (by definition) to the pure interest rate. If an investor places \u03b1 of his wealth\n<!-- formula-not-decoded -->\nbut rab = 1, therefore the expression under the square root sign can be factored:\n<!-- formula-not-decoded -->\n12. This curvature is, in essence, the rationale for diversification.\n2. ORa 13. When rab = 0, the slope of the curve at point A is -\u2014\uff0cat point B it is ERb\u2014ERa\nORb s s   s   - =a ERb -- ERa on the horizontal axis.\n14.Markowitz has shown that this is a problem in parametric quadratic programming. An efficient solution technique is described in his article,\"The Optimization of a Quadratic Function Subject to Linear Constraints,\" Naval Research Logistics Quarterly\uff0cVol.3 (March and June,1956),111-133.A solution method for a special case is given in the author's \"A Simplified Model for Portfolio Analysis,\" op. cit.\nin P and the remainder in some risky asset A, he would obtain an expected rate of return:\n<!-- formula-not-decoded -->\nThe standard deviation of such a combination would be:\n<!-- formula-not-decoded -->\nbut since orp = O, this reduces to:\n<!-- formula-not-decoded -->\nThis implies that all combinations involving any risky asset or combination of assets plus the riskless asset must have values of Erc and oRc d    s    o components. Thus in Figure 4 all combinations of Er and or lying along\nFIGURE4\nthe line PA are attainable if some money is loaned at the pure rate and some placed in A. Similarly, by lending at the pure rate and investing in B, combinations along PB can be attained. Of all such possibilities, however, one will dominate: that investment plan lying at the point of the d       an to the curve. In Figure 4 all investments lying along the original curve\nfrom X to \u03a6 are dominated by some combination of investment in \u03a6 and lending at the pure interest rate.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/97",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 141.4453125,
+                "t": 362.8669026692708,
+                "r": 477.7265625,
+                "b": 326.9394938151042,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                222
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/98",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 149.4140625,
+                "t": 315.3628743489583,
+                "r": 423.5390625,
+                "b": 285.4233805338542,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                98
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/99",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 140.25,
+                "t": 285.8225504557292,
+                "r": 427.921875,
+                "b": 272.649169921875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/100",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 241.453125,
+                "t": 271.05240885416663,
+                "r": 376.921875,
+                "b": 234.72578938802087,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                66
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/101",
+          "parent": {
+            "cref": "#/groups/2"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 149.4140625,
+                "t": 234.72578938802087,
+                "r": 402.421875,
+                "b": 224.34676106770837,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                69
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/102",
+          "parent": {
+            "cref": "#/groups/2"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 147.8203125,
+                "t": 221.95157877604163,
+                "r": 478.5234375,
+                "b": 195.60481770833337,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                86
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/103",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "footnote",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 141.046875,
+                "t": 200.3951416015625,
+                "r": 478.125,
+                "b": 161.67338053385413,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                53
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/104",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "footnote",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 140.6484375,
+                "t": 160.87495930989587,
+                "r": 477.328125,
+                "b": 114.96773274739587,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                403
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/107",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 144.0762176513672,
+                "t": 680.7993927001953,
+                "r": 481.1029052734375,
+                "b": 656.3160196940105,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                89
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/108",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 252.4192097981771,
+                "t": 655.5851745605469,
+                "r": 371.66920979817706,
+                "b": 644.2570495605469,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                24
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/109",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 146.25762430826825,
+                "t": 637.3140055338542,
+                "r": 404.02667236328125,
+                "b": 626.7167256673177,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                54
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/110",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 192.06707763671875,
+                "t": 618.3119913736979,
+                "r": 435.6570231119792,
+                "b": 605.156748453776,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                30
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/111",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 145.1669209798177,
+                "t": 600.0408223470052,
+                "r": 304.77286783854163,
+                "b": 586.5201619466146,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                35
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/112",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 267.3254597981771,
+                "t": 582.1350708007812,
+                "r": 357.85365804036456,
+                "b": 568.9798380533854,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                19
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/113",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 145.53048706054688,
+                "t": 563.133056640625,
+                "r": 481.4664713541667,
+                "b": 514.8971761067709,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                224
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/114",
+          "parent": {
+            "cref": "#/pictures/4"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 295.6836954752604,
+                "t": 212.6920166015625,
+                "r": 331.31325276692706,
+                "b": 202.82560221354163,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/119",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 146.25762430826825,
+                "t": 193.68998209635413,
+                "r": 481.4664713541667,
+                "b": 120.97074381510413,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                373
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/122",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 10,
+              "bbox": {
+                "l": 146.2265625,
+                "t": 675.8346761067709,
+                "r": 484.5,
+                "b": 650.2862854003906,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                103
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "ThePureRate ofInterest"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 1974278157010790513,
+        "filename": "Capital_Asset_Prices.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Consider next the possibility of borrowing. If the investor can borrow at the pure rate of interest, this is equivalent to disinvesting in P. The effect of borrowing to purchase more of any given investment than is possible with the given amount of wealth can be found simply by letting \u03b1 take on negative values in the equations derived for the case of lending. This will obviously give points lying along the extension of line PA if borrowing is used to purchase more of A; points lying along the extension of PB if the funds are used to purchaseB,etc.\nAs in the case of lending, however, one investment plan will dominate all others when borrowing is possible. When the rate at which funds can be borrowed equals the lending rate, this plan will be the same one which is dominant if lending is to take place. Under these conditions, the investment opportunity curve becomes a line (PpZ in Figure 4). Moreover, if the original investment opportunity curve is not linear at point \u03a6, the process of investment choice can be dichotomized as follows: first select the (unique) optimum combination of risky assets (point \u03a6), and second borrow or lend to obtain the particular point on PZ at which an indifference curve is tangent to the line.15\nBefore proceeding with the analysis, it may be useful to consider alternative assumptions under which only a combination of assets lying at the point of tangency between the original investment opportunity curve and a ray from P can be efficient. Even if borrowing is impossible, the investor will choose \u03a6 (and lending) if his risk-aversion leads him to a point below \u03a6 on the line P\u03a6. Since a large number of investors choose to place likely possibility. Alternatively, if borrowing is possible but only up to somelimit,the choice of \u03a6wouldbe madeby allbut those investors willing to undertake considerable risk. These alternative paths lead to the main conclusion, thus making the assumption of borrowing or lending at the pure interest rate less onerous than it might initially appear to be.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/123",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 10,
+              "bbox": {
+                "l": 145.03125,
+                "t": 649.4878946940104,
+                "r": 485.296875,
+                "b": 551.2862752278646,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                554
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/124",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 10,
+              "bbox": {
+                "l": 145.03125,
+                "t": 550.4878946940104,
+                "r": 484.1015625,
+                "b": 427.9354654947917,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                686
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/125",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 10,
+              "bbox": {
+                "l": 145.03125,
+                "t": 426.3387044270833,
+                "r": 483.703125,
+                "b": 279.0362548828125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                795
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "ThePureRate ofInterest"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 1974278157010790513,
+        "filename": "Capital_Asset_Prices.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "In order to derive conditions for equilibrium in the capital market we invoke two assumptions. First, we assume a common pure rate of interest, with all investors able to borrow or lend funds on equal terms.Second, we assume homogeneity of investor expectations:16 investors are assumed\n15. This proof was first presented by Tobin for the case in which the pure rate of interest is zero (cash).Hicks considers the lending situation under comparable conditions but does not allow borrowing. Both authors present their analysis using maximization subject to constraints expressed as equalities. Hicks' analysis assumes independence and thus insures that the solution will include no negative holdings of risky assets; Tobin's covers the general case,thus his solution would generally include negative holdings of some assets. The discussion in this paper is based on Markowitz' formulation, which includes non-negativity constraints on the holdings of all assets.\n16.A term suggested by one of the referees.\nto agree on the prospects of various investments\u2014the expected values, standard deviations and correlation coeffcients described in Part I1. Needless to say, these are highly restrictive and undoubtedly unrealistic assumptions. However, since the proper test of a theory is not the realism of its assumptions but the acceptability of its implications, and since these n of classical financial doctrine, it is far from clear that this formulation should be rejected--especially in view of the dearth of alternative models leading to similar results.\nUnder these assumptions, given some set of capital asset prices, each investor will view his alternatives in the same manner. For one set of prices the alternatives might appear as shown in Figure 5. In this situa-\nFIGURE5\ntion, an investor with the preferences indicated by indifference curves A1 through Awould seek tolend some of his funds at thepure interestrate and to invest the remainder in the combination of assets shown by point \u03a6, since this would give him the preferred over-all position A*. An investor with the preferences indicated by curves B1 through B4 would seek to invest all his funds in\u00b7combination \u03a6, while an investor with indifference curves Ci through C4 would invest all his funds plus additional (borrowed)\nfunds in combination \u03a6 in order to reach his preferred position (C*). In entercombinationp.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/127",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 10,
+              "bbox": {
+                "l": 144.234375,
+                "t": 258.2781982421875,
+                "r": 483.3046875,
+                "b": 209.17740885416663,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                286
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/128",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "footnote",
+          "prov": [
+            {
+              "page_no": 10,
+              "bbox": {
+                "l": 144.234375,
+                "t": 199.59676106770837,
+                "r": 483.3046875,
+                "b": 126.5443115234375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                674
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/129",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "footnote",
+          "prov": [
+            {
+              "page_no": 10,
+              "bbox": {
+                "l": 153.796875,
+                "t": 125.34676106770837,
+                "r": 322.734375,
+                "b": 116.165283203125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                43
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/132",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 11,
+              "bbox": {
+                "l": 141.9812469482422,
+                "t": 675.8553365071615,
+                "r": 478.3421630859375,
+                "b": 567.0765991210938,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                547
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/133",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 11,
+              "bbox": {
+                "l": 142.6984354654948,
+                "t": 565.2696533203125,
+                "r": 477.9836018880208,
+                "b": 529.4919230143229,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                214
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/134",
+          "parent": {
+            "cref": "#/pictures/5"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 11,
+              "bbox": {
+                "l": 293.30780029296875,
+                "t": 222.3094482421875,
+                "r": 328.0914103190104,
+                "b": 212.5518798828125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/147",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 11,
+              "bbox": {
+                "l": 143.41562398274738,
+                "t": 198.4576416015625,
+                "r": 478.3421630859375,
+                "b": 115.33768717447913,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                511
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/150",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 12,
+              "bbox": {
+                "l": 144.6328125,
+                "t": 675.8346761067709,
+                "r": 480.9140625,
+                "b": 639.1088663736979,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                91
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "III. EQUILIBRIUM IN THE CAPITAL MARKET"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 1974278157010790513,
+        "filename": "Capital_Asset_Prices.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "The attempts by investors to purchase the assets in combination \u03a6 and their lack of interest in holding assets not in combination \u03a6 would, of course, lead to a revision of prices. The prices of assets in \u03a6 will rise and, since an asset's expected return relates future income to present price, their expected returns will fall. This will reduce the attractiveness of combinations which include such assets; thus point \u03a6 (among others\uff09 will move to the left of its initial position.17 On the other hand, the prices of assets not in \u03a6 will fall, causing an increase in their expected returns and a rightward movement of points representing combinations which include them.Suchprice changes willlead to a revision ofinvestors'actions; some new combination or combinations will become attractive, leading to different demands and thus to further revisions in prices. As the process conwith points such as \u03a6 moving to the left and formerly inefficient points (such as F and G) moving to the right.\nCapital asset prices must, of course, continue to change until a set of prices is attained for which every asset enters at least one combination lyingonthecapitalmarketline.Figure6illustratessuchanequilibrium condition.18 All possibilities in the shaded area can be attained with combinations of risky assets, while points lying along the line PZ can be attained by borrowing or lending at the pure rate plus an investment in some combination of risky assets. Certain possibilities (those lying along PZ from point A to point B) can be obtained in either manner. For example, the Er,or values shown by point A can be obtained solely by some combination of risky assets; alternatively, the point can be reached by a combination of lending and investing in combination C of risky assets.\nIt is important to recognize that in the situation shown in Figure 6 many alternative combinations of risky assets are efficient (i.e., lie along line PZ), and thus the theory does not imply that all investors will hold the same combination.19 On the other hand, all such combinations must\n17.If investors consider thevariabilityof future dollar returns unrelatedtopresent price, both ER and oR will fall; under these conditions the point representing an asset would move along a ray through the origin as its price changes.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/151",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 12,
+              "bbox": {
+                "l": 143.8359375,
+                "t": 637.5120951334635,
+                "r": 482.5078125,
+                "b": 454.6814371744792,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                992
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/152",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 12,
+              "bbox": {
+                "l": 144.6328125,
+                "t": 453.48386637369794,
+                "r": 483.3046875,
+                "b": 320.9515787760417,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                785
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/153",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 12,
+              "bbox": {
+                "l": 145.03125,
+                "t": 318.5564371744792,
+                "r": 483.703125,
+                "b": 271.45157877604163,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                289
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/154",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "footnote",
+          "prov": [
+            {
+              "page_no": 12,
+              "bbox": {
+                "l": 145.03125,
+                "t": 247.899169921875,
+                "r": 483.703125,
+                "b": 218.35884602864587,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                234
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "III. EQUILIBRIUM IN THE CAPITAL MARKET"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 1974278157010790513,
+        "filename": "Capital_Asset_Prices.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "18. The area in Figure 6 representing ER, OR values attained with only risky assets has been drawn at some distance from the horizontal axis for emphasis.It is.likely that a more accurate representation would place it very close to the axis.\n19.This statement contradicts Tobin's conclusion that there will be a unique optimal combination of risky assets. Tobin's proof of a unique optimum can be shown to be incorrect for the case of perfect correlation of effcient riskyinvestment plansif the line connecting their ER, r points would pass through point P. In the graph on page 83 of this article (op. cit.) the constant-risk locus would, in this case, degenerate from a family of ellipses into one of straight lines parallel to the constant-return loci, thus giving multipleoptima.\nthe Er, Or region.2\u00b0 This provides a key to the relationship between the prices of capital assets and different types of risk.\nIV. THE PRICES OF CAPITAL ASSETS\nWe have argued that in equilibrium there will be a simple linear relationship between the expected return and standard deviation of return for effcient combinations of risky assets. Thus far nothing has been said about such a relationship for individual assets. Typically the Er, or values associated with single assets will lie above the capital market line, reflecting the inefficiency of undiversified holdings. Moreover, such points may be scattered throughout the feasible region, with no consistent relationship between their expected return and total risk (or). However, there will be a consistent relationship between their expected returns and what might best be called systematic risk, as we will now show.\nFigure 7 illustrates the typical relationship between a single capital\n20. ER, OR values given by combinations of any two combinations must lie within the region and cannot plot above a straight line joining the points. In this case they cannot plot below such a straight line. But since only in the case of perfect correlation will they plot along a straight line, the two combinations must be perfectly correlated. As shown in Part IV, this does not necessarily imply that the individual securities they contain areperfectlycorrelated.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/155",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "footnote",
+          "prov": [
+            {
+              "page_no": 12,
+              "bbox": {
+                "l": 144.6328125,
+                "t": 217.1612548828125,
+                "r": 483.703125,
+                "b": 188.0201416015625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                241
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/156",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "footnote",
+          "prov": [
+            {
+              "page_no": 12,
+              "bbox": {
+                "l": 143.8359375,
+                "t": 185.62495930989587,
+                "r": 483.703125,
+                "b": 120.95560709635413,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                541
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/159",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 13,
+              "bbox": {
+                "l": 137.493901570638,
+                "t": 670.2368977864584,
+                "r": 471.7263590494792,
+                "b": 646.6512145996094,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                126
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/160",
+          "parent": {
+            "cref": "#/pictures/6"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 13,
+              "bbox": {
+                "l": 218.2934366861979,
+                "t": 321.81201171875,
+                "r": 389.50303141276044,
+                "b": 311.4486083984375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/166",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 13,
+              "bbox": {
+                "l": 136.0701192220052,
+                "t": 306.8029378255208,
+                "r": 473.150146484375,
+                "b": 187.44510904947913,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                716
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/167",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 13,
+              "bbox": {
+                "l": 147.1044158935547,
+                "t": 186.37300618489587,
+                "r": 472.0823160807292,
+                "b": 174.58015950520837,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                70
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/168",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "footnote",
+          "prov": [
+            {
+              "page_no": 13,
+              "bbox": {
+                "l": 136.0701192220052,
+                "t": 167.4329833984375,
+                "r": 472.794189453125,
+                "b": 110.25557454427087,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                466
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "III. EQUILIBRIUM IN THE CAPITAL MARKET"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 1974278157010790513,
+        "filename": "Capital_Asset_Prices.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "asset (point i) and an efficient combination of assets (point g) of which it is a part. The curve igg' indicates all Er, or values which can be obtained with feasible combinations of asset i and combination g. As before, we denote such a combination in terms of a proportion a of asset i and (1 \u2014- a) of combination g. A value of \u03b1 = 1 would indicate pure invest-\nFIGURE 7\n\u591a\nment in asset i while \u03b1 = 0 would imply investment in combination g. Note, however, that \u03b1 = .5 implies a total investment of more than half the funds in asset i, since half would be invested in i itself and the other half used to purchase combination g, which also includes some of asset i. This means that a combination in which asset i does not appear at all must be represented by some negative value of a. Point g' indicates such a combination.\nIn Figure 7 the curve igg' has been drawn tangent to the capital market line (PZ) at point g. This is no accident. All such curves must be tangent to the capital market line in equilibrium, since (1) they must touch it at the point representing the efficient combination and (2) they are continuous at that point.21 Under these conditions a lack of tangency would\n21. Only if Iig = --1 will the curve be discontinuous over the range in question.\nassets would lie to the right of the capital market line, an obvious impossibility since the capital market line represents the efficient boundary of feasible values of Er and oR.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/171",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 14,
+              "bbox": {
+                "l": 135.58653767903647,
+                "t": 663.7807464599609,
+                "r": 471.9599609375,
+                "b": 602.4778238932291,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                363
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/172",
+          "parent": {
+            "cref": "#/pictures/7"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 14,
+              "bbox": {
+                "l": 286.505615234375,
+                "t": 281.9510904947917,
+                "r": 321.38623046875,
+                "b": 272.49296061197924,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/175",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 14,
+              "bbox": {
+                "l": 456.7644449869792,
+                "t": 298.0650227864583,
+                "r": 461.599365234375,
+                "b": 280.1995849609375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                1
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/176",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 14,
+              "bbox": {
+                "l": 134.89583333333334,
+                "t": 265.1365966796875,
+                "r": 471.2692464192708,
+                "b": 181.414306640625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                449
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/177",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 14,
+              "bbox": {
+                "l": 134.89583333333334,
+                "t": 181.06400553385413,
+                "r": 470.9238688151042,
+                "b": 120.81201171875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                363
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/178",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "footnote",
+          "prov": [
+            {
+              "page_no": 14,
+              "bbox": {
+                "l": 142.8389434814453,
+                "t": 116.60835774739587,
+                "r": 446.7491861979167,
+                "b": 103.296875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                81
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/181",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 143.4375,
+                "t": 665.4556376139323,
+                "r": 481.3125,
+                "b": 628.7298278808594,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                179
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "III. EQUILIBRIUM IN THE CAPITAL MARKET"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 1974278157010790513,
+        "filename": "Capital_Asset_Prices.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "The requirement that curves such as igg' be tangent to the capital market line can be shown to lead to a relatively simple formula which relates the expected rate of return to various elements of risk for all assets which are included in combination g.22 Its economic meaning can best be seen if the relationship between the return of asset i and that of combination g is viewed in a manner similar to that used in regression analysis.23 Imagine that we were given a number of (ex post) observations of the return of the two investments. The points might plot as shown in Fig. 8. The scatter of the Ri observations around their mean (which will approximate Eri) is, of course, evidence of the total risk of the asset \u2014\u2014 Ori. But part of the scatter is due to an underlying relationship with the return on combination g, shown by Big, the slope of the regression line. The response of Ri to changes in Rg (and variations in Rg itself) account for\n22. The standard deviation of a combination of g and i will be:\nat \u03b1 = 0:\n<!-- formula-not-decoded -->\n<!-- formula-not-decoded -->\nbut o = ORg at \u03b1 = 0. Thus:\n<!-- formula-not-decoded -->\nThe expected return of a combination will be:\nThus, at all values of \u03b1:\n<!-- formula-not-decoded -->\n<!-- formula-not-decoded -->\nand, at \u03b1 = 0:\n<!-- formula-not-decoded -->\nLet the equation of the capital market line be:\n<!-- formula-not-decoded -->\nwhere P is the pure interest rate.Since igg'is tangent to the line when \u03b1 = O,and since (ERg Rg) lies on the line:\n<!-- formula-not-decoded -->\n<!-- formula-not-decoded -->\n23. This model has been called the diagonal model since its portfolio analysis solution can be facilitated by re-arranging the data so that the variance-covariance matrix becomes diagonal.The method is described in the author's article, cited earlier.\nReturn on Asset i (Ri)\nReturn on Combination g (Rg\n<!-- formula-not-decoded -->",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/182",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 142.640625,
+                "t": 629.5282185872396,
+                "r": 482.109375,
+                "b": 472.24595133463544,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                945
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/183",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 151.8046875,
+                "t": 463.4637044270833,
+                "r": 395.6484375,
+                "b": 451.48789469401044,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                63
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/184",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 142.640625,
+                "t": 437.9153238932292,
+                "r": 183.6796875,
+                "b": 427.5362548828125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                9
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/185",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 206.7890625,
+                "t": 452.6854654947917,
+                "r": 422.34375,
+                "b": 434.7217610677083,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                46
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/186",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 196.828125,
+                "t": 425.14111328125,
+                "r": 320.34375,
+                "b": 402.7862548828125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                18
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/187",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 142.640625,
+                "t": 401.1894938151042,
+                "r": 255.796875,
+                "b": 388.01611328125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                27
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/188",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 196.828125,
+                "t": 386.8185221354167,
+                "r": 298.4296875,
+                "b": 364.0644938151042,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/189",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 143.4375,
+                "t": 362.0685221354167,
+                "r": 307.1953125,
+                "b": 351.6894938151042,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                45
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/190",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 143.0390625,
+                "t": 339.3144938151042,
+                "r": 235.078125,
+                "b": 327.7378743489583,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/191",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 203.6015625,
+                "t": 352.4878743489583,
+                "r": 313.171875,
+                "b": 336.9193522135417,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/192",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 196.4296875,
+                "t": 325.7419026692708,
+                "r": 290.0625,
+                "b": 302.5887044270833,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/193",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 143.4375,
+                "t": 300.5927327473958,
+                "r": 204.0,
+                "b": 291.0120849609375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                14
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/194",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 196.828125,
+                "t": 288.2177327473958,
+                "r": 274.921875,
+                "b": 259.87495930989587,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/195",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 142.2421875,
+                "t": 261.87093098958337,
+                "r": 307.9921875,
+                "b": 250.69352213541663,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                47
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/196",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 200.4140625,
+                "t": 247.899169921875,
+                "r": 271.734375,
+                "b": 238.71773274739587,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                12
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/197",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 143.4375,
+                "t": 237.5201416015625,
+                "r": 480.1171875,
+                "b": 215.96370442708337,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                114
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/198",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 163.359375,
+                "t": 214.76611328125,
+                "r": 252.609375,
+                "b": 202.39111328125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                15
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/199",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 143.0390625,
+                "t": 200.3951416015625,
+                "r": 261.7734375,
+                "b": 149.29838053385413,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                33
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/200",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 15,
+              "bbox": {
+                "l": 143.4375,
+                "t": 148.899169921875,
+                "r": 480.515625,
+                "b": 120.1572265625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                251
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/203",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 16,
+              "bbox": {
+                "l": 136.6640625,
+                "t": 677.8306376139323,
+                "r": 237.8671875,
+                "b": 667.8507995605469,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/205",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 16,
+              "bbox": {
+                "l": 340.265625,
+                "t": 418.7540283203125,
+                "r": 466.5703125,
+                "b": 408.375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                27
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/206",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 16,
+              "bbox": {
+                "l": 242.25,
+                "t": 180.43546549479163,
+                "r": 253.40625,
+                "b": 166.86287434895837,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                3
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "III. EQUILIBRIUM IN THE CAPITAL MARKET"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 1974278157010790513,
+        "filename": "Capital_Asset_Prices.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "The expression on the right is the expression on the left-hand side of the last equation in footnote 22.Thus:\nFIGURE 8\nmuch of the variation in Ri. It is this component of the asset's total risk which we term the systematic risk. The remainder,24 being uncorrelated with Rg, is the unsystematic component. This formulation of the relationship between Ri and Rg can be employed ex ante as a predictive model. Big becomes the predicted response of R to changes in Rg. Then, given oRg (the predicted risk of Rg), the systematic portion of the predicted risk ofeachassetcanbedetermined.\nThis interpretation allows us to state the relationship derived from the tangency of curves such as igg' with the capital market line in the form shown in Figure 9. All assets entering efficient combination g must have (predicted) Big and ERi values lying on the line PQ.25 Prices will\n24.expost,the standarderror. 25.\nand:\n<!-- formula-not-decoded -->\n<!-- formula-not-decoded -->\nadjustsothatassetswhicharemoreresponsivetochangesinRgwillhave higher expected returns than those which are less responsive. This accords with common sense. Obviously the part of an asset's risk which is due to its correlation with the return on a combination cannot be diversified away when the asset is added to the combination. Since Big indicates the magnitude of this type of risk it should be directly related to expected return.\nTherelationship illustrated inFigure 9provides apartial answer to the question posed earlier concerning the relationship between an asset's risk\nPureRateofInterest\nFIGURE 9\nandits expectedreturn.Butthusfar wehave argued onlythattherelationship holds for the assets which enter some particular efficient combination (g). Had another combination been selected, a different linear relationship would have been derived. Fortunately this limitation is easily overcome. As shown in the footnote,26 we may arbitrarily select any one\n26. Consider the two assets i and i*,the former included in efficient combination g andthelatterincombinationg*.Asshownabove:\n<!-- formula-not-decoded -->\nand:",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/207",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 16,
+              "bbox": {
+                "l": 133.4765625,
+                "t": 160.87495930989587,
+                "r": 470.5546875,
+                "b": 141.71366373697913,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                109
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/208",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 16,
+              "bbox": {
+                "l": 285.28125,
+                "t": 403.1854654947917,
+                "r": 320.34375,
+                "b": 394.8024088541667,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/209",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 16,
+              "bbox": {
+                "l": 133.4765625,
+                "t": 386.8185221354167,
+                "r": 471.75,
+                "b": 303.3870849609375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                463
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/210",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 16,
+              "bbox": {
+                "l": 132.6796875,
+                "t": 303.3870849609375,
+                "r": 472.1484375,
+                "b": 253.48787434895837,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                285
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/211",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 16,
+              "bbox": {
+                "l": 141.046875,
+                "t": 246.70157877604163,
+                "r": 258.5859375,
+                "b": 225.94352213541663,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/212",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 16,
+              "bbox": {
+                "l": 132.6796875,
+                "t": 198.399169921875,
+                "r": 151.0078125,
+                "b": 188.4193115234375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                4
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/213",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 16,
+              "bbox": {
+                "l": 271.734375,
+                "t": 225.1451416015625,
+                "r": 356.6015625,
+                "b": 158.08060709635413,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                21
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/214",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 16,
+              "bbox": {
+                "l": 231.09375,
+                "t": 141.31449381510413,
+                "r": 398.0390625,
+                "b": 116.96366373697913,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                19
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/217",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 17,
+              "bbox": {
+                "l": 137.859375,
+                "t": 682.2217712402344,
+                "r": 476.53125,
+                "b": 610.3669230143229,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                434
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/218",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 17,
+              "bbox": {
+                "l": 139.0546875,
+                "t": 609.9677327473959,
+                "r": 476.53125,
+                "b": 586.8145141601562,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/219",
+          "parent": {
+            "cref": "#/pictures/9"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 17,
+              "bbox": {
+                "l": 178.8984375,
+                "t": 283.0281982421875,
+                "r": 292.8515625,
+                "b": 274.6451416015625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                18
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/223",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 17,
+              "bbox": {
+                "l": 290.4609375,
+                "t": 271.45157877604163,
+                "r": 325.5234375,
+                "b": 261.87093098958337,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/224",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 17,
+              "bbox": {
+                "l": 138.65625,
+                "t": 249.8951416015625,
+                "r": 476.53125,
+                "b": 190.81449381510413,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                352
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/225",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 17,
+              "bbox": {
+                "l": 139.453125,
+                "t": 183.62898763020837,
+                "r": 477.328125,
+                "b": 163.2701416015625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                125
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/226",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 17,
+              "bbox": {
+                "l": 206.390625,
+                "t": 161.67338053385413,
+                "r": 351.0234375,
+                "b": 134.92740885416663,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/227",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 17,
+              "bbox": {
+                "l": 137.859375,
+                "t": 134.12898763020837,
+                "r": 156.5859375,
+                "b": 124.54833984375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                4
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "III. EQUILIBRIUM IN THE CAPITAL MARKET"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 1974278157010790513,
+        "filename": "Capital_Asset_Prices.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "of the efficient combinations,then measure thepredicted responsiveness of every asset's rate of return to that of the combination selected; and these coefficients will be related to the expected rates of return of the assets in exactly the manner pictured inFigure 9.\nThe fact that rates of return from all effcient combinations will be perfectly correlated provides the justification for arbitrarily selecting any one of them. Alternatively we may choose instead any variable perfectly correlated with the rate of return of such combinations. The vertical axis inFigure 9wouldthenindicate alternativelevelsof a coefficientmeasurvariable chosen.\nThis possibility suggests both a plausible explanation for the implication that all efficient combinations will be perfectly correlated and a useful interpretation of the relationship between an individual asset's expected return and its risk. Although the theory itself implies only that rates of return from efficient combinations will be perfectly correlated, the over-all level of economic activity. If so, diversification enables the investor to escape all but the risk resulting from swings in economic acall other types can be avoided by diversification, only the responsiveness ofanasset'srateofreturntothelevelofeconomicactivityisrelevantin\n<!-- formula-not-decoded -->\nSince Rg and Rg* are perfectly correlated:\nThus:\n<!-- formula-not-decoded -->\nand:\n<!-- formula-not-decoded -->\n<!-- formula-not-decoded -->\nSince both g and g* lie on a line which intercepts the E-axis at P:\nand:\nThus:\n<!-- formula-not-decoded -->\n<!-- formula-not-decoded -->\n<!-- formula-not-decoded -->\nfrom which we have the desired relationship between R and g:\n<!-- formula-not-decoded -->\ng sp se au s a uo pod ana isnu s*a\nassessing its risk. Prices will adjust until there is a linear relationship between the magnitude of such responsiveness and expected return. Assets which are unaffected by changes in economic activity will return the pure interest rate; those which move with economic activity will promise appropriately higher expected rates of return.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/230",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 18,
+              "bbox": {
+                "l": 136.265625,
+                "t": 681.8225809733073,
+                "r": 474.140625,
+                "b": 634.3185424804688,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                267
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/231",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 18,
+              "bbox": {
+                "l": 136.265625,
+                "t": 633.9193522135416,
+                "r": 474.5390625,
+                "b": 549.6895141601562,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                377
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/232",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 18,
+              "bbox": {
+                "l": 135.8671875,
+                "t": 550.4878946940104,
+                "r": 474.5390625,
+                "b": 418.3548177083333,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                649
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/233",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 18,
+              "bbox": {
+                "l": 207.984375,
+                "t": 399.9919026692708,
+                "r": 406.0078125,
+                "b": 382.0281982421875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                31
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/234",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 18,
+              "bbox": {
+                "l": 135.8671875,
+                "t": 381.6290283203125,
+                "r": 288.0703125,
+                "b": 369.2540283203125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                42
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/235",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 18,
+              "bbox": {
+                "l": 135.8671875,
+                "t": 359.6733805338542,
+                "r": 157.78125,
+                "b": 348.4959309895833,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/236",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 18,
+              "bbox": {
+                "l": 205.9921875,
+                "t": 368.0564371744792,
+                "r": 255.796875,
+                "b": 354.883056640625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                12
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/237",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 18,
+              "bbox": {
+                "l": 135.8671875,
+                "t": 322.9475504557292,
+                "r": 154.59375,
+                "b": 312.9677327473958,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                4
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/238",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 18,
+              "bbox": {
+                "l": 187.265625,
+                "t": 349.6935221354167,
+                "r": 282.890625,
+                "b": 319.7540283203125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/239",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 18,
+              "bbox": {
+                "l": 207.5859375,
+                "t": 311.7701416015625,
+                "r": 289.265625,
+                "b": 289.415283203125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                15
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/240",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 18,
+              "bbox": {
+                "l": 136.265625,
+                "t": 286.2217610677083,
+                "r": 393.2578125,
+                "b": 275.04435221354163,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                67
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/241",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 18,
+              "bbox": {
+                "l": 136.265625,
+                "t": 248.69755045572913,
+                "r": 153.3984375,
+                "b": 239.51611328125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                4
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/242",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 18,
+              "bbox": {
+                "l": 135.8671875,
+                "t": 213.96773274739587,
+                "r": 157.78125,
+                "b": 203.18949381510413,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/243",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 18,
+              "bbox": {
+                "l": 209.9765625,
+                "t": 275.04435221354163,
+                "r": 282.890625,
+                "b": 244.70560709635413,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/244",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 18,
+              "bbox": {
+                "l": 264.9609375,
+                "t": 223.94755045572913,
+                "r": 307.1953125,
+                "b": 210.774169921875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/245",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 18,
+              "bbox": {
+                "l": 247.03125,
+                "t": 202.39111328125,
+                "r": 463.3828125,
+                "b": 177.24190266927087,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/246",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 18,
+              "bbox": {
+                "l": 135.8671875,
+                "t": 176.84273274739587,
+                "r": 382.8984375,
+                "b": 164.06852213541663,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                60
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/247",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "formula",
+          "prov": [
+            {
+              "page_no": 18,
+              "bbox": {
+                "l": 211.96875,
+                "t": 154.8870849609375,
+                "r": 384.890625,
+                "b": 136.12495930989587,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/248",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 18,
+              "bbox": {
+                "l": 134.671875,
+                "t": 137.32255045572913,
+                "r": 344.25,
+                "b": 121.35481770833337,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                34
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/251",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 19,
+              "bbox": {
+                "l": 137.0625,
+                "t": 688.6088663736979,
+                "r": 474.5390625,
+                "b": 628.3306376139323,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                337
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "III. EQUILIBRIUM IN THE CAPITAL MARKET"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 1974278157010790513,
+        "filename": "Capital_Asset_Prices.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "This discussion provides an answer to the second of the two questions posed in this paper. In Part III it was shown that with respect to equilibrium conditions in the capital market as a whole,the theory leads to results consistent with classical doctrine (i.e., the capital market line). We have now shown that with regard to capital assets considered individually, it also yields implications consistent with traditional concepts: return from defensive securities (those which respond little to changes in significant response). As suggested earlier, the familiarity of the implications need notbe considered a drawback.The provision of a logical framework for producing some of the major elements of traditional financial theory should be a useful contribution in its own right.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/252",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 19,
+              "bbox": {
+                "l": 137.4609375,
+                "t": 627.9314473470052,
+                "r": 475.3359375,
+                "b": 472.6451416015625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                781
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "III. EQUILIBRIUM IN THE CAPITAL MARKET"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 1974278157010790513,
+        "filename": "Capital_Asset_Prices.pdf",
+        "uri": null
+      }
+    }
+  }
+]

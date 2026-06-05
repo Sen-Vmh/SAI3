@@ -1,0 +1,2611 @@
+[
+  {
+    "text": "by William P. Bengen\nEditor's note: In honor of the Journal of Financial Planning's 25th anniversary, during 2004 we will reprint what we consider some of the best content of the Journal. This month, we present William Bengen's research on calculating \"safe\" withdrawal rates and asset allocations based on historical data, which was published in the October 1994 issue of the Journal.\nAt the onset of retirement, investment advisors make crucial recommendations to clients concerning asset allocation, as well as dollar amounts they can safely withdraw annually, so clients will not outlive their money. This article utilizes historical investment data as a rational basis for these recommendations. It employs graphical interpretations of the data to determine the maximum safe withdrawal rate (as a percentage of initial portfolio value), and establishes a range of stock and bond asset allocations that is optimal for virtually all retirement portfolios. Finally, it provides guidance on \"mid-retirement\" changes of asset allocation and withdrawal rate.\nWilliam P. Bengen, CFP\u00ae, is a sole practitioner in El Cajon, California, specializing in investment management.\nThe year is 2004. You have done a creditable job of building your financial planning practice over the last ten years. Your retirement clients are particularly well satisfied. You have demonstrated to them the virtue of a diversified portfolio of investments to provide income during retirement. The markets have been kind, if not overly generous; your clients' portfolios have enjoyed returns well in excess of bank savings accounts and certificates of deposit. They perceive you as having enriched their lives, and they are grateful...\nIt is 2006. The markets have turned sour as a weak Federal Reserve Board has allowed inflation to spiral out of control. The stock market has plummeted 35 percent during the last 2 years, the worst losses since the 1973\u2013 1974 recession. Many of your clients are alarmed, worried that they will have to cut back on their lifestyles to preserve capital in their retirement accounts. You soothe them, reminding them that you carefully computed their rates of withdrawal based on average rates of returns experienced by the markets over the years, and that the markets will recover. However, you cannot help feeling a gnawing concern that you have overlooked something...",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/2",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 14.67409896850586,
+                "t": 741.166259765625,
+                "r": 130.3512725830078,
+                "b": 730.4447021484375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/3",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 14.222347259521484,
+                "t": 679.5057983398438,
+                "r": 479.6893310546875,
+                "b": 613.08349609375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                364
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/4",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 13.909393310546875,
+                "t": 590.1218872070312,
+                "r": 597.5806884765625,
+                "b": 498.10174560546875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                671
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/5",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 15.358255386352539,
+                "t": 475.15179443359375,
+                "r": 581.724365234375,
+                "b": 464.3143005371094,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                111
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/6",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 13.909393310546875,
+                "t": 443.62451171875,
+                "r": 596.572265625,
+                "b": 377.12750244140625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                537
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/7",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 13.805075645446777,
+                "t": 362.4881896972656,
+                "r": 596.9315185546875,
+                "b": 282.08209228515625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                667
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Determining Withdrawal Rates Using Historical Data"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14040249371045914404,
+        "filename": "MAR04 Determining Withdrawal Rates Using Historical Data.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "It is 2009. True to your forecast, the stock market has recovered nicely during the last three years, and most clients' portfolios have regained almost all their lost nominal value. However, your clients have a new complaint: they cannot live on the withdrawals they have been making. Inflation, averaging eight percent over the last five years, has so eroded their purchasing power that they must substantially increase their withdrawals\u2014or face a drastically reduced quality of life. When you compute the effect on your clients' portfolios of these much higher levels of withdrawals, you are shocked: many clients will deplete their assets in less than ten years, even though in many cases their life expectancies are much longer. You have very bad news to tell them. What could have gone wrong?\nThe above scenario is fiction, of course, but it could easily have been played out several times during this century. The logical fallacy that got our hypothetical planner into trouble was assuming that average returns and average inflation rates are a sound basis for computing how much a client can safely withdraw from a retirement fund over a long time.\nAs Larry Bierwirth pointed out in his excellent article in the January 1994 issue of this publication (\"Investing for Retirement: Using the Past to Model the Future\"), it pays to look not just at averages, but at what actually has\nhappened, year-by-year, to investment returns and inflation in the past. He demonstrated that the long-term effects of certain financial catastrophes, such as the Depression or the 1973\u20131974 recession, can overwhelm the averages. Such \"events\" cannot be ignored, and the client should be made aware of them.\nIn this article, I will build on Bierwirth's work, approaching it from a slightly different tack. Using the concept of \"portfolio longevity,\" I will present simple techniques planners can use immediately in their practice in advising clients how much they can safely withdraw annually from retirement accounts. I also will explore the issue of asset allocation during retirement, including some surprising (at least to me) conclusions. In all cases I will rely on actual historical performance of investments and inflation, as presented in Ibbotson Associates' Stocks, Bonds, Bills and Inflation: 1992 Yearbook.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/8",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 13.909393310546875,
+                "t": 265.12457275390625,
+                "r": 591.7733154296875,
+                "b": 156.92340087890625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                797
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/9",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 14.01341724395752,
+                "t": 136.2220458984375,
+                "r": 591.1126708984375,
+                "b": 83.63410949707031,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                357
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/10",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 13.909099578857422,
+                "t": 68.98907470703125,
+                "r": 584.93505859375,
+                "b": 42.364776611328125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                230
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/13",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 14.326372146606445,
+                "t": 765.1001586914062,
+                "r": 595.6678466796875,
+                "b": 726.4213256835938,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                307
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/14",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 14.326372146606445,
+                "t": 709.4638061523438,
+                "r": 597.5224609375,
+                "b": 631.352783203125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                611
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Determining Withdrawal Rates Using Historical Data"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14040249371045914404,
+        "filename": "MAR04 Determining Withdrawal Rates Using Historical Data.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "To begin with, let's see how our hypothetical planner got into trouble. By referring to the Ibbotson data (which we will assume had not changed significantly by 2004), our planner learned that common stocks had returned 10.3 percent compounded over the years, and intermediate-term Treasuries had returned 5.1 percent. Inflation averaged 3 percent over the same period. Therefore, a client with a portfolio consisting of 60-percent stocks and 40-percent bonds could expect an average compounded return of 8.2 percent, assuming continual rebalancing. The \"real\" return, adjusted for inflation, would be almost 5.1 percent.\nThis planner's clients wanted to spend as much as possible each year from their retirement accounts, while maintaining a consistent lifestyle throughout retirement. Given the above analysis, it seemed to the planner that the clients could safely withdraw all the \"real return\" each year, or about five percent, and leave the remainder in the portfolio. The clients could thus increase their withdrawals each year by three percent, keeping pace with inflation. At the same time, the value of their portfolios would increase with inflation, satisfying their secondary goal of leaving wealth for their heirs.\nThus, the planner recommended that his clients withdraw five percent of their portfolio's initial value at the end of the first year, and annually increase their withdrawals by three percent, the anticipated rate of inflation. This plan worked well for several years, as investment returns and inflation stayed close to historical averages. The circumstance that upset the arrangement was an \"event,\" consisting of a severe stock-market downturn and high inflation. What similar events have actually occurred in the past?",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/16",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 13.943872451782227,
+                "t": 574.06494140625,
+                "r": 592.7353515625,
+                "b": 493.65887451171875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                621
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/17",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 14.117735862731934,
+                "t": 476.7013854980469,
+                "r": 590.9967651367188,
+                "b": 396.29534912109375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                605
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/18",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 13.943872451782227,
+                "t": 379.33782958984375,
+                "r": 594.218994140625,
+                "b": 312.8408203125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                521
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "The Averages"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14040249371045914404,
+        "filename": "MAR04 Determining Withdrawal Rates Using Historical Data.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Table 1 lists the three largest stock-market declines since 1926 that have occurred over periods of more than one year. (The \"crash\" of 1987 does not appear, as stocks showed a gain for the full year.) Because of my interest in astronomy, I have nicknamed them, respectively, the \"Big Bang,\" the \"Big Dipper,\" and the \"Little Dipper,\" reflecting their relative impact on the value and purchasing power of investors' portfolios. These impacts will be more precisely quantified in the section below on the portfolios.\n- The \"Big Bang\" of the 1973\u201374 recession was the most devastating because it occurred during a period of high inflation. Not only did investors suffer large paper losses in their portfolios, but the purchasing power of what remained was reduced substantially. It was a frightening period for investors.\n- The \"Big Dipper\" of 1937\u20131941 featured a stock decline almost as great as the \"Big Bang,\" but it occurred during a period of moderate inflation and some-what higher bond returns. Therefore, its impact on portfolios was not as severe, though it was still substantial, particularly as it followed the \"Little Dipper\" by only half a decade.\n- The \"Little Dipper,\" of course, was the early Depression years. It may sound odd to list its impact as only third behind the previous two events, given the huge decline in stock prices that occurred. However, as you can see from Table 1, the early years of the Depression was a deflationary period, so the impact of\nthe decline in stock values was cushioned by an advance in purchasing power for the dollar, as well as by modestly positive bond returns.\nThere have been other events of shorter duration, such as in 1946, but the above represent the most significant financial cataclysms of the last three quarters of this century. As planners, we know such events are likely to recur in the future. But just how detrimental have these past events been on the long-term performance of a retirement portfolio?",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/20",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 14.09455394744873,
+                "t": 257.864990234375,
+                "r": 597.5803833007812,
+                "b": 191.36798095703125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                515
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/21",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 39.9481086730957,
+                "t": 170.70127868652344,
+                "r": 597.846923828125,
+                "b": 132.02244567871094,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                303
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/22",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 39.9481086730957,
+                "t": 128.97396850585938,
+                "r": 595.1231079101562,
+                "b": 76.38605499267578,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                339
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/23",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 39.9481086730957,
+                "t": 73.33767700195312,
+                "r": 587.47314453125,
+                "b": 34.65884017944336,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                317
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/26",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 51.20863723754883,
+                "t": 763.5012817382812,
+                "r": 595.3781127929688,
+                "b": 738.7315673828125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                137
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/27",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 14.01341724395752,
+                "t": 718.06494140625,
+                "r": 587.9714965820312,
+                "b": 665.6045532226562,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                353
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "The Events"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14040249371045914404,
+        "filename": "MAR04 Determining Withdrawal Rates Using Historical Data.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "In Figures 1(A)\u2013l(D), a series of graphs illustrates the historical performance of portfolios consisting of 50-percent intermediate-term Treasury notes and 50-percent common stocks (an arbitrary asset allocation chosen for purposes of illustration). I have quantified portfolio performance in terms of \"portfolio longevity\": how long the portfolio will last before all its investments have been exhausted by withdrawals. This is an intuitive approach that is easy to explain to my clients, whose primary goal is making it through retirement without exhausting their funds, and whose secondary goal is accumulating wealth for their heirs. The graphs themselves afford rapid comparisons between many different investment scenarios. I have made several assumptions in preparing these graphs.\nIn Figure l(A), the first vertical bar on the left represents the portfolio of a client who began retirement on Jan. 1, 1926. He made a withdrawal of 3 percent of the portfolio the first year, followed by inflation-adjusted withdrawals each succeeding year. The next bar represents the portfolio of a client who began retirement on Jan. 1, 1927, and so on.\nAs you can see from the graph, the 1926 client was able to make withdrawals from his portfolio in this manner for 50 years. Actually, the portfolio would have lasted much longer than this. I have chosen 50 years arbitrarily as the longest period to show on the charts, as few clients enjoy more than 50 years of retirement.\nFigure l(A) (three-percent withdrawal rate) is as exciting as a crewcut. It shows that all clients, regardless of the year they began their retirement, were able to enjoy at least 50 years of inflation-adjusted withdrawals from their portfolios. The graphs become more interesting as we increase the percentage of first-year withdrawal. Figure l (B), featuring an initial withdrawal of four percent, begins to show the effects of some financial events. However, these effects are comparably mild; no client enjoys less than about 35 years before his retirement money is used up.\nBeginning with Figure 1(C), at a five-percent level of initial withdrawal, these effects become much more pronounced. Clients beginning their retirement in the late 1960s and early 1970s might have had only 20 years of funds available at these rates of withdrawal \u2014 clearly not enough for their lifetime in most cases!",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/49",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 14.01341724395752,
+                "t": 487.174072265625,
+                "r": 595.6331176757812,
+                "b": 378.9498596191406,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                788
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/50",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 14.326372146606445,
+                "t": 358.28326416015625,
+                "r": 591.1358642578125,
+                "b": 307.9903564453125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                356
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/64",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 13.909099578857422,
+                "t": 94.0103759765625,
+                "r": 597.5919189453125,
+                "b": 55.331539154052734,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                323
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/67",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 14.09455394744873,
+                "t": 765.1001586914062,
+                "r": 593.7090454101562,
+                "b": 684.8215942382812,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                578
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/84",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 14.01341724395752,
+                "t": 473.0093688964844,
+                "r": 596.3284912109375,
+                "b": 434.3305358886719,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                318
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "The Portfolio Scenarios"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14040249371045914404,
+        "filename": "MAR04 Determining Withdrawal Rates Using Historical Data.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "In Figure 1(D), the 3 major financial events since 1926, which we discussed earlier, are clearly identifiable. The deleterious impact of the 1973\u20131974 period can be seen to reach back to retirement portfolios whose withdrawals begin many years earlier\u2014as much as 20 or more years earlier! This is a powerful warning (particularly appropriate for recent retirees) not to increase their rate of withdrawal just because of a few good years early in retirement. Their \"excess returns\" early may be needed to balance off weaker returns later.\nThe \"Big Dipper\" of 1937\u20131941 was less severe than the \"Big Bang,\" and affected portfolio longevity for only about 9 or 10 years prior to the event\u2014about half that of the \"Big Bang.\" Least significant of the three was the \"Little Dipper\" of the Depression years, which affected portfolio longevity for only four to five years. This confirms our earlier observation that it is not a deflationary period like the Depression that is to be truly feared, but rather an inflationary period that wreaks havoc on purchasing power as well as portfolio values.\nI have not included charts for withdrawal amounts of seven percent and higher, as they are too high to be practical for the new retiree. His or her retirement capital would be exhausted very quickly in most cases. Given the data expressed in these charts, how do we guide our clients to make an intelligent decision about withdrawal rates?",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/98",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 13.943872451782227,
+                "t": 222.6456756591797,
+                "r": 584.6565551757812,
+                "b": 156.148681640625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                537
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/118",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 14.175690650939941,
+                "t": 560.1729736328125,
+                "r": 592.2485961914062,
+                "b": 493.6759948730469,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                550
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/119",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 14.117735862731934,
+                "t": 476.718505859375,
+                "r": 592.4456176757812,
+                "b": 426.42559814453125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                339
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "The Portfolio Scenarios"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14040249371045914404,
+        "filename": "MAR04 Determining Withdrawal Rates Using Historical Data.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "It is clear from Figure l(A) that an \"absolutely safe\" (to the extent history is a guide) initial withdrawal level is 3 percent, in that it ensures that portfolio longevity is never less than 50 years. (This is also true for withdrawal rates as high as approximately 3.5 percent.) However, most clients would find such a low level of withdrawals unacceptable.\nAssuming a minimum requirement of 30 years of portfolio longevity, a first-year withdrawal of 4 percent [Figure l (B)], followed by inflation-adjusted withdrawals in subsequent years, should be safe. In no past case has it caused a portfolio to be exhausted before 33 years, and in most cases it will lead to portfolio lives of 50 years or longer. By comparison, a 4.25-percent first-year withdrawal could exhaust a portfolio in as little as 28 years, were past conditions to repeat themselves.\nTherefore, I counsel my clients to withdraw at no more than a four-percent rate during the early years of retirement, especially if they retire early (age 60 or younger). Assuming they have normal life expectancies, they should live at least 25 \u2013 30 years. If they wish to leave some wealth to their heirs, their expected \"portfolio lives\" should be somewhat longer than that. Figure 1(B) shows that the 4-percent rate satisfies those criteria for all periods since 1926, including the major financial events.\nWhat if a client feels he requires larger withdrawals? For example, a client with a $400,000 portfolio would like to withdraw $24,000 the first year, then increase it with inflation each year. This is a six-percent withdrawal rate for the first year. I show the client Figure 1(D)\u2014the chart for 6-percent withdrawals\u2014and explain the risks of such an approach (assume for now that the client has a 50/50 stock/bond allocation).\nIf the client expects to live another 30 years, I point out that the chart shows 31 scenario years when he would outlive his assets, and only 20 which would have been adequate for his purposes (as we shall see later, a",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/121",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 14.650917053222656,
+                "t": 369.15478515625,
+                "r": 576.2763671875,
+                "b": 316.6943664550781,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                359
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/122",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 13.909099578857422,
+                "t": 299.609375,
+                "r": 594.972412109375,
+                "b": 233.23989868164062,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                494
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/123",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 14.175690650939941,
+                "t": 216.1549072265625,
+                "r": 590.463623046875,
+                "b": 149.6579132080078,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                509
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/124",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 13.943872451782227,
+                "t": 133.32630920410156,
+                "r": 595.6099243164062,
+                "b": 80.11247253417969,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                426
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/125",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 14.29159927368164,
+                "t": 63.15494155883789,
+                "r": 579.5797119140625,
+                "b": 38.38518142700195,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                218
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Strategies and Applications"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14040249371045914404,
+        "filename": "MAR04 Determining Withdrawal Rates Using Historical Data.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "different asset allocation would improve this, but it would still be uncomfortable, in my opinion). This means he has less than a 40-percent chance to successfully negotiate retirement\u2014not very good odds. If the client suggests that he can prune back his lifestyle to accommodate a major event should it happen, I make sure he knows how severe a pruning that may require. Even then, it may be too little to late.\nIn addition, I point out that in most cases, even if he is outlived by his money, there may be little to pass on to heirs. If this is a significant consideration to the client, it may cause him to look at a more conservative drawdown, at least in the early years of retirement.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/128",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 14.268417358398438,
+                "t": 765.1001586914062,
+                "r": 580.1593017578125,
+                "b": 712.5122680664062,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                412
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/129",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 14.326372146606445,
+                "t": 695.5547485351562,
+                "r": 597.5572509765625,
+                "b": 656.8759765625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                277
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Strategies and Applications"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14040249371045914404,
+        "filename": "MAR04 Determining Withdrawal Rates Using Historical Data.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Note that my conclusions above were based on the assumption that the client continually rebalanced a portfolio of 50-percent common stocks and 50-percent intermediate-term Treasuries. What effect would other asset allocation schemes have on this conclusion? Would a higher percentages of stocks, given their higher rates of return, be beneficial to the client?\nAs a first look at the problem, examine Figure 2. This chart was created by producing 40 graphs similar to those in Figures 1(A)\u20131(D). Five possible asset allocations (0-, 25-, 50-, 75-, and 100-percent stocks) were matched against 8 percentages of first-year withdrawals (1, 2, 3, 4, 5, 6, 7, and 8 percent). All permutations of these elements were computed as graphs, and the shortest bar in each graph\u2014representing the shortest life of a portfolio for each combination of factors\u2014was transferred to Figure 2. What is depicted in Figure 2, then, is a \"Worst Case Portfolio Life\" graph for each of many different scenarios.\nOne pattern that leaps out from the figure is that holding too few stocks does more harm than holding too many stocks. The \"0-percent stocks\" bar and \"25-percent stocks\" bars are consistently shorter than the others, confirming what we already know\u2014the superior returns of stocks versus bonds are essential to maximizing the benefit from a portfolio. Too few stocks in the portfolio shortens the minimum portfolio life.\nPerhaps even more important is the observation that the 50/50 stock/bond mix appears to be near-optimum for generating the highest minimum portfolio longevity for any withdrawal scheme. This is particularly clear in the 4percent, 5-percent, and 6-percent withdrawal groups, which are peaked like roofs at the 50-percent stock level.\nDoes that mean that a 50/50 mix is optimal for all situations during retirement? Not at all. Note in Figure 2 that for all withdrawal percentages, the bars for 50-percent stocks and 75-percent stocks are very close in height\u2014a year or less apart. From the perspective of the highest minimum portfolio longevity, that means you give up very little by increasing stocks from 50 percent to 75 percent of the portfolio. But do you gain anything in return?",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/131",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 14.29159927368164,
+                "t": 601.9002685546875,
+                "r": 587.2991943359375,
+                "b": 550.1005249023438,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                360
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/132",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 13.909099578857422,
+                "t": 532.3548583984375,
+                "r": 588.5394897460938,
+                "b": 451.9488220214844,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                624
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/146",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 14.268417358398438,
+                "t": 229.14816284179688,
+                "r": 585.3751831054688,
+                "b": 176.67616271972656,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                419
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/147",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 14.280008316040039,
+                "t": 159.59115600585938,
+                "r": 584.9231567382812,
+                "b": 120.91233825683594,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                332
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/148",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 14.29159927368164,
+                "t": 103.9548568725586,
+                "r": 596.9197387695312,
+                "b": 51.366947174072266,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                451
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Initial Asset Allocation"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14040249371045914404,
+        "filename": "MAR04 Determining Withdrawal Rates Using Historical Data.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "To answer that question, consider Figure 3(A), which shows 4-percent withdrawal rate applied to a portfolio consisting of 75-percent stocks and 25-percent bonds. Compare this to Figure l(B),which is also drawn for a 4percent withdrawal rate, but at a 50/50 stock/bond mix.\nClearly, the heavier weighting in stocks in Figure 3(A) has produced some fairly significant improvements. Fully 47 scenario years result in portfolio longevities of the maximum of 50 years, while only 40 scenario years attained that pinnacle in the earlier chart. The only penalties occur in portfolio year 1966, which is shortened by one year, from 33 to 32 years, and in 1969, which is shortened from 36 years to 34. All the other scenario years have equal or greater longevity.\nIs it possible that a stock allocation as high as 75 percent is superior to a 50-percent allocation for a retiree? Before we accept that conclusion, let's perform one more comparison. Examine Figure 3(B), which computes longevity for a 5-percent withdrawal rate with a 75/25 stock/bond allocation. As with the previous example, compare this graph to Figure l(C), also for a 5-percent withdrawal rate, but with a 50/50 stock/bond allocation.\nOnce again, the improvements on the 75/25 chart are quite evident. The \"valleys\" are narrower, suggesting that damage from financial events is confined to fewer years surrounding each event. Twenty-four of the 51 scenario years \u2014 almost one half\u2014 f\u2014 have increased longevities. Obviously, the recovery power of stocks is at work here, snapping back from stock-market downturns with greater vigor than bonds could ever muster.\nHowever, there is a price to pay for this improvement. The \"Little Dipper\" of the Depression is quite a bit deeper than before. As we have seen, this was primarily a steep decline in stock prices softened by deflation. As you might expect, increasing the percentage of stocks in a portfolio only increases the damage in such an event. As a result, there is an increased chance of experiencing a retirement with near-minimum portfolio longevity.\nImportantly, however, the shortest longevity is still during the \"Big Bang\" (and this longevity has been unaffected by the higher stock allocation), so we have not violated our criterion of 30 years minimum portfolio longevity.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/151",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 14.175690650939941,
+                "t": 765.1001586914062,
+                "r": 577.8642578125,
+                "b": 726.548828125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                272
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/167",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 14.01341724395752,
+                "t": 514.736572265625,
+                "r": 597.5571899414062,
+                "b": 448.2395935058594,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                481
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/168",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 14.36114501953125,
+                "t": 431.2821044921875,
+                "r": 574.6304321289062,
+                "b": 378.6942138671875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                440
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/183",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 14.09455394744873,
+                "t": 167.02096557617188,
+                "r": 590.498291015625,
+                "b": 114.42145538330078,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                425
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/184",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 14.117735862731934,
+                "t": 93.7548828125,
+                "r": 596.966064453125,
+                "b": 41.16696548461914,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                444
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/187",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 14.662508010864258,
+                "t": 765.1001586914062,
+                "r": 590.370849609375,
+                "b": 740.3304443359375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                227
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Initial Asset Allocation"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14040249371045914404,
+        "filename": "MAR04 Determining Withdrawal Rates Using Historical Data.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "As there is a trade-off in moving to stock allocations higher than 50 percent, there is clearly room for client discretion. However, before a client makes his or her decision, there is one more piece of information to consider: the additional wealth created by the higher stock allocation.\nFigures 4(A)\u20134(D) examine what happens to the dollar value of a client's period after 20 years have elapsed, under assumptions of different asset allocations. As your eye travels from Figure 4(A), 35-percent stocks, through the 4 charts to Figure 4(D), 75-percent stocks, the increase in wealth is dramatic\u2014as much as fourfold for some scenario years. The average portfolio value increase from 35-percent stocks to 75-percent stocks is +123 percent. Since the secondary goal of our clients is accumulating wealth for heirs, this is a significant consideration.\nSorting this all out, I think it is appropriate to advise the client to accept a stock allocation as close to 75 percent as possible, and in no cases less than 50 percent. Stock allocations lower than 50 percent are counterproductive, in that they lower the amount of accumulated wealth as well as lowering the minimum portfolio longevity. Somewhere between 50-percent and 75-percent stocks will be a client's \"comfort zone.\"\nAn asset allocation as high as 75 percent in stocks during retirement seems to fly in the face of conventional wisdom \u2014 at least the wisdom I have heard. But the charts do not lie \u2014 they tell their story very plainly.\nWhat occurs when we increase stocks to more than 75 percent of the portfolio? This also turns out to be counterproductive. I have run an analysis on a number of scenarios using this assumption, and although accumulated wealth continues to increase, it is offset by the deterioration of portfolio longevity during the \"Little Dipper\" (Depression years). In fact, in most cases the minimum longevity during the Little Dipper drops below the minimum longevity established on the 50-percent chart (which occurred during the 1973\u201374 \"Big Bang\"), which is contrary to our objective of \"making sure the money will last.\" Therefore, stock allocations of more than 75 percent are to be avoided at the beginning of retirement.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/188",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 13.909099578857422,
+                "t": 723.3729248046875,
+                "r": 596.9080810546875,
+                "b": 684.694091796875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                289
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/189",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 14.01341724395752,
+                "t": 667.7366333007812,
+                "r": 583.3815307617188,
+                "b": 589.6255493164062,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                560
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/248",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 14.326372146606445,
+                "t": 336.70025634765625,
+                "r": 596.966064453125,
+                "b": 284.2398376464844,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                425
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/249",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 13.909099578857422,
+                "t": 269.4730224609375,
+                "r": 570.538818359375,
+                "b": 244.70327758789062,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                217
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/250",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 14.048190116882324,
+                "t": 227.74578857421875,
+                "r": 596.1315307617188,
+                "b": 133.43064880371094,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                716
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Initial Asset Allocation"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14040249371045914404,
+        "filename": "MAR04 Determining Withdrawal Rates Using Historical Data.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "We begin retirement, therefore, with an allocation of between 50-percent and 75-percent stocks (I assume 75 percent in the discussion of particulars below). Do we maintain it during all of retirement, or change it as the client ages?\nMy research indicates strongly that as long as the client's goals remain the same, there is no need to change the initial asset allocation. It is likely to do more harm than good, as we shall see.\nLet us consider first the case where there is a change in the client's goals. In this paper, our client's primary goal has been to make the money last through retirement, with a secondary goal of maximizing the accumulation of wealth for heirs. The first goal is satisfied primarily by the selection of the initial withdrawal percentage, although asset allocation plays a part. The second goal is tackled by adjusting the asset allocation.\nConsider a client aged 92, in poor health, who expects to live at most a few more years. Assume also that her retirement assets are more than adequate to last for this period of time, even if invested in relatively low-yielding bancs. If her primary concern has shifted to leaving maximum wealth to her heirs, a case could be made for selling all her stocks, and converting to CDs or Treasury bills. Then her wealth would not be threatened by a big decline in the stock market, which can occur unpredictably.\nNote that since we are assuming that all retirement assets are held in tax-deferred accounts, capital-gains taxes are not a concern. If the assets had been held in a taxable account, the conclusion might have been different, as the certainty of substantial capital-gains taxes would have to be weighed against the probability of a large stockmarket decline, and the loss of the benefit of a step-up in basis upon death.\nLet's return now to clients who are well into retirement (perhaps 10 to 15 years), but are still concerned about the longevity of their portfolio, which must support them for another 12 to 15 years or more. For purposes of analysis, I divide them into three classes: those whose investment results have been exceptional (\"the stars\"), those who have earned about what they expected (\"the asteroids\"), and those who, by virtue of an event occurring during retirement, have gotten poor investment results (\"the black holes\").",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/252",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 14.048190116882324,
+                "t": 78.45478057861328,
+                "r": 597.5572509765625,
+                "b": 39.775943756103516,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                233
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/255",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 10,
+              "bbox": {
+                "l": 14.67409896850586,
+                "t": 753.3703002929688,
+                "r": 593.3728637695312,
+                "b": 728.7396850585938,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                196
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/256",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 10,
+              "bbox": {
+                "l": 13.943872451782227,
+                "t": 714.100341796875,
+                "r": 591.0547485351562,
+                "b": 661.512451171875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                439
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/257",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 10,
+              "bbox": {
+                "l": 14.268417358398438,
+                "t": 644.554931640625,
+                "r": 590.4752197265625,
+                "b": 578.0579833984375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                508
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/258",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 10,
+              "bbox": {
+                "l": 14.117735862731934,
+                "t": 561.1004638671875,
+                "r": 592.5034790039062,
+                "b": 508.6400451660156,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                419
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/259",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 10,
+              "bbox": {
+                "l": 14.650917053222656,
+                "t": 491.5550231933594,
+                "r": 596.2821655273438,
+                "b": 425.0580139160156,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                523
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Asset Allocation and Withdrawals"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14040249371045914404,
+        "filename": "MAR04 Determining Withdrawal Rates Using Historical Data.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "The \"black hole\" group is in a very uncomfortable situation. As an example, the client who retired in 1929 with $500,000 in a retirement fund saw that fund dwindle to less than $200,000 by the end of 1932. Although his withdrawals have also declined from $20,000 in 1929 to $15,300 in 1932, owing to deflation, those withdrawals now equal about 7.6 percent of his portfolio, whereas he began by withdrawing only 4 percent. In this situation, with stocks having performed so dismally so early in retirement, it may be tempting to switch all investments to bonds in order to salvage what is left of the original capital.\nBut that would be precisely the wrong thing to do! Let us say that on December 31, 1932, after years of withering returns on stocks, our black-hole client demands we reduce the percentage of stocks in his portfolio. If we eliminate stocks completely, investing only in intermediate-term bonds, his money will be exhausted in 1946, after only 17 more years. If we invest in 25-percent stocks, the money will last till 1950; 50 percent in stocks, 1957. But if we had left the allocation at 75-percent stocks, the client would still have $1.7 million in 1992 (although to maintain his lifestyle after inflation, he would be withdrawing 9.5 percent a year, which suggests the portfolio would probably not last much beyond the millennium, if that).\nBut what if our client had the audacity to demand, on December 31, 1932, that we increase the stock allocation to 100 percent, and hold that allocation for the remainder of his life? Despite suffering through the \"Big Bang\" and the \"Big Dipper,\" by 1992, if he were still alive, he would have amassed $42 million in his retirement fund! Of course, with all that wealth, there would have been the temptation to increase withdrawals, thereby reducing the accumulation, but that certainly would have been affordable.\nThis same analysis can be repeated for all the other \"black hole\" clients who were unfortunate enough to begin their retirements in 1937, 1946, 1969, 1973, 1974\u2014the years of major and minor events. This is a testament to the enormous recovery power of the stock market\u2014and the need to avoid emotion when investing. The best time\nto invest is likely to be right after the worst time to invest!",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/261",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 10,
+              "bbox": {
+                "l": 13.943872451782227,
+                "t": 370.0820617675781,
+                "r": 584.0885009765625,
+                "b": 289.6759948730469,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                618
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/262",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 10,
+              "bbox": {
+                "l": 14.326372146606445,
+                "t": 272.718505859375,
+                "r": 593.7553100585938,
+                "b": 178.4033660888672,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                743
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/263",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 10,
+              "bbox": {
+                "l": 14.117735862731934,
+                "t": 161.44586181640625,
+                "r": 597.626708984375,
+                "b": 94.94883728027344,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                513
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/264",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 10,
+              "bbox": {
+                "l": 14.117735862731934,
+                "t": 77.99134063720703,
+                "r": 595.65625,
+                "b": 39.31245803833008,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                328
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/267",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 11,
+              "bbox": {
+                "l": 14.117735862731934,
+                "t": 765.1001586914062,
+                "r": 307.0197448730469,
+                "b": 754.239501953125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                63
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "The Black Holes"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14040249371045914404,
+        "filename": "MAR04 Determining Withdrawal Rates Using Historical Data.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Admittedly, increasing stock allocation to 100 percent after a long period of miserable returns requires unusual foresight and fortitude on the part of the advisor, as well as the client. If you can convince your client just to maintain the 75-percent allocation under such conditions, you have won a major battle. However, the client is still faced with a shorter-than-average portfolio longevity, and with much less wealth to pass on to heirs than originally hoped for.\nHowever, the client has another option to improve the situation for the long term, and that is to reduce\u2014even if temporarily\u2014his level of withdrawals. If the client can manage it without too much pain, this may be the best solution, as it does not depend on the fickle performance of markets, but on factors the client controls completely: his spending.\nAs an example, let us return to the 1929 retiree. At the end of 1930, as he is about to make his second annual withdrawal, the market has already declined about 30 percent from the end of 1928, and there looks like more trouble ahead. If he reduces his 1930 withdrawal by only 5 percent, and continues to withdraw at this reduced level during retirement, by 1949 he will have 20 percent more wealth than otherwise, which can be passed on to his heirs. After 30 years, the wealth is 25 percent greater, and the advantage continues to grow over time. This assumes he continues to maintain the 75-percent stock allocation throughout retirement.\nThus the \"black hole\" client has at least two alternatives to improve his portfolio longevity, with an infinite number of permutations of the two possible. The one alternative he cannot afford, and which we as advisors must work hard to dissuade him from doing, is to pull back from the stock market and retreat to bonds.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/268",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 11,
+              "bbox": {
+                "l": 13.909099578857422,
+                "t": 737.281982421875,
+                "r": 594.99560546875,
+                "b": 670.7850341796875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                471
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/269",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 11,
+              "bbox": {
+                "l": 14.117735862731934,
+                "t": 653.8275146484375,
+                "r": 596.9544677734375,
+                "b": 601.2396240234375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                353
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/270",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 11,
+              "bbox": {
+                "l": 13.909099578857422,
+                "t": 584.2821655273438,
+                "r": 589.86083984375,
+                "b": 503.87603759765625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                641
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/271",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 11,
+              "bbox": {
+                "l": 14.175690650939941,
+                "t": 486.91851806640625,
+                "r": 593.558349609375,
+                "b": 448.2396545410156,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                321
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "The Black Holes"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14040249371045914404,
+        "filename": "MAR04 Determining Withdrawal Rates Using Historical Data.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "At the other end of the spectrum are the \"stars,\" the lucky clients who began retirement early in a boom period in the stock market; for example, 1949, the 1950s, 1975\u20131976, and even 1982. Their problem is quite the opposite of the \"black hole\" clients; their resources grew very rapidly early in retirement, and they are tempted to do two things: to increase their withdrawals, and to increase their allocation in the stock market. Both could be damaging to their retirement.\nConsider a client who retired in 1958, again with $500,000, and who takes your advice to withdraw 4 percent each year, adjusting the withdrawals for inflation each year. Over the 10 years from 1958\u00d01967, the stock market returned 12.9 percent a year compounded, while inflation increased at only a measly 1.8 percent a year. These are both much better than the long-term averages.\nDespite her withdrawals, the client has over $1 million in her retirement fund, and realizes she is withdrawing at the rate of only 2.3 percent a year. Over your strenuous objections, she increases her withdrawals to $40,000 a year, almost 4 percent of her portfolio value.\nWhat happens the next few years thoroughly shocks her. After a bad 1969, her portfolio is further assaulted by the \"Big Bang\" of 1973\u20131974. Her fund dwindles in value to $777,000 at the end of 1974. Worse, high inflation has reduced its purchasing power to less than $500,000, compared with the $1,040,000 she had at the end of 1967 \u2014 less than half its value. And most frightening of all, she is withdrawing at the rate of eight percent a year!\nPanic may well grip such an investor, causing her to search for drastic remedies. Not wishing to diminish her lifestyle (to which she has become accustomed over the last six years) she may instruct you now to reduce the percentage of stocks in her portfolio, perhaps to zero\u2014t precisely the wrong time. Sound familiar? Yes, the \"star\" is now a \"fallen star,\" and has been converted to a \"black hole.\"\nThe remedies for the client are the same as they were for the \"black hole\" client\u2014stay the course, and expect a",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/273",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 11,
+              "bbox": {
+                "l": 13.909099578857422,
+                "t": 399.2911682128906,
+                "r": 596.2938232421875,
+                "b": 335.08917236328125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                476
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/274",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 11,
+              "bbox": {
+                "l": 14.326372146606445,
+                "t": 316.46258544921875,
+                "r": 597.5803833007812,
+                "b": 263.248779296875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                380
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/275",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 11,
+              "bbox": {
+                "l": 14.09455394744873,
+                "t": 246.91720581054688,
+                "r": 586.650146484375,
+                "b": 207.6124725341797,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                273
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/276",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 11,
+              "bbox": {
+                "l": 14.048190116882324,
+                "t": 190.65496826171875,
+                "r": 587.2992553710938,
+                "b": 138.0670166015625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                445
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/277",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 11,
+              "bbox": {
+                "l": 14.650917053222656,
+                "t": 121.10953521728516,
+                "r": 594.2073974609375,
+                "b": 69.30974578857422,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                400
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/278",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 11,
+              "bbox": {
+                "l": 14.175690650939941,
+                "t": 51.56406021118164,
+                "r": 587.1369018554688,
+                "b": 40.70338821411133,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                111
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "The Stars"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14040249371045914404,
+        "filename": "MAR04 Determining Withdrawal Rates Using Historical Data.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "dramatic recovery in stocks (which we know occurred); reduce withdrawals; or, most dramatically, consider increasing the stock allocation to 100 percent of the portfolio. Can you imagine how much wealth would have accrued to an investor who had a 100-percent stock portfolio on January 1, 1975, and held it through the end of 1993? Even after withdrawals, which began at four per-cent, she would have increased her wealth by seven times!\nSo the \"star\" clients are ones who must be advised to refrain from making any radical changes in their asset allocation or withdrawal pattern. Some increase in withdrawals are probably inevitable, but need not be fatal to the retirement plan, if they are moderate. They must understand that excess returns earned today will probably be needed to offset losses in the future. They have enjoyed good luck, and nothing more. Good luck is too rare and precious to be squandered.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/281",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 12,
+              "bbox": {
+                "l": 14.117735862731934,
+                "t": 765.1001586914062,
+                "r": 587.3455810546875,
+                "b": 700.8981323242188,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                437
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/282",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 12,
+              "bbox": {
+                "l": 14.117735862731934,
+                "t": 681.6456909179688,
+                "r": 584.1117553710938,
+                "b": 615.2761840820312,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                474
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "The Stars"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14040249371045914404,
+        "filename": "MAR04 Determining Withdrawal Rates Using Historical Data.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "The \"asteroid\" clients are the ones who, after ten years, have gotten just about what they expected out of the markets regarding investment return and inflation. They are typified by those who retired in the years 1942\u20131946, or 1959 \u2013 1960. Since their expectations have been met, it is unlikely that they will want to make any major changes in their portfolios regarding asset allocation or withdrawals. And that is almost certainly the best strategy. Because the stock market is a random place, it is impossible to predict whether asteroid clients will experience better or worse luck during their second decade. Those who retired in the 40s had a wonderful second decade; those who retired in 1959\u20131960 had a miserable second decade. Fortunately, their decent start in the first decade gives them a cushion, should they need it. They can ride out a period such as the \"Big Bang\" without having to reduce withdrawals or change allocations. And after the \"Big Bang\" they will have an opportunity to accelerate the growth of their wealth by using the all-stock strategy we discussed above.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/284",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 12,
+              "bbox": {
+                "l": 13.943872451782227,
+                "t": 560.1729736328125,
+                "r": 596.3053588867188,
+                "b": 424.130615234375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                1089
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "The Asteroids"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14040249371045914404,
+        "filename": "MAR04 Determining Withdrawal Rates Using Historical Data.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "For a client just beginning retirement, determine first the \"safe\" withdrawal rate. Do so by computing the shortest portfolio life acceptable to the client (generally the client's life expectancy plus 5 or 10 years, depending on the conservatism of the client). Next, using the charts for a 50/50 stock/bond allocation, determine the highest withdrawal rate that satisfies the desired minimum portfolio life. For a client of age 60\u201365, this will usually be about 4 percent. The withdrawal dollar amount for the first year (calculated as the withdrawal percentage times the starting value of the portfolio), will be adjusted up or down for inflation every succeeding year. After the first year, the withdrawal rate is no longer used for computing the amount withdrawn; that will be computed instead from last year's withdrawal, plus an inflation factor.\nShould a client wish higher levels of initial withdrawals, he or she should be apprised of the risks, using charts similar to those in Figure 1. You should do all you can to dissuade the client from being too \"frisky\" with spending early in retirement. An initial five-percent withdrawal rate is risky; six percent or more is \"gambling.\"\nDespite advice you may have heard to the contrary, the historical record supports an allocation of between 50percent and 75-percent stocks as the best starting allocation for a client. For most clients, it can be maintained throughout retirement, or until their investing goals change. Stock allocations below 50 percent and above 75 percent are counterproductive.\nVery conservative clients may have difficulty accepting a 75-percent stock allocation. Using the charts, you can review with them the performance difference between a 50-percent stock allocation and a 75-percent stock allocation, and allow them to make the choice. A negative feature of a higher stock allocation is reduced portfolio longevity as a result of a Depression-like event. A major positive is the vastly increased wealth that will accrue under most other scenarios. I believe that the balance is tilted in favor of the higher allocation\u2014but it is the client's choice.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/286",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 12,
+              "bbox": {
+                "l": 13.943872451782227,
+                "t": 369.15478515625,
+                "r": 590.9735717773438,
+                "b": 260.9305725097656,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                852
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/287",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 12,
+              "bbox": {
+                "l": 14.268417358398438,
+                "t": 243.9730682373047,
+                "r": 594.218994140625,
+                "b": 205.2942352294922,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                337
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/288",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 12,
+              "bbox": {
+                "l": 14.117735862731934,
+                "t": 188.33676147460938,
+                "r": 581.4806518554688,
+                "b": 135.87631225585938,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                364
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/289",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 12,
+              "bbox": {
+                "l": 13.955463409423828,
+                "t": 118.79131317138672,
+                "r": 593.0947265625,
+                "b": 40.680179595947266,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                578
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Conclusion"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14040249371045914404,
+        "filename": "MAR04 Determining Withdrawal Rates Using Historical Data.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "With respect to their investment experience, retirement clients fall into three groups. \"Star\" clients earn high returns for extended periods early on in their retirement, so they develop wealth much faster than expected. They must be counseled not to increase withdrawals excessively, or to be too aggressive with their asset allocation. \"Black hole\" clients experience a major unpleasant financial event early in their retirement, and may become too conservative. They should be counseled to maintain their asset allocation, and reduce withdrawals slightly for a period of time. The most courageous such clients should consider increasing their stock allocation to as much as 100 percent for the rest of their retirement.\nFinally, \"asteroid\" clients, who have experienced average results over their first ten years of retirement, probably will not request, and should not be recommended, a change in either asset allocation or withdrawal strategy. The experience of their second decade may be different, and the planner can formulate his or her recommendations accordingly at that time.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/292",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 13,
+              "bbox": {
+                "l": 14.048190116882324,
+                "t": 751.1911010742188,
+                "r": 596.305419921875,
+                "b": 657.0034790039062,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                723
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/293",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 13,
+              "bbox": {
+                "l": 13.943872451782227,
+                "t": 639.91845703125,
+                "r": 594.3696899414062,
+                "b": 587.33056640625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                364
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Conclusion"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14040249371045914404,
+        "filename": "MAR04 Determining Withdrawal Rates Using Historical Data.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Less Antman, \"First, Let's Kill All the Asset Allocators,\" Managing Your Money Better, Spring 1994, pp. 6\u20138, (MECA Software Inc., Fairfield, Conn.).\nLarry Bierwirth, \"Investing for Retirement: Using the Past to Model the Future,\" Journal of Financial Planning , January 1994, pp. 14\u201324.\nIbbotson Associates, Stock, Bonds, Bills and Inflation: 1992 Yearbook (Chicago: Ibbotson Associates, 1993).",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/295",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 13,
+              "bbox": {
+                "l": 14.616144180297852,
+                "t": 532.3547973632812,
+                "r": 567.4440307617188,
+                "b": 507.5734558105469,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                148
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/296",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 13,
+              "bbox": {
+                "l": 14.222053527832031,
+                "t": 492.93414306640625,
+                "r": 573.5756225585938,
+                "b": 468.1417236328125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                137
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/297",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 13,
+              "bbox": {
+                "l": 14.98708724975586,
+                "t": 451.6478576660156,
+                "r": 569.5535888671875,
+                "b": 440.7872009277344,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                107
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "References"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14040249371045914404,
+        "filename": "MAR04 Determining Withdrawal Rates Using Historical Data.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "With special thanks to L.E. Howes, CFP\u00ae.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/299",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 13,
+              "bbox": {
+                "l": 14.045989036560059,
+                "t": 403.41668701171875,
+                "r": 229.50918579101562,
+                "b": 392.6835021972656,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                40
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Acknowledgment"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14040249371045914404,
+        "filename": "MAR04 Determining Withdrawal Rates Using Historical Data.pdf",
+        "uri": null
+      }
+    }
+  }
+]

@@ -1,0 +1,4102 @@
+[
+  {
+    "text": "+80.25 132\n56.39+74\n98.306",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/2",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 15.666666666666666,
+                "t": 253.33333333333331,
+                "r": 56.666666666666664,
+                "b": 228.33333333333331,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                10
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/3",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 8.666666666666666,
+                "t": 235.0,
+                "r": 49.333333333333336,
+                "b": 213.33333333333331,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/4",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 30.0,
+                "t": 150.0,
+                "r": 52.333333333333336,
+                "b": 137.33333333333331,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                6
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": null,
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "\"For active fixed-income investors,thisbook has alwaysbeen theholywrit, whereit allbegan...Inside theYield Bookisthe essentialworkforunderstandingwhatthe entire investmentprocessis all about.\"\n-PETER L.BERNSTEIN, authorofAgainst the Gods and Capital Ideas",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/6",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 88.33333333333333,
+                "t": 560.6666666666666,
+                "r": 345.6666666666667,
+                "b": 530.3333333333334,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                192
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/7",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 90.33333333333333,
+                "t": 528.0,
+                "r": 356.3333333333333,
+                "b": 517.0,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                62
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Bloomberg"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "The  classic  ThaT",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/9",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 88.33333333333333,
+                "t": 415.66666666666663,
+                "r": 297.6666666666667,
+                "b": 404.66666666666663,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                18
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "INSIDE"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "INCLUDESNEW WORKONDURATION TARGETING\nCREATEdTHE SCIENCE",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/11",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 335.0,
+                "t": 398.33333333333337,
+                "r": 408.6666666666667,
+                "b": 365.3333333333333,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                36
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/12",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 91.33333333333333,
+                "t": 322.6666666666667,
+                "r": 343.0,
+                "b": 312.6666666666667,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                18
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "THE"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "DFBONDANALYSIS\nBOOK\n3\nTHIRD ED ITION\nSIDNEY HOMER AND MARTIN L. LEIBOWITZ WITHANTHONY BOVAAND STANLEY KOGELMAN",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/14",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 91.33333333333333,
+                "t": 232.33333333333331,
+                "r": 301.6666666666667,
+                "b": 222.66666666666669,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                14
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/15",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 87.0,
+                "t": 209.66666666666669,
+                "r": 267.6666666666667,
+                "b": 166.0,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                4
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/16",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 112.0,
+                "t": 132.66666666666663,
+                "r": 129.33333333333334,
+                "b": 104.33333333333337,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                1
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/17",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 152.66666666666666,
+                "t": 124.33333333333337,
+                "r": 370.3333333333333,
+                "b": 115.66666666666663,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                14
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/18",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 90.0,
+                "t": 67.0,
+                "r": 401.6666666666667,
+                "b": 36.0,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                73
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "YIELD"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Since 1996, Bloomberg Press has published books for financial professionals on investing, economics, and policy affecting investors. Titles are written by leading practitioners and authorities, and have been translated into more than 20 languages.\nThe Bloomberg Financial Series provides both core reference knowledge and actionable information for financial professionals. The books are written by experts familiar with the work flows, challenges, and demands of investment professionals who trade the markets, manage money, and analyze investments in their capacity of growing and protecting wealth, hedging risk, and generating revenue.\nFor a list of available titles, please visit our web site at www.wiley.com/go/ bloombergpress.\nThe Classic That Created the Science of Bond Analysis",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/20",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 54.236507415771484,
+                "t": 574.481201171875,
+                "r": 377.0447998046875,
+                "b": 524.8807373046875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                247
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/21",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 54.33513641357422,
+                "t": 522.6670532226562,
+                "r": 376.62841796875,
+                "b": 447.1595458984375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                391
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/22",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 54.335147857666016,
+                "t": 445.0115966796875,
+                "r": 376.5298156738281,
+                "b": 421.25244140625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                94
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/24",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 53.962547302246094,
+                "t": 450.0787658691406,
+                "r": 300.8666076660156,
+                "b": 405.4979553222656,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                53
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "INSIDE THE YIELD BOOK"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Sidney Homer and Martin L. Leibowitz with\nAnthony Bova and Stanley Kogelman\nCover Design: John Wiley & Sons, Inc. Cover Image: Stock Market Bars @ Ash Waechter/istockphoto.\nCopyright \u00a9 2013 by Sidney Homer and Martin L. Leibowitz. All rights reserved.\nPublished by John Wiley & Sons, Inc., Hoboken, New Jersey.\nThe first edition of Inside the Yield Book was published by Prentice-Hall, Inc. in 1972. The second edition of Inside the Yield Book was published by Bloomberg Press in 2004.\nPublished simultaneously in Canada.\nNo part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, scanning, or otherwise, except as permitted under Section 107 or 108 of the 1976 United States Copyright Act, without either the prior written permission of the Publisher, or authorization through payment of the appropriate per-copy fee to the Copyright Clearance Center, Inc., 222 Rosewood Drive, Danvers, MA 01923, (978) 750-8400, fax (978) 646-8600, or on the Web at www.copyright.com. Requests to the Publisher for permission should be addressed to the Permissions Department, John Wiley & Sons, Inc., 111 River Street, Hoboken, NJ 07030, (201) 748-6011, fax (201) 748-6008, or online at http://www.wiley.com/go/permissions.\nLimit of Liability/Disclaimer of Warranty: While the publisher and author have used their best efforts in preparing this book, they make no representations or warranties with respect to the accuracy or completeness of the contents of this book and specifically disclaim any implied warranties of merchantability or fitness for a particular purpose. No warranty may be created or extended by sales representatives or written sales materials. The advice and strategies contained herein may not be suitable for your situation. You should consult with a professional where appropriate. Neither the publisher nor author shall be liable for any loss of profit or any other commercial damages, including but not limited to special, incidental, consequential, or other damages.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/26",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 54.36902618408203,
+                "t": 286.38623046875,
+                "r": 229.1959228515625,
+                "b": 249.28326416015625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                36
+              ]
+            },
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 53.77724075317383,
+                "t": 231.61947631835938,
+                "r": 94.10810852050781,
+                "b": 216.73524475097656,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                37,
+                41
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/27",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 53.97450256347656,
+                "t": 203.7339630126953,
+                "r": 226.34458923339844,
+                "b": 162.34507751464844,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                33
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/28",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 54.378990173339844,
+                "t": 572.3441772460938,
+                "r": 249.76051330566406,
+                "b": 554.5308227539062,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                96
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/29",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 54.378990173339844,
+                "t": 543.4840698242188,
+                "r": 310.68475341796875,
+                "b": 535.6494140625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                78
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/30",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 54.32319641113281,
+                "t": 524.546875,
+                "r": 248.62872314453125,
+                "b": 516.87158203125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                58
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/31",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 54.07611846923828,
+                "t": 505.61767578125,
+                "r": 326.114990234375,
+                "b": 487.79632568359375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                174
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/32",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 54.32318878173828,
+                "t": 476.69384765625,
+                "r": 167.57177734375,
+                "b": 469.0185241699219,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                35
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/33",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 54.16378402709961,
+                "t": 457.75665283203125,
+                "r": 372.6610107421875,
+                "b": 370.2039489746094,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                798
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/34",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 54.020320892333984,
+                "t": 359.1572570800781,
+                "r": 376.877197265625,
+                "b": 281.5274963378906,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                769
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Third Edition"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "For general information on our other products and services or for technical support, please contact our Customer Care Department within the United States at (800) 762-2974, outside the United States at (317) 572-3993 or fax (317) 572-4002.\nWiley publishes in a variety of print and electronic formats and by print-on-demand. Some material included with standard print versions of this book may not be included in e-books or in print-on-demand. If this book refers to media such as a CD or DVD that is not included in the version you purchased, you may download this material at http://booksupport.wiley.com. For more information about Wiley products, visit www.wiley.com.\nISBN 978-1-118-39013-9 (Hardcover); ISBN 978-1-118-42191-8 (ebk); ISBN 978-1-118-61159-3 (ebk); ISBN 978-1-118-41758-4 (ebk)\nPrinted in the United States of America 10 9 8 7 6 5 4 3 2 1\nTo all the the portfolio managers, analysts, traders, and even competitors in the financial community who have been so generous in sharing their thoughts, their concerns, and their enthusiasm with the authors over the years.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/35",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 54.307254791259766,
+                "t": 270.4808044433594,
+                "r": 373.3782958984375,
+                "b": 243.5335693359375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                239
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/36",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 53.94859313964844,
+                "t": 231.58627319335938,
+                "r": 376.72576904296875,
+                "b": 183.98028564453125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                431
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/37",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 54.29928207397461,
+                "t": 171.82571411132812,
+                "r": 283.95263671875,
+                "b": 154.857177734375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                124
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/38",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 54.315223693847656,
+                "t": 141.9454345703125,
+                "r": 177.79754638671875,
+                "b": 125.73406219482422,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                60
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/39",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 104.45072937011719,
+                "t": 498.88037109375,
+                "r": 325.939453125,
+                "b": 431.83343505859375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                224
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Third Edition"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Preface to the 2013 Edition, 1 = ix. Acknowledgments, 1 = xi. PART I: DURATION TARGETING: A NEW LOOK AT BOND PORTFOLIOS (2013 EDITION), 1 = 1. Introduction, 1 = 3. CHAPTER 1, 1 = . Duration Targeting and the Trendline Model, 1 = 9. CHAPTER 2, 1 = . Volatility and Tracking Error, 1 = 35. CHAPTER 3, 1 = . Historical Convergence to Yield, 1 = 51. CHAPTER 4, 1 = . Barclays Index and Convergence to Yield, 1 = 63. CHAPTER 5, 1 = . Laddered Portfolio Convergence to Yield, 1 = 81. Appendix: Path Return and Volatility, 1 = 95. References, 1 = 105. PART II: SOME TOPICS THAT DIDN \u2019 T MAKE IT INTO THE 1972 EDITION (2004 EDITION), 1 = 107. Contents of the 2004 Edition, 1 = 109. Foreword by Henry Kaufman, 1 = 111\nPreface to the 2004 Edition: A Historical Perspective 113, 1 = . Technical Appendix to  \u201c Some Topics \u201d, 1 = 157. PART III: INSIDE THE YIELD BOOK (ORIGINAL EDITION), 1 = 171. Preface to the 1972 Edition, 1 = 173. Contents of the 1972 Edition, 1 = 175. List of Tables, 1 = 179. About the Authors, 1 = 349. Index, 1 = 353",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/tables/0",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "document_index",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 52.73638153076172,
+                "t": 464.82855224609375,
+                "r": 377.4066467285156,
+                "b": 81.5701904296875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/tables/1",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "document_index",
+          "prov": [
+            {
+              "page_no": 10,
+              "bbox": {
+                "l": 52.65083312988281,
+                "t": 588.0038681030273,
+                "r": 377.692138671875,
+                "b": 378.9853515625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Contents"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "The earlier editions of Inside the Yield Book which represent Parts II and III of this edition focused on a single bond that was continuously held either to maturity or to some specified horizon. The bond was analyzed in terms of the impact of various coupon reinvestment rates and the effect of capital gains or losses associated with horizon yield changes.\nIn contrast to the single-bond model, most actual bond investments take the form of portfolios composed of multiple bond holdings and a continually changing bond composition. The return/risk character of bond portfolios generally differs markedly from the return pattern associated with a continuously held single bond.\nBoth institutional and individual bond portfolios generally involve some active rebalancing process that maintains certain key characteristics. The sensitivity to yield movements, as measured by the portfolio ' s duration, is one of the most critical of these characteristics. Duration stability can be achieved either explicitly by specifying a duration target, or implicitly by tracking a stable-duration bond index or by preserving some prescribed maturity structure.\nInstitutional duration targeting (DT) typically entails the sale of aging bonds with shortened terms to fund the purchase of longer-term bonds. In contrast, individual investors who maintain ladderlike portfolios may rebalance using new cash inflows, coupon payments, and/or the proceeds from maturing bonds.\nThe new material included in Part I of this edition of Inside the Yield Book is devoted to an analysis of the often surprising return behavior exhibited by these DT portfolios over multiyear horizons.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/45",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 11,
+              "bbox": {
+                "l": 54.10501480102539,
+                "t": 434.8006591796875,
+                "r": 378.1078796386719,
+                "b": 372.2028503417969,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                358
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/46",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 11,
+              "bbox": {
+                "l": 54.33515167236328,
+                "t": 369.9891357421875,
+                "r": 377.0230407714844,
+                "b": 307.45709228515625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                319
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/47",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 11,
+              "bbox": {
+                "l": 54.33515167236328,
+                "t": 305.2433776855469,
+                "r": 376.9572448730469,
+                "b": 219.42343139648438,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                470
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/48",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 11,
+              "bbox": {
+                "l": 54.357086181640625,
+                "t": 214.5904998779297,
+                "r": 377.0120544433594,
+                "b": 152.003662109375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                308
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/49",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 11,
+              "bbox": {
+                "l": 54.22557830810547,
+                "t": 149.86663818359375,
+                "r": 377.877685546875,
+                "b": 113.29645538330078,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                200
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Preface to the 2013 Edition"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "The authors would like to first acknowledge the seminal role of our late colleague Terry Langetieg, who was the lead author of the 1990 Financial Analysts Journal paper that first raised the issue of Duration Targeting as the most common form of bond management and provided some initial insights into the very distinctive return characteristics of such funds.\nWe would also like to express our gratitude to the firm of Morgan Stanley for their support and encouragement of much of the research that formed the basis for this study of Duration-Targeting funds.\nAnd we would be remiss not to acknowledge the role of Wiley ' s \" master editor \" Bill Falloon, who played a key role in bringing our past three Wiley books to fruition and who first broached the idea that the time was ripe for a truly new edition of Inside the Yield Book .",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/52",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 13,
+              "bbox": {
+                "l": 53.392677307128906,
+                "t": 463.6466979980469,
+                "r": 377.89959716796875,
+                "b": 401.26806640625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                360
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/53",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 13,
+              "bbox": {
+                "l": 54.324195861816406,
+                "t": 398.90093994140625,
+                "r": 376.8038024902344,
+                "b": 362.2211608886719,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                199
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/54",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 13,
+              "bbox": {
+                "l": 54.35706329345703,
+                "t": 360.0732116699219,
+                "r": 377.05584716796875,
+                "b": 310.62615966796875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                274
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Acknowledgments"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "The standard approach to the analysis of prospective returns and risks of any portfolio combines some estimate of expected returns with a measure of interim volatility. For bonds, volatility is approximated by the product of the yield volatility and the duration. The yield move (and corresponding return) in any one period usually is presumed to be statistically independent of previous yield moves.\nAt first, the standard return/risk approach appears to provide a reasonable basis for projecting multiperiod returns and risks. However, with duration-targeted (DT) portfolios, where the same duration is maintained over time, returns converge back toward the initial yield, so the multiyear volatility turns out to be far less than that suggested by the initial duration. Perhaps surprisingly, this convergence and volatility reduction holds regardless of whether yields have high volatility or exhibit a steady rising or falling trend over the investment horizon.\nThis theoretical \" gravitational pull \" toward the initial yield was examined in terms of the actual returns of the Barclays index as well as to the returns of a hypothetical 10-year laddered portfolio. Both portfolios have durations in the five-year range. Our theoretical model of DT suggests that annualized returns for five-year duration portfolios should approach the initial yield in six to nine years. A historical analysis covering the period from 1977 to 2011 showed that such convergence does indeed occur.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/59",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 17,
+              "bbox": {
+                "l": 54.02830123901367,
+                "t": 464.8937072753906,
+                "r": 378.1298522949219,
+                "b": 389.5067443847656,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                400
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/60",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 17,
+              "bbox": {
+                "l": 53.99542236328125,
+                "t": 387.1724853515625,
+                "r": 376.858642578125,
+                "b": 285.75787353515625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                564
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/61",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 17,
+              "bbox": {
+                "l": 54.33516311645508,
+                "t": 283.60992431640625,
+                "r": 378.0531921386719,
+                "b": 195.115966796875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                516
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Introduction"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "The DT rebalancing process will result in capital gains or losses, depending on whether yields have fallen or risen during the time between rebalancing. After rebalancing, the bond portfolio will reflect current market yields and will be positioned to capture the new prevailing yields as going-forward accruals. Such accruals always act in the opposite direction of price changes and, at least partially, offset duration-based price effects.\nThe importance of accruals is largely underappreciated because portfolio risk and return are usually analyzed in the context of relatively short holding periods. Accruals become significant over longer holding periods when accruals can build and ultimately dominate price effects.\nIn order to see how accruals and price effects interact, we start with simple trendline paths to terminal yields. Later we consider more general non-trendline paths.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/63",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 17,
+              "bbox": {
+                "l": 53.73240661621094,
+                "t": 148.0936737060547,
+                "r": 376.97918701171875,
+                "b": 72.70672607421875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                442
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/67",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 18,
+              "bbox": {
+                "l": 54.23355484008789,
+                "t": 574.481201171875,
+                "r": 376.9761657714844,
+                "b": 525.0012817382812,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                280
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/68",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 18,
+              "bbox": {
+                "l": 54.332183837890625,
+                "t": 522.6670532226562,
+                "r": 376.6583557128906,
+                "b": 486.1078186035156,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                165
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Accrual Offsets of Price Effects"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "At the outset, we assume a multiyear investment horizon and a corresponding hypothetical terminal yield distribution.\nFrom the myriad of paths to any terminal yield, we initially focus on a simple trendline (TL) along which yields change by the same amount each year. The simplicity of this idealized TL model enables us to derive a compact formula for the DT returns of zero coupon bonds. This TL return depends only on the initial yield, the duration target, the horizon, and the terminal yield. Because there is only one TL path to each terminal yield, there is a oneto-one correspondence between terminal yields and TL returns.\nThe TL model returns are based on a linear pricing model that is reasonably accurate for moderate yield changes. Because all DT rebalancing transactions involve the same duration and the same yield change, the annual price effects are always equal. In contrast to the constant pace of TL price changes, the importance of annual accruals accelerates over time. For example, the first-year accrual is equal to the initial yield, the second-year accrual is the initial yield plus the first-year yield change, the third-year accrual is the second-year accrual plus the second-year yield change, and so on. These accruals accumulate at rate that is roughly proportional to the square of the investment horizon.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/70",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 18,
+              "bbox": {
+                "l": 53.73240661621094,
+                "t": 432.0116882324219,
+                "r": 376.9791259765625,
+                "b": 408.4388732910156,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                117
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/71",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 18,
+              "bbox": {
+                "l": 54.02830123901367,
+                "t": 406.1046142578125,
+                "r": 376.9352722167969,
+                "b": 317.7969970703125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                513
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/72",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 18,
+              "bbox": {
+                "l": 54.23652267456055,
+                "t": 315.46270751953125,
+                "r": 376.9901428222656,
+                "b": 190.9027099609375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                705
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Trendline Model"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Because accruals along TL paths grow (or decline) at a faster rate than price changes, there is an effective maturity point at which the cumulative accruals will fully offset the cumulative price losses (or gains). This effective maturity turns out to be approximately twice the targeted duration.\nIf the investment horizon is less than the effective maturity, the total price effect will be greater than the total accrual effect. At the effective\nmaturity, the net price/accrual effect will be zero. Consequently, the annualized return to the effective maturity will equal the initial yield for every TL path, regardless of whether the terminal yield is higher or lower than the initial yield. This \" gravitational pull \" forces all such TL returns back to the initial yield level.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/74",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 18,
+              "bbox": {
+                "l": 53.962547302246094,
+                "t": 134.14767456054688,
+                "r": 377.07781982421875,
+                "b": 84.54725646972656,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                297
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/75",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 18,
+              "bbox": {
+                "l": 54.23652267456055,
+                "t": 82.33353424072266,
+                "r": 376.6723327636719,
+                "b": 58.640174865722656,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                149
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/78",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 19,
+              "bbox": {
+                "l": 54.23652267456055,
+                "t": 574.481201171875,
+                "r": 376.7489929199219,
+                "b": 512.113525390625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                334
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "The Effective Maturity"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "We now turn to the case where a terminal probability distribution is specified. One simple example is scenario analysis in which estimates/forecasts of future yields are projected based on a range of expectations. Each yield forecast may be assigned a distinct probability weight and the weighted average of future yields can be viewed as the expected yield. Each projected yield can then be paired with a corresponding TL return and an expected return can be computed using the same weights as for the yield projections.\nMore generally, the standard deviation of TL returns can also be found by applying the TL return formula to the standard deviation of the terminal yields. As the horizon approaches the effective maturity, the expected TL return will converge on the starting yield\u2014no matter how much the expected terminal yield may differ from the starting yield. The standard deviation of TL returns will then also compress down to zero, no matter how wide the standard deviation of terminal yields.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/80",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 19,
+              "bbox": {
+                "l": 53.94062805175781,
+                "t": 457.9208068847656,
+                "r": 378.1079406738281,
+                "b": 369.4159240722656,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                521
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/81",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 19,
+              "bbox": {
+                "l": 54.02830123901367,
+                "t": 367.2679748535156,
+                "r": 378.1407775878906,
+                "b": 278.99322509765625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                483
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Terminal Yield Distributions"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "The DT model can be extended beyond TL paths to the full range of pathways generated by random walks. As an example, consider a jump path where yields immediately move to a high yield level and then remain there throughout the investment period. The total price change along the jump path (and along any other non-TL path) will be the same as for the TL because the price effect depends only on the beginning and ending yields, not on the path between those yields. In contrast, accruals beyond the first year are highly path dependent and may differ significantly from the TL accrual. In the case of the jump path, all accruals beyond the first year will be at the higher yield and will therefore exceed the TL accrual.\nAmong the infinitely many other paths to the terminal yield, one path will be a mirror image of the jump path with each yield gap relative to the TL having the same magnitude but with the opposite sign. Thus, the yield\naccruals for the jump path and its mirror will offset each other, so that the average accrual for the mirror pair will be the same as the TL accrual. Because the price effects are the same for all paths to a given terminal yield, the average of the annualized returns for the mirror pair will just equal the TL return.\nThis concept of mirror image pairs turns out to have broad generality because we can almost always find a mirror image for any non-TL path. Because the annualized return for each pair equals the annualized TL return, the average of the annualized returns across all non-TL paths will equal the TL return, provided each mirror has a symmetric probability of occurrence.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/83",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 19,
+              "bbox": {
+                "l": 53.962547302246094,
+                "t": 224.7996826171875,
+                "r": 378.12982177734375,
+                "b": 97.47804260253906,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                720
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/84",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 19,
+              "bbox": {
+                "l": 53.962547302246094,
+                "t": 95.3191146850586,
+                "r": 376.77093505859375,
+                "b": 58.63934326171875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                218
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/87",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 20,
+              "bbox": {
+                "l": 54.378990173339844,
+                "t": 574.481201171875,
+                "r": 376.6065368652344,
+                "b": 524.8807373046875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                318
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/88",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 20,
+              "bbox": {
+                "l": 54.10501480102539,
+                "t": 522.6670532226562,
+                "r": 376.9681396484375,
+                "b": 460.2664794921875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                368
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Non-Trendline Paths"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "The average return from the full array of paths to a given terminal yield will just match the TL return. However, each path will have a unique return based on the accruals along its specific yield pathway. This resulting dispersion of returns leads to tracking errors around the TL return. In the Appendix, a formula for this tracking error is developed. By combining the tracking error with the standard deviation of TL returns, a total volatility can be found.\nThis total volatility incorporates the spread of all pathway returns relative to the expected TL return. For short horizons, this total volatility can be quite large, but it declines to a minimal level for horizons approaching the effective maturity. For example, with a five-year duration and a 100 bps yield change volatility, the total DT volatility declines to about 90 bps over a window of six to nine years. Within this minimal volatility window, returns are projected to be with \u00b1 90 bps of the starting yields.\nThese theoretical projections are consistent with historical results using 1977 to 2011 Treasury par bonds and, as indicated earlier, actual Barclays index returns.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/90",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 20,
+              "bbox": {
+                "l": 53.73240661621094,
+                "t": 406.10369873046875,
+                "r": 377.0339050292969,
+                "b": 320.3605041503906,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                462
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/91",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 20,
+              "bbox": {
+                "l": 53.962547302246094,
+                "t": 315.4618225097656,
+                "r": 376.9462890625,
+                "b": 226.96788024902344,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                518
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/92",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 20,
+              "bbox": {
+                "l": 54.368019104003906,
+                "t": 224.81988525390625,
+                "r": 376.99005126953125,
+                "b": 190.8250732421875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                164
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Tracking Error and Total Volatility"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "1. For any given yield move, the TL path return will converge back toward the starting yield.\n2. Once the horizon reaches an effective maturity that is approximately twice the DT duration, the TL path return will coincide with starting yield (e.g., a five-year duration DT has a nine-year effective maturity).",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/94",
+          "parent": {
+            "cref": "#/groups/1"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 20,
+              "bbox": {
+                "l": 65.4933853149414,
+                "t": 133.0706787109375,
+                "r": 376.8057861328125,
+                "b": 109.31157684326172,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                93
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/95",
+          "parent": {
+            "cref": "#/groups/1"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 20,
+              "bbox": {
+                "l": 64.51803588867188,
+                "t": 107.15265655517578,
+                "r": 377.06878662109375,
+                "b": 70.47288513183594,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                215
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Key Findings"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "3. For any horizon yield distribution, the TL return to any yield point is a good ex ante estimate of the expected return across all TL paths to that point. The standard deviation of the TL returns can be determined in a similar fashion.\n4. As the horizon approaches the effective maturity, the expected TL return will converge to the starting yield and the standard deviation of TL returns will converge to zero.\n5. Non-TL paths to a given terminal yield will have a return that differs from the TL path return. However, each such non-TL can be paired with a mirror image non-TL path, so that the average of the paired returns is the same as the TL path return. By extension, the average return from a full array of non-TL paths to a given terminal yield will have the same return as the average return across all TL paths.\n6. The array of non-TL paths surrounding each TL path leads to a dispersion of returns surrounding each TL path return. The total volatility measure incorporates both the volatility of the TL returns and the dispersion derived from the non-TL paths. The total volatility may be large at first, but then decreases and remains relatively flat for several years prior to the effective maturity. For example, with a 100 bp random walk volatility and a five-year DT, the tracking stabilizes at around 90 bp for horizons between six and nine years. A similar stabilization is also observed for the Barclays index and for constant maturity Treasuries.\n7. Within this theoretical stability window, the starting yield, plus or minus the tracking error, can serve as a good ex ante estimate of returns across the full array of random paths.\n8. Thus, within the stability window, the DT process can be viewed as providing a form of \" statistical immunization. \"\n9. More generally, the DT process implies that the impact of a subsequent rise or fall in yields will be relatively quickly eroded as returns converge back toward the starting yield.\n10. On one hand, the DT process can be viewed as creating a statistical yield trap because an investor who is not satisfied with the current level of yields cannot count on subsequent higher (or lower) yields to provide any significant improvement in multiyear returns.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/98",
+          "parent": {
+            "cref": "#/groups/2"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 21,
+              "bbox": {
+                "l": 64.68241882324219,
+                "t": 574.9915161132812,
+                "r": 376.9920654296875,
+                "b": 528.1746826171875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                237
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/99",
+          "parent": {
+            "cref": "#/groups/2"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 21,
+              "bbox": {
+                "l": 64.45227813720703,
+                "t": 523.1663818359375,
+                "r": 378.10986328125,
+                "b": 486.48663330078125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                175
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/100",
+          "parent": {
+            "cref": "#/groups/2"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 21,
+              "bbox": {
+                "l": 64.89064025878906,
+                "t": 484.33868408203125,
+                "r": 376.98114013671875,
+                "b": 408.8311767578125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                410
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/101",
+          "parent": {
+            "cref": "#/groups/2"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 21,
+              "bbox": {
+                "l": 64.67146301269531,
+                "t": 406.6174621582031,
+                "r": 377.07977294921875,
+                "b": 279.5039978027344,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                644
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/102",
+          "parent": {
+            "cref": "#/groups/2"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 21,
+              "bbox": {
+                "l": 64.55091094970703,
+                "t": 277.1368408203125,
+                "r": 376.860595703125,
+                "b": 240.566650390625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                185
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/103",
+          "parent": {
+            "cref": "#/groups/2"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 21,
+              "bbox": {
+                "l": 64.87969207763672,
+                "t": 238.23240661621094,
+                "r": 376.4441223144531,
+                "b": 214.53903198242188,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                119
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/104",
+          "parent": {
+            "cref": "#/groups/2"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 21,
+              "bbox": {
+                "l": 64.74819946289062,
+                "t": 212.32530212402344,
+                "r": 376.8167724609375,
+                "b": 175.6455078125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                182
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/105",
+          "parent": {
+            "cref": "#/groups/2"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 21,
+              "bbox": {
+                "l": 60.046783447265625,
+                "t": 173.49754333496094,
+                "r": 376.6632995605469,
+                "b": 123.8861083984375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                269
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Key Findings"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "11. On the other hand, an investor who is comfortable with the current level of yields need not fear that adverse yield moves are likely to generate multiyear returns that permanently fall much below the starting yield.\n12. The only way to escape from this yield trap is to depart from the existing DT target and to materially shorten or lengthen the duration.\n13. Within an asset allocation framework, volatility estimates are typically based on an instantaneous or a short-term horizon. Such estimates can lead to a serious overstatement of the multiyear risk of DT bond funds relative to other asset classes.\n14. When the preceding theoretical results were tested against the 1977 to 2011 historical Barclays index returns, annualized six-year returns were found to match the starting yields.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/106",
+          "parent": {
+            "cref": "#/groups/2"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 21,
+              "bbox": {
+                "l": 60.046783447265625,
+                "t": 121.6723861694336,
+                "r": 376.761962890625,
+                "b": 72.07192993164062,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                219
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/109",
+          "parent": {
+            "cref": "#/groups/3"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 22,
+              "bbox": {
+                "l": 60.050785064697266,
+                "t": 574.9915161132812,
+                "r": 376.6234436035156,
+                "b": 551.2981567382812,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                140
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/110",
+          "parent": {
+            "cref": "#/groups/3"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 22,
+              "bbox": {
+                "l": 60.050785064697266,
+                "t": 549.08447265625,
+                "r": 377.0728454589844,
+                "b": 502.24566650390625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                250
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/111",
+          "parent": {
+            "cref": "#/groups/3"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 22,
+              "bbox": {
+                "l": 60.050785064697266,
+                "t": 497.25933837890625,
+                "r": 376.6015625,
+                "b": 460.5795593261719,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                183
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Key Findings"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Most bond portfolios can be broadly classified as (1) buy and hold, (2) immunized, or (3) duration targeted (DT).\nBuy and hold strategies are typically aimed at securing returns that closely match the initial yield value. In this case, they can be viewed as primarily having absolute return objectives.\nImmunization strategies are intended to generate returns that match liabilities as rates shift, coupons reinvest, time passes, and the liability duration evolves. In essence, immunization also acts as an ultimate absolute return strategy in that it tries to immunize the initially promised return against changes in the structure of interest rates.\nThe very nature of both buy and hold and immunization leads to durations that decrease over time. In contrast, duration-targeted portfolios deliberately maintain a relatively stable duration.\nApart from liability-driven immunizations, some form of the stable DT approach is characteristic of virtually all actively and passively managed institutional portfolios. Institutions typically develop a policy portfolio based on a set of assumed return/risk parameters for relevant asset classes. In this process, the risk level assumed for the bond component is basically equivalent to specifying a given duration. Once selected, the policy portfolio serves as a baseline in the face of market movements, with the portfolio being periodically rebalanced back toward the policy structure. For the high-grade bond component of the fund, this common rebalancing process tends to maintain a stable duration and hence is essentially tantamount to duration targeting.\nDuration targeting can also be viewed as providing relative returns versus a specific benchmark. In some cases, a fund ' s mandate may be to match an index ' s returns as closely as possible. In more active strategies, the portfolio ' s incremental performance will be gauged relative to some bond index such as the Barclays U.S. Government/Credit index. Such a bond index will have a specific duration value that is fairly stable and only changes gradually over time.\nThus, both active bond management and bond indexing can be viewed as implicitly employing a strategy that approximates duration targeting.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/115",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 23,
+              "bbox": {
+                "l": 54.2693977355957,
+                "t": 368.7427062988281,
+                "r": 375.970947265625,
+                "b": 345.0493469238281,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                113
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/116",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 23,
+              "bbox": {
+                "l": 54.34611129760742,
+                "t": 342.83563232421875,
+                "r": 376.8148193359375,
+                "b": 306.22161865234375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                188
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/117",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 23,
+              "bbox": {
+                "l": 54.24748229980469,
+                "t": 304.0079040527344,
+                "r": 377.07769775390625,
+                "b": 241.42103576660156,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                348
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/118",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 23,
+              "bbox": {
+                "l": 54.411865234375,
+                "t": 239.2730712890625,
+                "r": 376.45306396484375,
+                "b": 202.801513671875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                191
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/119",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 23,
+              "bbox": {
+                "l": 54.23652267456055,
+                "t": 200.36862182617188,
+                "r": 376.9572448730469,
+                "b": 73.03598022460938,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                763
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/123",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 24,
+              "bbox": {
+                "l": 54.34315490722656,
+                "t": 574.481201171875,
+                "r": 376.9871826171875,
+                "b": 488.7818298339844,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                468
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/124",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 24,
+              "bbox": {
+                "l": 54.41986846923828,
+                "t": 483.8393249511719,
+                "r": 376.75701904296875,
+                "b": 460.1349792480469,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                138
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Duration Targeting"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "To maintain the required duration, DT portfolios utilize periodic rebalancing. If yields rise, the rebalancing transaction will result in a price loss. But, going forward, the new higher yield implies a higher accrual that partially offsets the price loss. Conversely, if yields fall, lower accruals tend to offset price gains. Over time, the accumulated accruals will tend to offset the duration-based price effects.\nOur key finding is that DT bond returns tend to converge toward the initial yield over time. This convergence to yield is independent of the future path of interest rates. Over a sufficiently long holding period, the initial yield turns out to be a surprisingly accurate predictor of annualized returns, regardless of whether rates rise or fall.\nFor clarity of exposition, this chapter makes a number of simplifying assumptions: zero-coupon bonds, no compounding, zero transaction costs, and duration values that both age with time and can be used as linear measures of price sensitivity. For modest horizons and reasonable yield changes, both compounding and convexity effects are relatively minimal. For large yield changes and longer time periods, compounding and convexity effects should ideally be taken into account.\nA section in the Appendix presents a more comprehensive analysis of how duration-based measures actually relate to a bond ' s convex price sensitivity.\nTo illustrate the DT process, we begin with a plot of five-year constant maturity yield paths for three five-year periods. Exhibit 1.1 includes two paths, from 1999 to 2004 and 2005 to 2010, that exhibit falling rates and one path from 1978 to 1983 that exhibits rising rates.\nTo show how DT works, in Exhibit 1.2 we focus on the 1978 \u2013 1983 path and assume an initial five-year zero coupon bond investment at the 9.32 percent yield that prevailed in 1978. By 1979, yields had risen by 106 basis points (we assume a flat yield curve) to 10.38 percent and the bond ' s duration has shortened to four years.\nEXHIBIT 1.1 Three historical rate paths\nSource: Morgan Stanley Research.\n",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/125",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 24,
+              "bbox": {
+                "l": 54.24452590942383,
+                "t": 457.9212951660156,
+                "r": 376.811767578125,
+                "b": 382.5343017578125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                417
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/126",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 24,
+              "bbox": {
+                "l": 54.24452590942383,
+                "t": 380.2000427246094,
+                "r": 376.7241516113281,
+                "b": 317.6789245605469,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                345
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/127",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 24,
+              "bbox": {
+                "l": 54.25548553466797,
+                "t": 315.4652099609375,
+                "r": 376.9542236328125,
+                "b": 239.94674682617188,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                430
+              ]
+            },
+            {
+              "page_no": 24,
+              "bbox": {
+                "l": 54.41986846923828,
+                "t": 237.73301696777344,
+                "r": 241.25987243652344,
+                "b": 227.17950439453125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                431,
+                476
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/128",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 24,
+              "bbox": {
+                "l": 54.23356628417969,
+                "t": 224.8123321533203,
+                "r": 378.1488037109375,
+                "b": 201.23956298828125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                138
+              ]
+            },
+            {
+              "page_no": 24,
+              "bbox": {
+                "l": 54.34315490722656,
+                "t": 197.90798950195312,
+                "r": 97.93805694580078,
+                "b": 188.35174560546875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                139,
+                151
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/129",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 24,
+              "bbox": {
+                "l": 54.24452590942383,
+                "t": 185.97364807128906,
+                "r": 376.811767578125,
+                "b": 136.30743408203125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                276
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/130",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 24,
+              "bbox": {
+                "l": 54.244544982910156,
+                "t": 133.1293182373047,
+                "r": 376.61456298828125,
+                "b": 70.7615966796875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                328
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/133",
+          "parent": {
+            "cref": "#/pictures/2"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 25,
+              "bbox": {
+                "l": 54.538394927978516,
+                "t": 574.587158203125,
+                "r": 199.6839599609375,
+                "b": 565.8719482421875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                39
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/149",
+          "parent": {
+            "cref": "#/groups/4"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 25,
+              "bbox": {
+                "l": 54.291316986083984,
+                "t": 329.7557067871094,
+                "r": 157.32211303710938,
+                "b": 321.9209899902344,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/150",
+          "parent": {
+            "cref": "#/tables/2"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 25,
+              "bbox": {
+                "l": 54.481693267822266,
+                "t": 278.1969299316406,
+                "r": 225.476806640625,
+                "b": 269.4816589355469,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                44
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Duration Targeting"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "EXHIBIT 1.2 Historical example of DT returns\n12/31/1978 9.32, A B CD  Year-End = \u2013\u2013. 12/31/1978 9.32, =  \u2212C \u00d7 BE  = A + D Yield (%) Final Price Total Date Yield (%) Accrual (%) Change Duration Return (%) Return (%) = . 12/31/1979 10.38 9.32 1.06 4.00, A B CD  Year-End = . 12/31/1979 10.38 9.32 1.06 4.00, =  \u2212C \u00d7 BE  = A + D Yield (%) Final Price Total Date Yield (%) Accrual (%) Change Duration Return (%) Return (%) = \u22124.24 5.08. 12/31/1980 12.59 10.38 2.21 4.00, A B CD  Year-End = . 12/31/1980 12.59 10.38 2.21 4.00, =  \u2212C \u00d7 BE  = A + D Yield (%) Final Price Total Date Yield (%) Accrual (%) Change Duration Return (%) Return (%) = \u22128.84 1.54. 12/31/1981 13.97 12.59 1.38 4.00, A B CD  Year-End = . 12/31/1981 13.97 12.59 1.38 4.00, =  \u2212C \u00d7 BE  = A + D Yield (%) Final Price Total Date Yield (%) Accrual (%) Change Duration Return (%) Return (%) = \u22125.52 7.07. 12/31/1982 10.09 13.97, A B CD  Year-End = . 12/31/1982 10.09 13.97, =  \u2212C \u00d7 BE  = A + D Yield (%) Final Price Total Date Yield (%) Accrual (%) Change Duration Return (%) Return (%) = \u22123.88 4.00 15.52 29.49. 12/31/1983 11.57 10.09 1.48 4.00, A B CD  Year-End = . 12/31/1983 11.57 10.09 1.48 4.00, =  \u2212C \u00d7 BE  = A + D Yield (%) Final Price Total Date Yield (%) Accrual (%) Change Duration Return (%) Return (%) =",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/tables/2",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [
+            {
+              "cref": "#/texts/150"
+            }
+          ],
+          "content_layer": "body",
+          "meta": null,
+          "label": "table",
+          "prov": [
+            {
+              "page_no": 25,
+              "bbox": {
+                "l": 52.91864776611328,
+                "t": 266.5779113769531,
+                "r": 377.8531188964844,
+                "b": 86.5050048828125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Duration Targeting"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": " \u22125.92 4.17. Total, A B CD  Year-End = 56.35 2.25. Total, =  \u2212C \u00d7 BE  = A + D Yield (%) Final Price Total Date Yield (%) Accrual (%) Change Duration Return (%) Return (%) = \u22129.00 47.35. Average, A B CD  Year-End = 11.27 0.45 4.00. Average, =  \u2212C \u00d7 BE  = A + D Yield (%) Final Price Total Date Yield (%) Accrual (%) Change Duration Return (%) Return (%) = \u2212 1.80 9.47\nSource: Morgan Stanley Research.\nTo maintain a five-year duration target, we rebalance by first selling the four-year bond and then using the sale proceeds to buy a new five-year bond at the new 10.38 percent yield. This bond sale results in a price loss that is approximately the negative of the duration times the yield change. That is, the price loss of \u2212 4.24 percent is \u2212 4 \u00d7 106 bp.\nOver the course of the first year, interest accrues at the 9.32 percent purchase yield. The total return of 5.08 percent is the sum of the 9.32 percent accrual and the \u2212 4.24 percent price return.\nAt the end of 1980 (and all subsequent years), the same rebalancing process is repeated. Over five years, yields rise by a total of 2.25 percent to an ending yield of 11.57 percent. This total yield rise results in a cumulative price loss of \u2212 9.00 percent (= \u2212 4 \u00d7 2.25 percent), or \u2212 1.80 percent per year.\nThe total accrual depends on the timing of the individual yield increases, with earlier moves tending to have a greater cumulative impact over time. In this example, the total accrual is 56.35 percent, an annualized 11.27 percent per year. In comparison to the initial 9.32 percent yield, accruals provide an incremental 1.95 percent per year. This 1.95 percent excess accrual largely offsets the annualized \u2212 1.80 percent price loss, so that the excess return is only 0.2 percent over the initial 9.3 percent yield.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/tables/2",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [
+            {
+              "cref": "#/texts/150"
+            }
+          ],
+          "content_layer": "body",
+          "meta": null,
+          "label": "table",
+          "prov": [
+            {
+              "page_no": 25,
+              "bbox": {
+                "l": 52.91864776611328,
+                "t": 266.5779113769531,
+                "r": 377.8531188964844,
+                "b": 86.5050048828125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/151",
+          "parent": {
+            "cref": "#/groups/5"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 25,
+              "bbox": {
+                "l": 54.234615325927734,
+                "t": 81.72379302978516,
+                "r": 157.32916259765625,
+                "b": 73.88908386230469,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/154",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 26,
+              "bbox": {
+                "l": 54.32122802734375,
+                "t": 574.481201171875,
+                "r": 376.7350769042969,
+                "b": 512.014892578125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                355
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/155",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 26,
+              "bbox": {
+                "l": 54.21162796020508,
+                "t": 509.74639892578125,
+                "r": 376.74603271484375,
+                "b": 473.1871643066406,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                196
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/156",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 26,
+              "bbox": {
+                "l": 54.21162414550781,
+                "t": 470.9076843261719,
+                "r": 376.8227233886719,
+                "b": 408.44140625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                308
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/157",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 26,
+              "bbox": {
+                "l": 53.93764877319336,
+                "t": 406.10711669921875,
+                "r": 377.02001953125,
+                "b": 317.7994689941406,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                516
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Duration Targeting"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "The preceding results are summarized in Exhibit 1.3. The excess returns in Exhibit 1.3 also show that similar offsets are obtained for the 1999 \u2013 2004 path with its declining yields. There may, of course, be some paths that have excess returns that differ significantly from zero. For example, in the 2005\u2013 2010 period, the incremental accruals dominated the price effects, so that the annualized 5.2 percent return exceeded the initial 4.4 percent yield by a more significant 0.8 percent.\nEXHIBIT 1.3 Historical examples of DT return convergence\n\n1978 \u2013 1983, Initial Yield = . 1978 \u2013 1983, Total Yield Change = 9.3% 2.3%. 1978 \u2013 1983, Total Price Change = \u2212. 1978 \u2013 1983, Total Accrual = . 1978 \u2013 1983, Total Return = 9.0% 56.4% 47.4% 9.5% 0.2%. 1978 \u2013 1983, Annualized Return = . 1978 \u2013 1983, Excess Return = . 1999 \u2013 2004, Initial Yield = 6.4%. 1999 \u2013 2004, Total Yield Change = \u22122.7% 10.9% 21.8% 32.7% 6.5% 0.1%. 1999 \u2013 2004, Total Price Change = . 1999 \u2013 2004, Total Accrual = . 1999 \u2013 2004, Total Return = . 1999 \u2013 2004, Annualized Return = . 1999 \u2013 2004, Excess Return = . 2005 \u2013 2010, Initial Yield = 4.4%. 2005 \u2013 2010, Total Yield Change = \u22122.3% 9.4% 16.7% 26.1% 5.2% 0.8%. 2005 \u2013 2010, Total Price Change = . 2005 \u2013 2010, Total Accrual = . 2005 \u2013 2010, Total Return = . 2005 \u2013 2010, Annualized Return = . 2005 \u2013 2010, Excess Return = \nSource: Morgan Stanley Research.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/158",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 26,
+              "bbox": {
+                "l": 54.2006721496582,
+                "t": 315.4652099609375,
+                "r": 376.7240295410156,
+                "b": 226.9603271484375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                489
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/159",
+          "parent": {
+            "cref": "#/tables/3"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 26,
+              "bbox": {
+                "l": 54.481693267822266,
+                "t": 214.41690063476562,
+                "r": 270.335205078125,
+                "b": 205.60302734375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                56
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/tables/3",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [
+            {
+              "cref": "#/texts/159"
+            }
+          ],
+          "content_layer": "body",
+          "meta": null,
+          "label": "table",
+          "prov": [
+            {
+              "page_no": 26,
+              "bbox": {
+                "l": 52.91124725341797,
+                "t": 202.56008911132812,
+                "r": 377.8058166503906,
+                "b": 84.81829833984375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/160",
+          "parent": {
+            "cref": "#/groups/6"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 26,
+              "bbox": {
+                "l": 54.234615325927734,
+                "t": 80.70378875732422,
+                "r": 157.32916259765625,
+                "b": 72.86907958984375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                32
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Duration Targeting"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "This section examines the dynamics of DT in the context of a trendline (TL) model of interest rate changes. Along a TL path, yields move in equal increments until the terminal yield is reached. Although the TL represents only one of an unlimited number of paths to a given end point, the TL model turns out to provide readily generalizable results.\nThe generality of the TL model stems from the observation that any nontrendline path must have a mirror-image path relative to the TL. The average of the two returns for a pair of mirror-image paths to a given terminal yield can be shown to always equal the TL return. The trendline model will therefore represent the average return across virtually all paths to the given terminal yield. (The only exceptions to mirror imaging occur when negative returns are excluded from consideration.)\nFor a TL path and a zero-coupon bond with duration D, we define a trendline duration D TL that reflects the sensitivity of the annualized bond return to the total yield change over an N-year holding period. DTL depends only on D and N and represents the combined sensitivity of both accruals and price to yield changes. When DTL is zero, accrual gains precisely offset price losses and the average return converges to the initial yield.\nThis full convergence to yield will be shown to occur for a holding period N* that is one year less than twice the bond duration. We could view N* as an effective maturity corresponding to the targeted duration, D.\nDespite its simplicity, the TL model turns out to have fairly general applicability because it provides quite reasonable estimates of actual market convergence. We demonstrate these convergence properties through both simulation and analysis of historical data.\nIn our zero-coupon bond model of DT, we assume a D-year bond is purchased at time zero. At the end of the year, the bond is sold and the proceeds are invested in a new D-year bond. Price losses are estimated from the Macaulay duration, D, which is equal to the zero-coupon bond maturity.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/164",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 27,
+              "bbox": {
+                "l": 54.10501480102539,
+                "t": 547.6087646484375,
+                "r": 376.6942138671875,
+                "b": 485.02191162109375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                348
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/165",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 27,
+              "bbox": {
+                "l": 54.378990173339844,
+                "t": 482.8081970214844,
+                "r": 376.74896240234375,
+                "b": 395.5416564941406,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                489
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/166",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 27,
+              "bbox": {
+                "l": 54.232208251953125,
+                "t": 392.16632080078125,
+                "r": 376.9791259765625,
+                "b": 316.6463317871094,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                436
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/167",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 27,
+              "bbox": {
+                "l": 54.232208251953125,
+                "t": 314.4983825683594,
+                "r": 376.777587890625,
+                "b": 277.818603515625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                214
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/168",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 27,
+              "bbox": {
+                "l": 54.33083724975586,
+                "t": 275.6048889160156,
+                "r": 376.8214111328125,
+                "b": 226.22361755371094,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                261
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/169",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 27,
+              "bbox": {
+                "l": 54.232208251953125,
+                "t": 223.79071044921875,
+                "r": 376.6241760253906,
+                "b": 174.28890991210938,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                287
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Trendlines"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "To illustrate how DT bond sales and reinvestment impact returns, we begin with a D = five-year bond over the simple five-year trendline (TL) shown in Exhibit 1.4, with yields rising from 3 percent to a 5.5 percent at the rate of 50 basis points per year. At the end of the first year, yields have risen by 0.5 percent to 3.5 percent. At that time, the duration of the aged bond will be four years.\nTo maintain a five-year duration, we engage in a rebalancing transaction, as in the previous section. When selling the aged bond, the price loss is\nEXHIBIT 1.4 A five-year yield trendline\nSource: Morgan Stanley Research.\napproximately equal to the negative of the four-year duration times the yield change, \u2212 4 \u00d7 0.5 percent = \u2212 2 percent (see Appendix for derivation).\nExhibit 1.5 shows that the 1 percent total return for the first year is the sum of a 3 percent yield accrual, based on the initial yield, and the price loss of \u2212 2 percent.\nThe second part of the rebalancing transaction requires reinvesting in a new five-year bond with a 3.5 percent yield. The 3.5 percent yield then becomes the new accrual. In each subsequent year, yields increase by 0.5 percent so the price loss is the same \u2212 2 percent. The accruals over the subsequent year also increase by 0.5 percent. However, although the annual price loss remains the same, the annual accruals escalate each year with the rising yields. Thus, the annual rate of accruals increasingly comes to dominate the constant annual price effect.\nThe average accrual over the five years is 4 percent, 1 percent higher than the 3 percent initial yield. The average return of 2 percent is the sum of the average accrual and the average price loss.\nFor the five-year horizon, price losses dominate accrual gains. Over longer investment periods, net accrual gains continue to increase and ultimately dominate price losses. Net accrual gains will just balance the price loss\n\nEXHIBIT 1.5 Trendline accruals and price effects (initial yield = 3%; duration target = 5)",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/170",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 27,
+              "bbox": {
+                "l": 54.341796875,
+                "t": 170.99024963378906,
+                "r": 376.6241455078125,
+                "b": 95.69097900390625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                397
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/171",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 27,
+              "bbox": {
+                "l": 54.418521881103516,
+                "t": 93.2580795288086,
+                "r": 376.4378662109375,
+                "b": 69.56472778320312,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                147
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/174",
+          "parent": {
+            "cref": "#/pictures/3"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 28,
+              "bbox": {
+                "l": 54.538394927978516,
+                "t": 574.587158203125,
+                "r": 198.93077087402344,
+                "b": 565.95263671875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                39
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/189",
+          "parent": {
+            "cref": "#/groups/7"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 28,
+              "bbox": {
+                "l": 54.291316986083984,
+                "t": 340.86669921875,
+                "r": 157.32211303710938,
+                "b": 333.031982421875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/190",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 28,
+              "bbox": {
+                "l": 54.411865234375,
+                "t": 303.148681640625,
+                "r": 376.77093505859375,
+                "b": 279.455322265625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                148
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/191",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 28,
+              "bbox": {
+                "l": 54.313236236572266,
+                "t": 277.2416076660156,
+                "r": 376.5627746582031,
+                "b": 240.682373046875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                172
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/192",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 28,
+              "bbox": {
+                "l": 54.21460723876953,
+                "t": 238.4138641357422,
+                "r": 376.9024658203125,
+                "b": 137.09791564941406,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                556
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/193",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 28,
+              "bbox": {
+                "l": 54.35707473754883,
+                "t": 133.79925537109375,
+                "r": 376.5627136230469,
+                "b": 97.11949157714844,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                198
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/194",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 28,
+              "bbox": {
+                "l": 54.22556686401367,
+                "t": 94.90576934814453,
+                "r": 376.82568359375,
+                "b": 58.29173278808594,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                223
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/197",
+          "parent": {
+            "cref": "#/tables/4"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 29,
+              "bbox": {
+                "l": 54.538394927978516,
+                "t": 574.587158203125,
+                "r": 376.164794921875,
+                "b": 565.7733154296875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                90
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/tables/4",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [
+            {
+              "cref": "#/texts/197"
+            }
+          ],
+          "content_layer": "body",
+          "meta": null,
+          "label": "table",
+          "prov": [
+            {
+              "page_no": 29,
+              "bbox": {
+                "l": 53.022483825683594,
+                "t": 562.9113998413086,
+                "r": 377.547607421875,
+                "b": 356.31549072265625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Trendlines"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": ", Time Final Yield = 1 3.0 0.5 3.5 4.0. , Yield Change Duration = . , Price Loss  = \u2212 D \u00d7 Yld Change = \u22122.0. , Total Return = Accrual + Price Loss = 1.0. , Time Final Yield = 2 3.5 0.5 4.0 4.0. , Yield Change Duration = . , Price Loss  = \u2212 D \u00d7 Yld Change = \u22122.0. , Total Return = Accrual + Price Loss = 1.5. , Time Final Yield = . , Yield Change Duration = 3 4.0 0.5 4.5 4.0. , Price Loss  = \u2212 D \u00d7 Yld Change = \u22122.0. , Total Return = Accrual + Price Loss = 2.0. , Time Final Yield = 4 4.5 0.5 5.0 4.0. , Yield Change Duration = . , Price Loss  = \u2212 D \u00d7 Yld Change = \u22122.0. , Total Return = Accrual + Price Loss = 2.5. , Time Final Yield = 5 5.0 0.5 5.5 4.0. , Yield Change Duration = . , Price Loss  = \u2212 D \u00d7 Yld Change = \u22122.0. , Total Return = Accrual + Price Loss = 3.0. , Time Final Yield = Average 4.0 0.5 4.5 4.0. , Yield Change Duration = . , Price Loss  = \u2212 D \u00d7 Yld Change = \u2212 2.0. , Total Return = Accrual + Price Loss = 2.0. (A) Average Accrual \u2212  Initial Yield, Time Final Yield = (B) Total Yield Change. (A) Average Accrual \u2212  Initial Yield, Yield Change Duration = (B) Total Yield Change. (A) Average Accrual \u2212  Initial Yield, Price Loss  = \u2212 D \u00d7 Yld Change = (C) =  A/B Accrual Factor. (A) Average Accrual \u2212  Initial Yield, Total Return = Accrual + Price Loss = (C) =  A/B Accrual Factor. 1.0, Time Final Yield = 2.5. 1.0, Yield Change Duration = 2.5. 1.0, Price Loss  = \u2212 D \u00d7 Yld Change = 0.4. 1.0, Total Return = Accrual + Price Loss = 0.4",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/tables/4",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [
+            {
+              "cref": "#/texts/197"
+            }
+          ],
+          "content_layer": "body",
+          "meta": null,
+          "label": "table",
+          "prov": [
+            {
+              "page_no": 29,
+              "bbox": {
+                "l": 53.022483825683594,
+                "t": 562.9113998413086,
+                "r": 377.547607421875,
+                "b": 356.31549072265625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Trendlines"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Source: Morgan Stanley Research.\nif the holding period is extended to nine years; that is, one year less than twice the duration (see Appendix).\nExhibit 1.5 also includes the calculation of the TL accrual factor: the excess average accrual (relative to the initial yield) divided by the total yield change. In the Appendix, we show that for a trendline the accrual factor = (1 \u2212 1/N)/2. The value of this factor depends only on the investment horizon and increases toward 1\r\n/2 /2 as the holding period (or rebalancing frequency) increases. Using this formula with N = 5, the accrual factor is (1 \u2212 1/5)/2 = 0.4, as shown in Exhibit 1.5.\nThe accrual factor makes it easy to calculate the average TL accrual. For example, with a five-year horizon and total yield change of 2.5 percent, the excess accrual is 40 percent of 2.5 percent = 1 percent.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/198",
+          "parent": {
+            "cref": "#/groups/8"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 29,
+              "bbox": {
+                "l": 54.291316986083984,
+                "t": 351.69580078125,
+                "r": 157.32211303710938,
+                "b": 343.861083984375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/199",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 29,
+              "bbox": {
+                "l": 54.378990173339844,
+                "t": 314.48779296875,
+                "r": 376.5955810546875,
+                "b": 290.8492126464844,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                111
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/200",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 29,
+              "bbox": {
+                "l": 54.23652267456055,
+                "t": 288.5807189941406,
+                "r": 377.844970703125,
+                "b": 201.24356079101562,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                492
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/201",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 29,
+              "bbox": {
+                "l": 54.43936538696289,
+                "t": 197.92298889160156,
+                "r": 376.84228515625,
+                "b": 161.36376953125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                207
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Trendlines"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "On the surface, it might appear that the TL model is overly simplistic because yields generally do not move uniformly along a simple trendline path. In fact, there are an unlimited number of potential upward and downward yield moves that can lead to the same final destination.\nTo illustrate the generality of the TL model, we will show that each TL represents an average result across an array of all yield pathways leading to the same end point. The average accrual, capital gain (or loss), and total return of all such random paths thus each turn out to be very close to the corresponding TL values.\nThis averaging property of trendlines facilitates the use of scenario analysis because investors can more easily make terminal yield forecasts than anticipate precise yield paths.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/203",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 29,
+              "bbox": {
+                "l": 54.02830123901367,
+                "t": 107.27478790283203,
+                "r": 376.75994873046875,
+                "b": 60.29356002807617,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                277
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/206",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 30,
+              "bbox": {
+                "l": 54.332183837890625,
+                "t": 574.481201171875,
+                "r": 378.1159362792969,
+                "b": 511.89434814453125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                324
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/207",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 30,
+              "bbox": {
+                "l": 54.408897399902344,
+                "t": 509.74639892578125,
+                "r": 376.537841796875,
+                "b": 473.1871643066406,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                179
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Generality of the TL Model"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "In this section, we focus on a non-TL jump path with the same 5.5 percent terminal yield as the TL but with higher accruals. Exhibits 1.6 and 1.7 illustrate a path where the yield starts at 3 percent and, at the end of the first year, jumps by 2.5 percent and stays at 5.5 percent for the next four years.\nThe jump path yields generate a 5.5 percent average accrual over the four post-jump years, 2.5 percent higher than the initial yield. Exhibit 1.8 shows that the annualized excess accrual over the full five years is 2 percent. The excess accrual for the jump path is twice the 1 percent trendline accrual, and so the accrual factor of 0.8 is twice the 0.4 TL accrual factor.\nEXHIBIT 1.6 Jump path to final yield\nSource: Morgan Stanley Research.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/209",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 30,
+              "bbox": {
+                "l": 54.02830123901367,
+                "t": 419.085693359375,
+                "r": 376.8366394042969,
+                "b": 369.41949462890625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                305
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/210",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 30,
+              "bbox": {
+                "l": 54.23652267456055,
+                "t": 366.24139404296875,
+                "r": 376.8695983886719,
+                "b": 306.4052734375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                373
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/211",
+          "parent": {
+            "cref": "#/pictures/4"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 30,
+              "bbox": {
+                "l": 54.481693267822266,
+                "t": 292.6529235839844,
+                "r": 193.12637329101562,
+                "b": 283.9376525878906,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                36
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/229",
+          "parent": {
+            "cref": "#/groups/9"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 30,
+              "bbox": {
+                "l": 54.23451614379883,
+                "t": 69.25169372558594,
+                "r": 157.32907104492188,
+                "b": 61.416988372802734,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                32
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "A Jump Yield Path"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 5582155461958002870,
+        "filename": "Inside_The_Yield_Book.pdf",
+        "uri": null
+      }
+    }
+  }
+]
