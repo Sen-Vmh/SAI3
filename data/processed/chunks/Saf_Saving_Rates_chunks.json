@@ -1,0 +1,2545 @@
+[
+  {
+    "text": "b y Wa d e D . P f a u , P h . D .\nWade D. Pfau, Ph.D., an associate professor at the National Graduate Institute for Policy Studies in Tokyo, Japan, holds a doctorate in economics from Princeton University. His hometown is Des Moines, Iowa. He can be reached at wpfau@grips.ac.jp.\nU sing 65 years of data between 1926 and 1991, Bengen (1994) famously motivated the 4 percent withdrawal rule. Bengen (2006) later coined the term \"SAFEMAX\" to describe the maximum withdrawal rate, as a percentage of the account balance at the retirement date, which could be adjusted for inflation in each subsequent year and would allow for at least 30 years of withdrawals without exhausting one's savings during all of the rolling periods available in the historical data. More simply, the SAFEMAX is the maximum sustainable withdrawal rate\nAcknowledgments: I am grateful for excellent comments and insights received from this Journal's anonymous reviewers, Rob Bennett, Bogleheads Forum users (particularly CaliJim, grayfox, grberry, magellan, Majormajor78, and SpecialK22), Nanette Byrnes, Dan Moisand, Jennie L. Phipps, Mike Piper (and Larry, who made comments at his blog), Dick Purcell, Felix Salmon (as well as his blog's comments from dWj, ErnieD, and TFF), and Bob Veres. The author is also grateful for financial support from the Japan Society for the Promotion of Science Grants-in-Aid for Young Scientists (B) #20730179.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/3",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 54.529998779296875,
+                "t": 572.0900268554688,
+                "r": 138.83998107910156,
+                "b": 563.7100219726562,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                34
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/4",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 54.04800033569336,
+                "t": 531.52001953125,
+                "r": 200.7679901123047,
+                "b": 471.8800048828125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                246
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/5",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 53.92550277709961,
+                "t": 442.0000305175781,
+                "r": 213.19549560546875,
+                "b": 252.85000610351562,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                544
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/6",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 54.36399841308594,
+                "t": 219.52000427246094,
+                "r": 207.61996459960938,
+                "b": 55.88800048828125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                590
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Safe Savings Rates: A New Approach to Retirement Planning over the Life Cycle"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14758282814642122597,
+        "filename": "Saf_Saving_Rates.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "- Focusing on a \"safe withdrawal rate\" and then deriving a \"wealth accumulation target\" to achieve by the retirement date may not be the best way to approach retirement planning. Such a formulation isolates the working (accumulation) and retirement (decumulation) phases.\n- When considered together, the lowest sustainable withdrawal rates (which give us our idea of the safe withdrawal rate) tend to follow prolonged bull markets, while the highest sustainable withdrawal rates tend to follow prolonged bear markets.\n- The focus of retirement planning should be on the savings rate rather than the withdrawal rate. The \"safe savings rate\" may be based on historical simulations as the savings rate that proves sufficient to support the desired retirement expen-\n(MWR) from the worst-case retirement year. Rightfully so, Bengen's study demonstrated how volatility in asset returns causes the \"safe withdrawal rate\" to fall below the withdrawal rate possible with assumed constant asset returns matching historical averages. His study spurred the development of a cottage industry with numerous ditures from a life-cycle perspective, including both the accumulation and decumulation phases. Safe savings rates derived in this manner are less volatile than withdrawal rates and imply a lower ex-post cost to being overly conservative.\n- Unlike the 4 percent rule for a safe withdrawal rate, there is not a universal \"safe savings rate,\" but guidelines can be created. Starting to save early and consistently for retirement at a reasonable savings rate will provide the best chance to meet retirement expenditure goals. Actual withdrawal rates and wealth accumulations at retirement may be treated as almost an afterthought in this framework. But the savings plan should be adhered to regardless of whether it seems one is accumulat -ing either more or less wealth than is needed based on traditional criteria.\nresearchers investigating how retirees might safely increase their withdrawal rate. Such studies have overwhelmingly investigated retirement in isolation from the working phase that preceded it.\nThe Journal of Financial Planning published William Bengen's landmark study 17 years ago, setting into place an initial condition that influenced",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/8",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 232.88800048828125,
+                "t": 492.864013671875,
+                "r": 383.75994873046875,
+                "b": 394.7279968261719,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                271
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/9",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 232.88800048828125,
+                "t": 388.8399963378906,
+                "r": 382.2799987792969,
+                "b": 291.9119873046875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                245
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/10",
+          "parent": {
+            "cref": "#/groups/0"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 232.88800048828125,
+                "t": 284.864013671875,
+                "r": 384.1199951171875,
+                "b": 199.72799682617188,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                244
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/11",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 222.92547607421875,
+                "t": 168.89999389648438,
+                "r": 375.5654602050781,
+                "b": 55.36003112792969,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                330
+              ]
+            },
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 406.864013671875,
+                "t": 492.864013671875,
+                "r": 548.3519897460938,
+                "b": 407.7040100097656,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                331,
+                569
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/12",
+          "parent": {
+            "cref": "#/groups/1"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 396.3840026855469,
+                "t": 401.864013671875,
+                "r": 547.5199584960938,
+                "b": 200.91200256347656,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                574
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/13",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 392.1654968261719,
+                "t": 168.72003173828125,
+                "r": 551.0355224609375,
+                "b": 107.36003112792969,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                194
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/14",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 1,
+              "bbox": {
+                "l": 392.17547607421875,
+                "t": 103.90006256103516,
+                "r": 540.4254760742188,
+                "b": 57.89006042480469,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                145
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Executive Summary"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14758282814642122597,
+        "filename": "Saf_Saving_Rates.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Executive Summary so much subsequent research. But I wonder how different our ideas about retirement planning might be if Bengen had chanced upon a longer time series of historical data when he formulated his study. With more data, he might have decided to consider historical simulations that included both the working (accumulation) and retirement (decumulation) phases in one integrated whole. When considered as a whole, the historical data show that, though the relationship is not perfect, the lowest MWRs (which give us our conception of the safe withdrawal rate) tend to occur after prolonged bull markets. Prolonged bear markets during the accumulation phase tend to allow for much larger MWRs. This tendency motivates a fundamental rethinking of retirement planning, as worrying about the \"safe withdrawal rate\" and a \"wealth accumulation target\" is distracting and potentially harmful for those engaged in the retirement planning process.\nRather, it may be better to think in terms of a \"safe savings rate\" that has demonstrated success in financing desired retirement expenditures for overlapping historical periods including both the accumulation and decumula -tion phases. Put another way, someone saving at her \"safe savings rate\" will likely be able to finance her intended expenditures regardless of her actual wealth accumulation and withdrawal rate. As an added feature, the volatility of past life-cycle-based minimum necessary savings rates (LMSRs) is less than that of MWRs; they range between 9.3 percent and 16.6 percent of salary over the historical period for our stylized baseline individual.\nI am suggesting that the following retirement planning process, which isolates the accumulation and decumu -lation phases, is not appropriate:\nStep 1: Estimate the withdrawals needed from financial assets to pay for planned retirement expenses after accounting for Social Security, any defined-pension benefits, and any other income sources. Define these planned retirement expenses as a replacement rate (RR) from pre-retirement salary.\nStep 2: Decide on a withdrawal rate (WR) you feel comfortable using based on what has been shown sufficiently capable by the historical data.\nStep 3: Determine the wealth accumulation (W) you wish to achieve by retirement, defined as W = RR / WR.\nStep 4: Determine the savings rate you need during your working years to achieve this wealth accumulation goal.\nI suggest as a replacement the following retirement planning process:\nStep 1: This step is the same as above.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/20",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": -369.9200134277344,
+                "t": 521.5000610351562,
+                "r": -254.072021484375,
+                "b": 510.8680725097656,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                17
+              ]
+            },
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 53.93000030517578,
+                "t": 701.719970703125,
+                "r": 211.44000244140625,
+                "b": 380.36004638671875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                18,
+                949
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/21",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 53.93000030517578,
+                "t": 376.7200622558594,
+                "r": 210.2200164794922,
+                "b": 148.85018920898438,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                669
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/22",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 54.279998779296875,
+                "t": 142.90023803710938,
+                "r": 204.8300018310547,
+                "b": 94.44024658203125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                142
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/23",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 71.27999877929688,
+                "t": 90.72024536132812,
+                "r": 207.99002075195312,
+                "b": 55.440242767333984,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                100
+              ]
+            },
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 240.1699981689453,
+                "t": 701.9002685546875,
+                "r": 379.9200134277344,
+                "b": 627.4402465820312,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                101,
+                294
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/24",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 240.1300048828125,
+                "t": 623.72021484375,
+                "r": 373.1600341796875,
+                "b": 564.8702392578125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                141
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/25",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 240.0,
+                "t": 558.72021484375,
+                "r": 370.1100158691406,
+                "b": 512.51025390625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                104
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/26",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 239.92999267578125,
+                "t": 506.72027587890625,
+                "r": 380.1300048828125,
+                "b": 471.3602600097656,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                111
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/27",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 223.33999633789062,
+                "t": 467.9002990722656,
+                "r": 376.1299743652344,
+                "b": 445.36029052734375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                69
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/28",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 240.32000732421875,
+                "t": 441.7203063964844,
+                "r": 362.27001953125,
+                "b": 421.8503112792969,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                39
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Executive Summary"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14758282814642122597,
+        "filename": "Saf_Saving_Rates.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Step 2: Decide on a savings rate you feel comfortable using based on what has been shown sufficiently capable of financing your desired retirement expenditures by the historical data.\nIf one saves responsibly throughout her career, she will likely be able to finance her intended expenditures regardless of what withdrawal rate from her savings this implies. Of course, a caveat must be included that the \"safe savings rate\" is merely what has been shown to work in rolling periods from the historical data. The same caveat applies to the \"safe withdrawal rate\"\u2014in the future we might experience a situation in which the safe savings rate must be revised upward or the safe withdrawal rate downward. It must also be clear that the findings about safe savings rates in this study are not one-size-fits-all. The study merely illustrates the principles at work by focusing on the case of a particular stylized individual. Real people will vary in their income and savings patterns, consumption\nsmoothing needs, desired retirement expenditures, and asset allocation choices. This leaves an important role for financial planners to assist their clients in determining the \"safe savings rate\" that fits the client's particular life circumstances. This paper provides a framework to accomplish this task.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/29",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 239.92999267578125,
+                "t": 415.7203063964844,
+                "r": 380.72003173828125,
+                "b": 343.870361328125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                183
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/30",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 222.92999267578125,
+                "t": 337.9003601074219,
+                "r": 376.9700927734375,
+                "b": 68.44049072265625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                772
+              ]
+            },
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 223.32000732421875,
+                "t": 64.72055053710938,
+                "r": 359.9000549316406,
+                "b": 55.36054992675781,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                773,
+                806
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/31",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 392.2799987792969,
+                "t": 701.7205200195312,
+                "r": 549.4000244140625,
+                "b": 601.4405517578125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                306
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Executive Summary"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14758282814642122597,
+        "filename": "Saf_Saving_Rates.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "I use a historical simulations approach, considering the perspective of individuals retiring in each year of the historical period. In the baseline case, an individual saves for retirement during the final 30 years of her career, and she earns a constant real income in each of these years. A fixed savings rate determines the fraction of this income she saves at the end of each of the 30 years. Savings are deposited into an investment portfolio that is allocated 60 percent into large-capitalization stocks (Standard & Poor's Composite Stock Price Index) and 40 percent into short-term fixed-income assets (annual yield from six-month commercial paper rates). The investment portfolio is rebalanced to the targeted asset allocation at the end of each year.\nIn the baseline case, retirement begins at the start of the 31st year, and the retirement period is assumed to last for 30 years. The accumulation and decumulation life cycle is 60 years. Withdrawals are made at the beginning of each year during retirement. The underlying 60/40 asset allocation remains the same during retirement, as does the annual rebalancing assumption. Withdrawal amounts are defined as a replacement rate from final pre-retirement salary. I assume that the baseline individual wishes to replace 50 percent of her final salary with withdrawals from her accumulated wealth. This 50 percent is more than it may initially sound, as it is only the part from retirement savings. Social Security benefits and any other income sources\nwould be added on top of this. In addition, after retiring, one no longer has to save for retirement or contribute to Social Security, which increases the replacement rate with respect to what could have been spent before retirement. Withdrawal amounts are then adjusted each year for the previous year's inflation. Portfolio administrative and planning fees are not charged, and I do not attempt to account for taxes. A particular savings rate was successful if it provided enough wealth at retirement to sustain 30 years of withdrawals\nwithout having the account balance fall below zero. Actual wealth accumula -tions and withdrawal rates may vary substantially for different retirees.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/33",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 391.92999267578125,
+                "t": 571.719970703125,
+                "r": 547.5400390625,
+                "b": 315.4400329589844,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                759
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/34",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 2,
+              "bbox": {
+                "l": 392.0,
+                "t": 311.72003173828125,
+                "r": 549.7600708007812,
+                "b": 55.440181732177734,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                749
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/91",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 53.93000030517578,
+                "t": 142.89999389648438,
+                "r": 211.9400634765625,
+                "b": 57.849998474121094,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                261
+              ]
+            },
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 222.92999267578125,
+                "t": 142.89999389648438,
+                "r": 382.1900634765625,
+                "b": 55.439998626708984,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                262,
+                537
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/92",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 391.92999267578125,
+                "t": 701.9000244140625,
+                "r": 550.1800537109375,
+                "b": 653.4400634765625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                149
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Methodology and Data"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14758282814642122597,
+        "filename": "Saf_Saving_Rates.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "The data for annual financial asset returns between 1871 and 2009 are from Robert Shiller's website (www. econ.yale.edu/~shiller/data.htm). With these 139 years of data, I consider 30-year careers are followed by retirements beginning in the years 1901 to 2010. In addition, I consider 30-year retirements beginning between 1871 and 1980. In considering a 60-year life cycle with 30 years of work followed by 30 years of retirement, there are 80 overlapping periods with retirements beginning between 1901 and 1980.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/93",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 392.05999755859375,
+                "t": 649.9000854492188,
+                "r": 549.1400756835938,
+                "b": 471.3601379394531,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                515
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Methodology and Data"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14758282814642122597,
+        "filename": "Saf_Saving_Rates.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Figure 1 shows the historical maximum sustainable withdrawal rates (MWRs) for 30 years of inflation-adjusted withdrawals with a 60/40 asset allocation. MWRs have historically exhibited significant volatility. The 1877 retiree enjoyed the highest MWR in history (10.04 percent), but by 1906 the MWR had fallen to 4.41 percent. It rose again to 9.78 percent in 1921, and then declined to 4.59 percent in 1929. After further gyrations, it fell to 4.15 percent in 1937, and then rose to 8.42 percent in 1949. Another precipitous decline followed, and the SAFEMAX value (the lowest MWR in history) of 4.08 percent was experienced by the 1966 retiree. By 1980, the MWR had risen again to 7.95 percent.\nRegarding the volatility of MWRs, Figure 2 shows a very close relationship in which the MWR tends to fall after a year with high real portfolio returns and rises after negative returns. The figure plots annual real returns on a 60/40 portfolio against the percentage point change to the MWR for a new retiree in the next year. The fitted regression line shows that on average, the MWR falls in years that real portfolio returns exceed 5.6 percent.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/95",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 391.92999267578125,
+                "t": 441.7200012207031,
+                "r": 551.0499267578125,
+                "b": 211.36001586914062,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                695
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/96",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 3,
+              "bbox": {
+                "l": 391.92999267578125,
+                "t": 207.9000244140625,
+                "r": 549.489990234375,
+                "b": 55.440120697021484,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                447
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Safe Withdrawal Rates"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14758282814642122597,
+        "filename": "Saf_Saving_Rates.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "The next step in developing this article's thesis is to briefly consider turning Bengen's SAFEMAX calculation on its head and to calculate a safe savings rate in isolation from the following retirement period. I calculate the minimum necessary fixed savings rate required over a 30-year career to achieve a wealth accumulation target at the retirement date. I consider a person wishing to replace 50 percent of her final salary with withdrawals from her accumulated wealth. She wishes to play it safe and hopes to save enough so that her desired expenditures represent a 4 percent withdrawal rate from her accumulated wealth. Therefore, she must accumulate wealth that is 12.5 (= 50 / 4) times her final salary. This is the approach of traditional retirement planning.\nFigure 3 shows the path of minimum necessary savings rates (MSRs) for 30-year careers to achieve the fixed wealth accumulation goal. These MSRs are volatile and can be quite high. The necessary fixed savings rates over 30 years exceeded 20 percent in 42 of the 110 post-career retirement years. They were over 30 percent for new retirees between 1918 and 1922 and in 1982. But important to note is how the pattern of these MSRs closely follows that of the corresponding MWRs for each retirement year. For instance, the largest MSR of 37.7 percent occurs for someone retiring in 1921, but that is also the year that allows for the largest MWR of 9.78 percent during the period in which data for both series are available. As well, retirement years that experienced relative lows for MWRs also experienced relative lows for MSRs. The MSR for 1929 was 14.5 percent, for 1937 was 12.6 percent, and for 1966 was 14.1 percent. These retirement years experienced MWRs of 4.59 percent, 4.15 percent, and 4.08 percent, respectively. More recently, the 2000 retiree\nFigure 3:\nMinimum Necessary Savings Rate (MSR) to Accumulate 12.5x Final Salary; Maximum Sustainable Withdrawal Rates (MWR) for 60/40 Asset Allocation, 30-Year Work Period, 30-Year Retirement Period\nenjoyed the lowest MSR in history. This individual only needed to save a fixed 10.89 percent of her annual salary over a 30-year career to be able to retire with accumulated wealth equal to 12.5 times her final salary. We will not know the corresponding MWR for the 2000 retiree until the end of 2029.\nThe relationship between MSRs and",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/103",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 53.93000030517578,
+                "t": 675.719970703125,
+                "r": 212.42999267578125,
+                "b": 419.3600158691406,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                768
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/104",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 53.93000030517578,
+                "t": 415.9000244140625,
+                "r": 212.17002868652344,
+                "b": 55.440242767333984,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                1055
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/105",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 230.94540405273438,
+                "t": 694.0796508789062,
+                "r": 267.8354187011719,
+                "b": 684.849609375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                9
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/106",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 4,
+              "bbox": {
+                "l": 286.0320129394531,
+                "t": 692.1753540039062,
+                "r": 525.3319091796875,
+                "b": 645.5953369140625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                188
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/330",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 53.93000030517578,
+                "t": 168.72000122070312,
+                "r": 208.8200225830078,
+                "b": 70.75,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                301
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/331",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 63.20000076293945,
+                "t": 64.7199935913086,
+                "r": 203.0399932861328,
+                "b": 55.43999099731445,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                33
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Minimum Necessary Savings Rate to Achieve a Fixed Wealth Accumulation Goal"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14758282814642122597,
+        "filename": "Saf_Saving_Rates.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "MWRs is further illustrated in Figure 4, which shows that the variation in MWRs that can be explained by MSRs is 79 percent. This figure also shows that the link between MSRs and MWRs is the market valuation level at the retirement date. Market valuations are represented by the 10-year average of real earnings divided by the real stock market index value at the beginning of the retirement year (E10/P). When this smoothed earnings yield is low, the stock market tends to be overvalued as a result of a recent run-up in stock prices. Stock price appreciation helps the worker reach her wealth accumulation goal with a lower savings rate. At the same time, an overvalued stock market\nat the retirement date, as represented by the low smoothed earnings yield, is also correlated with a lower subsequent MWR for the new retiree. Because the observations for this figure are from overlapping periods, formally determining the statistical significance of these relationships is a complex issue. This article proceeds under the assumption that the relationships seen in Figure 4 are meaningful and can be expected to continue in the future.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/332",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 223.10000610351562,
+                "t": 168.8999786376953,
+                "r": 378.29998779296875,
+                "b": 55.3599853515625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                337
+              ]
+            },
+            {
+              "page_no": 5,
+              "bbox": {
+                "l": 391.92999267578125,
+                "t": 168.71998596191406,
+                "r": 549.4299926757812,
+                "b": 56.67997741699219,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                338,
+                684
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/338",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 54.060001373291016,
+                "t": 701.719970703125,
+                "r": 208.87001037597656,
+                "b": 551.8900146484375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                451
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Minimum Necessary Savings Rate to Achieve a Fixed Wealth Accumulation Goal"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14758282814642122597,
+        "filename": "Saf_Saving_Rates.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Now we are ready to integrate the working and retirement phases to determine the savings rate needed to finance the planned retirement expenditures for rolling 60-year periods from the data. The baseline individual wishes to withdraw an inflation-adjusted 50 percent of her final salary from her investment portfolio at the beginning of each year for 30 years. Prior to retiring, she earns a constant real salary over 30 years, and her objective is to determine the minimum necessary savings rate to be able to finance her desired retire -ment expenditures. Her asset allocation during the entire 60-year period is 60/40 for stocks and short-term fixedincome assets.\nFigure 5 provides these results, showing both the savings rate needed to accumulate 12.5 times final salary (this is the MSR described in the previous section) and the life-cycle-based minimum savings rate needed to finance desired expenditures (LMSR). The LMSR curve is the main contribution of this paper, as it shows from rolling historical periods the minimum necessary savings rate for the accumulation phase to pay for the desired retirement expenditures. In the context of Bengen's original study, the maximum value of the LMSR curve\u201416.62 percent in 1918\u2014becomes the SAFEMIN savings rate from a lifetime perspective that corresponds to\nFigure 5:\nMinimum Necessary Savings Rates Under Isolated and Integrated Approaches, for 60/40 Asset Allocation, 30-Year Work Period, 30-Year Retirement Period, 50% Replacement Rate\nBengen's SAFEMAX withdrawal rate. Had the baseline individual used a fixed 16.62 percent savings rate, she would have always saved enough to finance her desired retirement expenses, having barely accomplished this in the worstcase retirement year of 1918.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/340",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 53.93000030517578,
+                "t": 506.7200012207031,
+                "r": 212.58004760742188,
+                "b": 278.8699951171875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                666
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/341",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 54.16999816894531,
+                "t": 272.72003173828125,
+                "r": 213.19000244140625,
+                "b": 55.44015121459961,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                643
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/342",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 235.3430938720703,
+                "t": 695.8295288085938,
+                "r": 272.23309326171875,
+                "b": 686.5994873046875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                9
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/343",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 290.2997131347656,
+                "t": 693.9252319335938,
+                "r": 526.599609375,
+                "b": 646.5552368164062,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                170
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/386",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 223.05999755859375,
+                "t": 428.72015380859375,
+                "r": 379.45001220703125,
+                "b": 341.4401550292969,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                255
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "An Integrated Life-Cycle Approach for Savings and Withdrawals"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14758282814642122597,
+        "filename": "Saf_Saving_Rates.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Retirement planning in the context of the LMSR curve is less prone to making large sacrifices in order to follow a conservative strategy. In the context of safe withdrawal rates, if someone used a 4 percent withdrawal rate at a time that would have supported an 8 percent withdrawal rate, she is sacrificing 50 percent of the spending power from her savings (her overall spending reduction would be less after including Social Security and other income sources). But in the context of safe savings rates, if someone saved at a rate of 16.62 percent at a time when she only needed to save 9.34 percent (this is the lowest LMSR value, occurring for the 1901 retiree), she is sacrificing only a little over 7 percent of her annual salary as surplus savings. She will usually also find that she still has funds remaining after a 30-year retirement period, but she was indeed able to afford her desired expenditures. In the period since 1926, which is used in most withdrawal rate studies, the range of LMSR values is even narrower. The lowest LMSR value was 11.2 percent for retirees between 1946 and 1949, while the highest LMSR value (the SAFEMIN from the limited sample) is 15.1 percent for the 1975 and 1979 retiree.\nTo provide further intuition for these findings, Figure 6 shows what would have happened for our stylized individual who saved with a fixed 16.62 percent savings rate in each rolling historical period. With a 16.62 percent savings rate, the wealth accumulation at retirement varies dramatically over time. The lowest wealth accumula -tion was 5.52 times final salary for the 1921 retiree, while the highest wealth accumulation was 19.07 times final salary for the 2000 retiree. For that unfortunate 1921 retiree, the low wealth accumulation implies a required withdrawal rate of 9.06 percent to be able to afford her desired retirement expenditures. But indeed, the actual MWR for the 1921 retiree was 9.78",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/387",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 222.92999267578125,
+                "t": 337.900146484375,
+                "r": 380.6000061035156,
+                "b": 55.440303802490234,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                855
+              ]
+            },
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 391.92999267578125,
+                "t": 428.9002990722656,
+                "r": 550.9200439453125,
+                "b": 304.75030517578125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                856,
+                1216
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/388",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 6,
+              "bbox": {
+                "l": 391.92999267578125,
+                "t": 298.90032958984375,
+                "r": 547.4000244140625,
+                "b": 57.750457763671875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                706
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "An Integrated Life-Cycle Approach for Savings and Withdrawals"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14758282814642122597,
+        "filename": "Saf_Saving_Rates.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Wealth Accumulation and Required Withdrawal Rates with a 16.62% Savings Rate, for 60/40 Asset Allocation, 30-Year Work Period, 30-Year Retirement Period, 50% Replacement Rate\npercent. As another example, the 1966 retiree experienced the lowest MWR in history (4.08 percent). But with a 16.62 percent savings rate, the 1966 retiree accumulated wealth of 14.71 times final salary, which required that she only use a withdrawal rate of 3.4 percent to meet her retirement spending goals. Using the SAFEMIN savings rate was always sufficient to finance desired retirement expenditures regardless of the actual wealth it provided at the retirement date. The actual MWR, which could not be known until 30 years after retirement, was always at least as high. The year that the required and actual withdrawal rates were the same, which was 1918, defines 16.62 percent as the SAFEMIN savings rate.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/395",
+          "parent": {
+            "cref": "#/pictures/6"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "caption",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 117.61389923095703,
+                "t": 690.1752319335938,
+                "r": 355.663818359375,
+                "b": 642.8052368164062,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                174
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/443",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 53.93000030517578,
+                "t": 402.7202453613281,
+                "r": 210.3499755859375,
+                "b": 159.36024475097656,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                712
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Figure 6:"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14758282814642122597,
+        "filename": "Saf_Saving_Rates.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "The traditional retirement planning approach, represented here as targeting a wealth accumulation at retirement equal to 12.5 times final salary, has potentially tragic consequences. Using the SAFEMIN savings rate that worked in every historical circumstance, Figure 6 provided a basis for determining that in 59 percent (65 out of 110) of the historical rolling 30-year work periods, the retiree had accumulated wealth less than 12.5 times final salary. In 15 cases, accumulated wealth was even less than 8 multiples of final earnings. Though the SAFEMIN savings rate was shown to always have worked, these seemingly low wealth accumulations may have discouraged someone from continuing to save, or may have caused someone to needlessly delay retirement.\nOn the other hand, in recent years, wealth accumulations have been high. They exceeded 12.5 times final earnings between 1996 and 2008. Those saving for retirement during this time may have achieved traditional wealth targets earlier than expected, which may have caused people to either cut back on their savings or even retire early, while unbeknownst to them, post-retirement market conditions could have resulted in a lower-than-expected sustainable withdrawal rate. This is a particular concern for recent retirees who may be overly reliant on the notion that a 4 percent withdrawal rate is safe.\nPfau (2010b, 2010c, and 2010d) provides a trio of studies that each use a different methodology to question the safety of the 4 percent rule, especially for retirees from the past decade. Pfau (2010b) investigates safe withdrawal rates in 17 developed market countries between 1900 and 2008 and finds that even with unrealistically favorable assumptions, the 4 percent rule provided safety only in 4 of the 17 countries. Pfau (2010c) shows that retirees in 2000 are exhausting wealth in the 10 years after their retirement at a faster pace than any previous retirees, at least in nominal terms. Pfau (2010d), which extends earlier work by Bennett and Russell (2007), predicts that maximum sustainable withdrawal rates for recent retirees will fall below 4 percent based on regression results using market valuation and yield measures.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/445",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 54.18000030517578,
+                "t": 116.72000122070312,
+                "r": 208.89999389648438,
+                "b": 55.36000061035156,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                188
+              ]
+            },
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 223.1699981689453,
+                "t": 402.7200012207031,
+                "r": 378.1000061035156,
+                "b": 211.44000244140625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                189,
+                755
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/446",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 222.92999267578125,
+                "t": 207.72000122070312,
+                "r": 376.45001220703125,
+                "b": 55.44009017944336,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                453
+              ]
+            },
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 391.92999267578125,
+                "t": 701.7200927734375,
+                "r": 542.77001953125,
+                "b": 653.4401245117188,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                454,
+                601
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/447",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 391.92999267578125,
+                "t": 649.900146484375,
+                "r": 550.6400146484375,
+                "b": 367.4401550292969,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                834
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Potential Tragic Consequences of the Traditional Retirement Planning Approach"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14758282814642122597,
+        "filename": "Saf_Saving_Rates.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "The current study indicates, though, that recent retirees will have had the opportunity to fare better had they used the \"safe savings rate\" approach. Figure 6 shows that between 1996 and 2008, the required withdrawal rates to meet spending goals after using a 16.62 percent savings rate were less than 4 percent. The unprecedented bull market of the 1990s would have allowed the 2000 retiree to finance her planned retirement expenditures using a withdrawal rate of only 2.62 percent. It is worth mentioning again that just as Bengen's SAFEMAX is derived from past data and future retirees (those retiring since 1980 whose 30-year MWRs are still unknown) could experience conditions that lead to a lower SAFEMAX; the SAFEMIN savings rate could also eventually be increased as a result of the experiences of post-1980 retirees. As long as the actual MWR will be above 2.62 percent, then the 2000",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/448",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 7,
+              "bbox": {
+                "l": 392.05999755859375,
+                "t": 363.72015380859375,
+                "r": 548.9400024414062,
+                "b": 55.440242767333984,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                895
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Potential Tragic Consequences of the Traditional Retirement Planning Approach"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14758282814642122597,
+        "filename": "Saf_Saving_Rates.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "\nAccumulation Phase, Retirement Phase.40/60 Fixed Asset Allocation.20 Years  30 Years  40 Years  40 Years  40 Years = . Accumulation Phase, Retirement Phase.60/40 Fixed Asset Allocation.20 Years = . Accumulation Phase, Retirement Phase.60/40 Fixed Asset Allocation.30 Years = . Accumulation Phase, Retirement Phase.80/20 Fixed Asset Allocation.20 Years = . Accumulation Phase, Retirement Phase.80/20 Fixed Asset Allocation.30 Years = 20 Years 31.98 39.5 47.02 30.94 35.91 38.92 30.52 34.45 35.94. Accumulation Phase, Retirement Phase.80/20 Fixed Asset Allocation. = . Accumulation Phase, Retirement Phase.. = . Accumulation Phase, Retirement Phase.. = . Accumulation Phase, Retirement Phase.. = . Accumulation Phase, Retirement Phase.40/60 Fixed Asset Allocation.20 Years  30 Years  40 Years  40 Years  40 Years = . Accumulation Phase, Retirement Phase.60/40 Fixed Asset Allocation.20 Years = 30 Years 15.64 19.33 22.19 13.88 16.62 18.63 12.85 15.14 16.54. Accumulation Phase, Retirement Phase.60/40 Fixed Asset Allocation.30 Years = . Accumulation Phase, Retirement Phase.80/20 Fixed Asset Allocation.20 Years = . Accumulation Phase, Retirement Phase.80/20 Fixed Asset Allocation.30 Years = . Accumulation Phase, Retirement Phase.80/20 Fixed Asset Allocation. = . Accumulation Phase, Retirement Phase.. = . Accumulation Phase, Retirement Phase.. = . Accumulation Phase, Retirement Phase.. = . Accumulation Phase, Retirement Phase.40/60 Fixed Asset Allocation.20 Years  30 Years  40 Years  40 Years  40 Years = 40 Years 10.26 12.42 13.84 7.57 8.77 9.22 6.26 7.39 8.06. Accumulation Phase, Retirement Phase.60/40 Fixed Asset Allocation.20 Years = . Accumulation Phase, Retirement Phase.60/40 Fixed Asset Allocation.30 Years = . Accumulation Phase, Retirement Phase.80/20 Fixed Asset Allocation.20 Years = . Accumulation Phase, Retirement Phase.80/20 Fixed Asset Allocation.30 Years = . Accumulation Phase, Retirement Phase.80/20 Fixed Asset Allocation. = . Accumulation Phase, Retirement Phase.. = . Accumulation Phase, Retirement Phase.. = . Accumulation Phase, Retirement Phase.. = . , Retirement Phase.40/60 Fixed Asset Allocation.20 Years  30 Years  40 Years  40 Years  40",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/tables/0",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "table",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 53.522560119628906,
+                "t": 700.7892074584961,
+                "r": 550.2590942382812,
+                "b": 518.1619262695312,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Potential Tragic Consequences of the Traditional Retirement Planning Approach"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14758282814642122597,
+        "filename": "Saf_Saving_Rates.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "\n Years = Retirement Phase. , Retirement Phase.60/40 Fixed Asset Allocation.20 Years = Retirement Phase. , Retirement Phase.60/40 Fixed Asset Allocation.30 Years = Retirement Phase. , Retirement Phase.80/20 Fixed Asset Allocation.20 Years = Retirement Phase. , Retirement Phase.80/20 Fixed Asset Allocation.30 Years = Retirement Phase. , Retirement Phase.80/20 Fixed Asset Allocation. = Retirement Phase. , Retirement Phase.. = Retirement Phase. , Retirement Phase.. = Retirement Phase. , Retirement Phase.. = Retirement Phase. Replacement Rate =, Retirement Phase.40/60 Fixed Asset Allocation.20 Years  30 Years  40 Years  40 Years  40 Years = 40/60 Fixed Asset Allocation. Replacement Rate =, Retirement Phase.60/40 Fixed Asset Allocation.20 Years = 60/40 Fixed Asset Allocation. Replacement Rate =, Retirement Phase.60/40 Fixed Asset Allocation.30 Years = 60/40 Fixed Asset Allocation. Replacement Rate =, Retirement Phase.80/20 Fixed Asset Allocation.20 Years = 80/20 Fixed Asset Allocation. Replacement Rate =, Retirement Phase.80/20 Fixed Asset Allocation.30 Years = 80/20 Fixed Asset Allocation. Replacement Rate =, Retirement Phase.80/20 Fixed Asset Allocation. = 80/20 Fixed Asset Allocation. Replacement Rate =, Retirement Phase.. = . Replacement Rate =, Retirement Phase.. = . Replacement Rate =, Retirement Phase.. = . 70% of Final Salary, Retirement Phase.40/60 Fixed Asset Allocation.20 Years  30 Years  40 Years  40 Years  40 Years = 20 Years  30 Years  40 Years  40 Years  40 Years. 70% of Final Salary, Retirement Phase.60/40 Fixed Asset Allocation.20 Years = 20 Years. 70% of Final Salary, Retirement Phase.60/40 Fixed Asset Allocation.30 Years = 30 Years. 70% of Final Salary, Retirement Phase.80/20 Fixed Asset Allocation.20 Years = 20 Years. 70% of Final Salary, Retirement Phase.80/20 Fixed Asset Allocation.30 Years = 30 Years. 70% of Final Salary, Retirement Phase.80/20 Fixed Asset Allocation. = . 70% of Final Salary, Retirement Phase.. = . 70% of Final Salary, Retirement Phase.. = . 70% of Final Salary, Retirement Phase.. = . Accumulation Phase, Retirement Phase.40/60 Fixed Asset Allocation.20 Years  30 Years  40 Years  40 Years  40 Years = . Accumulation Phase, Retirement Phase.60/40 Fixed Asset",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/tables/0",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "table",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 53.522560119628906,
+                "t": 700.7892074584961,
+                "r": 550.2590942382812,
+                "b": 518.1619262695312,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Potential Tragic Consequences of the Traditional Retirement Planning Approach"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14758282814642122597,
+        "filename": "Saf_Saving_Rates.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": " Allocation.20 Years = . Accumulation Phase, Retirement Phase.60/40 Fixed Asset Allocation.30 Years = . Accumulation Phase, Retirement Phase.80/20 Fixed Asset Allocation.20 Years = . Accumulation Phase, Retirement Phase.80/20 Fixed Asset Allocation.30 Years = 20 Years 44.78 55.3 65.82 43.31 50.28 54.49 42.73 48.24 50.31. Accumulation Phase, Retirement Phase.80/20 Fixed Asset Allocation. = . Accumulation Phase, Retirement Phase.. = . Accumulation Phase, Retirement Phase.. = . Accumulation Phase, Retirement Phase.. = . Accumulation Phase, Retirement Phase.40/60 Fixed Asset Allocation.20 Years  30 Years  40 Years  40 Years  40 Years = . Accumulation Phase, Retirement Phase.60/40 Fixed Asset Allocation.20 Years = . Accumulation Phase, Retirement Phase.60/40 Fixed Asset Allocation.30 Years = . Accumulation Phase, Retirement Phase.80/20 Fixed Asset Allocation.20 Years = 30 Years 21.9 27.07 31.06 19.43 23.27 26.08 17.99 21.2 23.16. Accumulation Phase, Retirement Phase.80/20 Fixed Asset Allocation.30 Years = . Accumulation Phase, Retirement Phase.80/20 Fixed Asset Allocation. = . Accumulation Phase, Retirement Phase.. = . Accumulation Phase, Retirement Phase.. = . Accumulation Phase, Retirement Phase.. = . Accumulation Phase, Retirement Phase.40/60 Fixed Asset Allocation.20 Years  30 Years  40 Years  40 Years  40 Years = . Accumulation Phase, Retirement Phase.60/40 Fixed Asset Allocation.20 Years = . Accumulation Phase, Retirement Phase.60/40 Fixed Asset Allocation.30 Years = . Accumulation Phase, Retirement Phase.80/20 Fixed Asset Allocation.20 Years = . Accumulation Phase, Retirement Phase.80/20 Fixed Asset Allocation.30 Years = 40 Years 14.36 17.38 19.38 10.6 12.27 12.91 8.76 10.35 11.28. Accumulation Phase, Retirement Phase.80/20 Fixed Asset Allocation. = . Accumulation Phase, Retirement Phase.. = . Accumulation Phase, Retirement Phase.. = . Accumulation Phase, Retirement Phase.. = \nretiree following these guidelines will succeed. At least, should the MWRs for recent retirees fall dramatically below 4 percent, the consequences of having followed this new approach to retirement planning will be less tragic than following the traditional retirement planning approach.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/tables/0",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "table",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 53.522560119628906,
+                "t": 700.7892074584961,
+                "r": 550.2590942382812,
+                "b": 518.1619262695312,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/495",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 54.099998474121094,
+                "t": 493.8999938964844,
+                "r": 207.97000122070312,
+                "b": 393.3599853515625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                287
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Potential Tragic Consequences of the Traditional Retirement Planning Approach"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14758282814642122597,
+        "filename": "Saf_Saving_Rates.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "As the concept of \"safe savings rates\" is not one-size-fits-all, Table 1 provides a brief introduction to show how the SAFEMIN savings rate varies based on assumptions about asset allocation, replacement rates, and the duration of the accumulation and decumulation phases. The most important feature of the table is the overwhelming importance of starting to save early. For the baseline 60/40 asset allocation, 30-year retirement, and 50 percent replacement rate, someone saving for 40 years can enjoy a SAFEMIN savings rate of 8.77 percent, compared with 16.62 percent for 30 years of saving and 35.91 percent for 20 years of saving. Also, SAFEMIN savings rates naturally increase as the retirement duration increases, but the table shows that the rate of increase is much less than observed for changing accumulation phase durations. From the baseline case, increasing the retirement length from 30 to 40 years causes the SAFEMIN savings rate to increase from 16.62 to 18.63 percent.\nIncreasing the replacement rate to 70 percent also leads to significant increases in SAFEMIN savings rates compared to the 50 percent baseline. And lastly, more aggressive asset allocations allow for a smaller SAFEMIN sav -ings rate, though this type of feature is generally true for studies based on U.S. historical data. This does not necessarily imply that higher stock allocations will be a good idea for conservative investors in the future.\nOn the issue of asset allocation, higher stock allocations have tended to provide higher expected wealth and a higher probability for reaching a particular wealth accumulation goal. However, Pfau (2010a and 2011a) demonstrates that when considering wealth accumulation in a utility maximizing framework that places more weight on avoiding extremely low wealth accumulations, risk-averse investors may favor decreasing stock allocations near retirement. Looking forward, financial planners and their clients must consider whether they will be comfortable using higher stock allocations based on the impressive and perhaps anomalous numbers found in past U.S. data, particularly as the United States is currently experiencing low dividend yields and high cyclically adjusted price-earnings multiples.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/497",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 53.9900016784668,
+                "t": 350.8999938964844,
+                "r": 212.3000030517578,
+                "b": 55.36006164550781,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                886
+              ]
+            },
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 223.27999877929688,
+                "t": 493.9000549316406,
+                "r": 377.94000244140625,
+                "b": 458.4400634765625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                887,
+                986
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/498",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 222.99000549316406,
+                "t": 454.7200622558594,
+                "r": 381.04998779296875,
+                "b": 304.89007568359375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                446
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/499",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 222.92999267578125,
+                "t": 298.9000549316406,
+                "r": 382.0799865722656,
+                "b": 55.36012268066406,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                723
+              ]
+            },
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 392.2799987792969,
+                "t": 493.7201232910156,
+                "r": 542.510009765625,
+                "b": 471.360107421875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                724,
+                798
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "SAFEMIN Savings Rates with Varied Assumptions"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14758282814642122597,
+        "filename": "Saf_Saving_Rates.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "This study can be interpreted as providing a resolution to the \"safe withdrawal rate paradox,\" which David Jacobs (2006) and Michael Kitces (2008) developed independently. Consider the following: at the start of 2008, Person A and Person B each have accumulated $1 million. Person A retires and with the 4 percent rule is permitted to withdraw an inflation-adjusted $40,000 for the entirety of her retirement. In 2008, both Person A and Person B experience a drop in their portfolio to $600,000. Person B retires in 2009, and the 4 percent rule suggests he can withdraw an inflation-adjusted $24,000. The paradox is that these seemingly similar individuals experience such different retirement outcomes.\nTo resolve the paradox, I suggest we shift the focus away from the safe withdrawal rate and toward the savings rate that will safely provide for the desired retirement expenditures. Had both of these individuals saved in accordance with the \"safe savings rate,\" they would both likely be able to withdraw the same desired amounts, even though they would be using different withdrawal rates.\nThis research provides a simple scenario to illustrate the principle of the \"safe savings rate.\" Introducing more realistic factors could either increase or decrease required savings rates. Safe savings rates could be lowered, for example, by extending the approach introduced by Guyton (2004), if one is prepared to follow dynamic strategies that either increase future savings rates, delay retirement, or decrease retirement expenditures in response to market conditions. As well, Pfau (2011b) demonstrates that long-term investors may be able to improve risk-adjusted returns by using a dynamic asset allocation strategy that responds to stock market valuations, and such an approach could possibly allow for reduced savings rates. Including other financial assets such as small-capitalization stocks, international stocks and bonds, Treasury Inflation-Protected Securities, and real estate, for example, provides more diversification and may lower required savings rates. Savers who already hold wealth at the beginning of their career can also enjoy lower savings rates (more generally, this factor can be applied for individuals wishing to adopt this approach when already in mid-career).",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/501",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 392.05999755859375,
+                "t": 441.7200012207031,
+                "r": 548.739990234375,
+                "b": 200.87002563476562,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                703
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/502",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 8,
+              "bbox": {
+                "l": 391.92999267578125,
+                "t": 194.72003173828125,
+                "r": 548.1800537109375,
+                "b": 57.850120544433594,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                390
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/508",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 53.93000030517578,
+                "t": 701.719970703125,
+                "r": 211.06005859375,
+                "b": 276.81011962890625,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                1194
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Conclusion"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14758282814642122597,
+        "filename": "Saf_Saving_Rates.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "On the other hand, the \"safe savings rate\" found here may be too low for reasons beyond the assumed career length and desired spending needs. For example, I excluded portfolio management fees to be consistent with most existing research, but simply introducing a fee of 1 percent of assets deducted at the end of each year would increase the baseline scenario's safe savings rate significantly from 16.62 percent to 22.15 percent. As well, many investors will wish to use life-cycle asset-allocation strategies that reduce the stock allocation based on age. Pfau (2010a and 2011a) shows the potential importance of these strategies in reducing risk during the accumulation phase, though Table 1 indicates that lower stock allocations will result in high required savings rates.\nRevisions to the safe savings rate must also be considered with respect to uncertainties about future salary and retirement spending needs. Individuals may wish to save more out of concern for the possibility that future disability or unemployment will inhibit future savings opportunities, or to otherwise plan for an even worse worst-case scenario for asset returns than provided thus far by history. The study also lowers the \"safe savings rate\" artificially by assuming a constant real salary for the baseline scenario. Most workers experience lower wages early in their career, which will lessen the chances for compounding returns, and if they wish to replace a certain percentage of an otherwise higher final salary, they will also require more savings.\nResearch is also needed to allow for variable savings rates designed to smooth consumption in the manner described by Kotlikoff (2008). The savings rate does not need to be fixed, as individuals can make projections for their future income, unique consumption needs such as raising children or paying for a home, and retirement expenditures. Allowing for consumption smoothing needs, these projections can be calibrated with a variable savings rate needed to fit the planned pattern of lifetime savings. Lastly, this research has implications for Monte Carlo analysis of retirement planning, as many simulations assume that asset returns are independent over time (not serially correlated). The historical data suggest that this assumption has not been the case, and research using actual historical return sequences may be better suited for long-term retirement planning studies.",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/509",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 54.16999816894531,
+                "t": 272.9001159667969,
+                "r": 213.17005920410156,
+                "b": 55.36024475097656,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                634
+              ]
+            },
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 223.17999267578125,
+                "t": 701.72021484375,
+                "r": 377.3300476074219,
+                "b": 653.3602294921875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                635,
+                777
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/510",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 223.05999755859375,
+                "t": 649.9002685546875,
+                "r": 380.91998291015625,
+                "b": 393.3603210449219,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                760
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/511",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 223.05996704101562,
+                "t": 389.7203369140625,
+                "r": 379.23004150390625,
+                "b": 81.36048889160156,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                880
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "Conclusion"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14758282814642122597,
+        "filename": "Saf_Saving_Rates.pdf",
+        "uri": null
+      }
+    }
+  },
+  {
+    "text": "Bengen, William P. 1994. \"Determining Withdrawal Rates Using Historical Data.\" Journal of Financial Planning 7, 4 (October): 171\u2013180. Bengen, William P. 2006. Conserving Client Portfolios During Retirement. Denver: FPA Press.\n- Bennett, Rob, and John Walter Russell. 2007. \"The Retirement Risk Evaluator.\" Available from www.passionsaving.com/retirement-calculator. html.\n- Guyton, Jonathan T. 2004. \"Decision Rules and Portfolio Management for Retirees: Is the 'Safe' Initial Withdrawal Rate Too Safe?\" Journal of Financial Planning 17, 10 (October): 54\u201362. Jacobs, David B. 2006. \"Is Failure an Option? Designing a Sound Withdrawal Strategy.\" Unpublished draft paper (October).\n- Kitces, Michael E. 2008. \"Resolving the Paradox\u2014 Is the Safe Withdrawal Rate Sometimes Too Safe?\" The Kitces Report (May).\n- Kotlikoff, Laurence J. 2008. \"Economics' Approach to Financial Planning.\" Journal of Financial Planning 21, 3 (March).\n- Pfau, Wade D. 2010a. \"Lifecycle Funds and Wealth Accumulation for Retirement: Evidence for a More Conservative Asset Allocation as Retire -ment Approaches.\" Financial Services Review 19, 1 (Spring): 59\u201374.\n- Pfau, Wade D. 2010b. \"An International Perspective on Safe Withdrawal Rates from Retirement Savings: The Demise of the 4 Percent Rule?\" Journal of Financial Planning 23, 12 (December): 52\u201361.\n- Pfau, Wade D. 2010c. \"Will 2000-Era Retirees Experience the Worst Retirement Outcomes in U.S. History? A Progress Report After 10 Years.\" Munich Personal RePEc Archive Paper #27107 (November).\n- Pfau, Wade D. 2010d. \"Predicting Sustainable Retirement Withdrawal Rates Using Valuation and Yield Measures.\" Munich Personal RePEc\nArchive Paper #27487 (December).\n- Pfau, Wade D. 2011a. \"The Portfolio Size Effect and Lifecycle Asset Allocation Funds: A Different Perspective.\" Journal of Portfolio Management 37, 3 (Spring): forthcoming.\n- Pfau, Wade D. 2011b. \"Revisiting the Fisher and Statman Study on Market Timing.\" Munich Personal RePEc Archive Paper #29448 (March).",
+    "meta": {
+      "schema_name": "docling_core.transforms.chunker.DocMeta",
+      "version": "1.0.0",
+      "doc_items": [
+        {
+          "self_ref": "#/texts/513",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 393.343994140625,
+                "t": 687.3759765625,
+                "r": 547.1599731445312,
+                "b": 627.8880004882812,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                225
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/514",
+          "parent": {
+            "cref": "#/groups/2"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 393.343994140625,
+                "t": 622.3759765625,
+                "r": 548.3599853515625,
+                "b": 577.9119873046875,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                143
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/515",
+          "parent": {
+            "cref": "#/groups/2"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 393.0,
+                "t": 570.3759765625,
+                "r": 548.0479736328125,
+                "b": 484.9519958496094,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                305
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/516",
+          "parent": {
+            "cref": "#/groups/2"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 393.343994140625,
+                "t": 479.3760070800781,
+                "r": 548.583984375,
+                "b": 445.9519958496094,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                122
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/517",
+          "parent": {
+            "cref": "#/groups/2"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 393.343994140625,
+                "t": 440.5199890136719,
+                "r": 534.8240356445312,
+                "b": 406.88800048828125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                118
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/518",
+          "parent": {
+            "cref": "#/groups/2"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 393.343994140625,
+                "t": 401.5199890136719,
+                "r": 548.5679931640625,
+                "b": 341.88800048828125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                205
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/519",
+          "parent": {
+            "cref": "#/groups/2"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 393.343994140625,
+                "t": 336.5199890136719,
+                "r": 548.2559814453125,
+                "b": 277.24798583984375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                191
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/520",
+          "parent": {
+            "cref": "#/groups/2"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 393.343994140625,
+                "t": 271.5199890136719,
+                "r": 548.7440185546875,
+                "b": 212.2480010986328,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                192
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/521",
+          "parent": {
+            "cref": "#/groups/2"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 393.343994140625,
+                "t": 206.52000427246094,
+                "r": 544.6640014648438,
+                "b": 174.89599609375,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                131
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/522",
+          "parent": {
+            "cref": "#/body"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "text",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 401.99200439453125,
+                "t": 167.45599365234375,
+                "r": 511.40802001953125,
+                "b": 159.95199584960938,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/523",
+          "parent": {
+            "cref": "#/groups/3"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 393.343994140625,
+                "t": 154.52000427246094,
+                "r": 538.1199951171875,
+                "b": 107.88800048828125,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                172
+              ]
+            }
+          ]
+        },
+        {
+          "self_ref": "#/texts/524",
+          "parent": {
+            "cref": "#/groups/3"
+          },
+          "children": [],
+          "content_layer": "body",
+          "meta": null,
+          "label": "list_item",
+          "prov": [
+            {
+              "page_no": 9,
+              "bbox": {
+                "l": 393.343994140625,
+                "t": 102.52000427246094,
+                "r": 539.8800048828125,
+                "b": 56.24800109863281,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "charspan": [
+                0,
+                132
+              ]
+            }
+          ]
+        }
+      ],
+      "headings": [
+        "References"
+      ],
+      "captions": null,
+      "origin": {
+        "mimetype": "application/pdf",
+        "binary_hash": 14758282814642122597,
+        "filename": "Saf_Saving_Rates.pdf",
+        "uri": null
+      }
+    }
+  }
+]
